@@ -7,7 +7,7 @@ export default function Header({ lang }: { lang: Lang }) {
     <header className="site-header">
       <nav className="bar" aria-label="Global navigation">
         <Link to="/" className="logo">
-          <img src="/logo.svg" alt="Level Read" />
+          <img src={`${import.meta.env.BASE_URL}logo.svg`} alt="Level Read" />
           <span className="logo-text">Level Read</span>
         </Link>
         <div className="nav">
@@ -48,7 +48,7 @@ export function Footer({ lang, onToggleLang }: { lang: Lang; onToggleLang: () =>
         <div className="cols">
           <div>
             <Link to="/" className="brand">
-              <img src="/logo.svg" alt="Level Read" />
+              <img src={`${import.meta.env.BASE_URL}logo.svg`} alt="Level Read" />
               <span>Level Read</span>
             </Link>
             <p className="tagline">{t('tagline', lang)}</p>
