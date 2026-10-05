@@ -6,10 +6,18 @@
 
 ```bash
 npm install
-npm run dev        # 打开终端里显示的地址（默认 http://localhost:5173）
+npm run dev        # 本地开发（默认 http://localhost:5173）
+npm run build && npm run preview   # 本地生产预览
 ```
 
-生产构建：`npm run build && npm run preview`。
+## 线上地址
+
+推送到 main 分支后 GitHub Actions 自动构建并部署到 GitHub Pages：
+**https://haoo-7.github.io/levelread-clone/**
+
+- 路由使用 HashRouter（`/#/news/level-1/...`），Pages 无需服务器配置
+- 每日定时任务（08:00）增量同步新文章后自动 commit + push，线上随之更新
+- 学习数据（生词本/进度）保存在各设备浏览器本地；跨设备可用生词本的导出/导入
 
 ## 功能对照
 
