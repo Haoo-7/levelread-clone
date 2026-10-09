@@ -154,7 +154,7 @@ export default function AudioBar({ mp3Url, paragraphs, lang }: Props) {
             return (
               <i
                 key={i}
-                style={{ height: `${Math.round(h * 100)}%`, background: on ? 'var(--accent)' : '#d6d3d1' }}
+                style={{ height: `${Math.round(h * 100)}%`, background: on ? 'var(--accent)' : 'var(--wave-idle, #d6d3d1)' }}
               />
             )
           })}

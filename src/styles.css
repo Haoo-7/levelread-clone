@@ -622,3 +622,146 @@ mark { background: #ffe9b8; border-radius: 3px; padding: 0 2px; }
   .article-cols .sidebar-col { width: 100%; margin-top: 40px; }
   .article-shell .article-cols .article-card2 { }
 }
+
+/* ===== mobile-only elements: hidden on desktop ===== */
+.mobile-tabbar { display: none; }
+.sparkle-icon { display: none; }
+.lang-toggle { display: none; }
+
+/* ===== mobile app-like dark theme (<= 768px only; desktop untouched) ===== */
+@media (max-width: 768px) {
+  :root {
+    --bg: #14161a;
+    --card: #22262c;
+    --line: #2f343c;
+    --text: #f2f2f2;
+    --text-2: #b6bcc5;
+    --text-3: #9aa1ab;
+    --muted: #7d848e;
+    --meta: #7d848e;
+    --accent-soft: #2b1c11;
+    --hover: #2a2f37;
+    --wave-idle: #454b54;
+  }
+
+  html, body { overflow-x: hidden; }
+  body { background: var(--bg); color: var(--text); -webkit-tap-highlight-color: transparent; }
+
+  /* --- top bar: search | Level Read | sparkle + lang --- */
+  .site-header { background: var(--bg); border-bottom: 1px solid var(--line); }
+  .site-header .bar { position: relative; height: 56px; padding: 0 14px; gap: 0; flex-wrap: nowrap; }
+  .site-header .nav { display: none; }
+  .logo {
+    position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
+    margin: 0; padding: 6px;
+  }
+  .logo img { display: none; }
+  .logo .logo-text { font-size: 18px; font-weight: 600; color: var(--text); }
+  .header-right { width: 100%; gap: 14px; }
+  .search-icon { margin-right: auto; color: var(--text-2); padding: 8px; }
+  .search-icon svg { width: 22px; height: 22px; }
+  .avatar { display: none; }
+  .sparkle-icon { display: inline-flex; align-items: center; color: var(--accent); padding: 8px; }
+  .sparkle-icon svg { width: 22px; height: 22px; }
+  .lang-toggle {
+    display: inline-flex; align-items: center; justify-content: center;
+    min-width: 34px; height: 28px; padding: 0 9px;
+    border: 1px solid var(--line); border-radius: 999px;
+    background: var(--card); color: var(--text-2);
+    font-size: 13px; font-weight: 600;
+  }
+
+  /* --- bottom tab bar --- */
+  .mobile-tabbar {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 100;
+    display: flex;
+    background: rgb(20 22 26 / 0.94);
+    -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px);
+    border-top: 1px solid var(--line);
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  .mobile-tabbar .tab {
+    flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 2px; padding: 8px 0 6px; min-height: 52px;
+    color: var(--muted); font-size: 11px; font-weight: 500;
+  }
+  .mobile-tabbar .tab svg { width: 24px; height: 24px; }
+  .mobile-tabbar .tab.active { color: var(--accent); }
+  .site-footer { display: none; }
+  main { padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
+
+  /* --- hardcoded light colors → dark --- */
+  .hero h1, .article-card h3, .featured h3, .stats-card .v,
+  .review-card .word, .review-row .w, .wtl-row .w { color: var(--text); }
+  .dd-menu button { color: var(--text-2); }
+  .dd-menu button:hover { background: var(--hover); color: var(--text); }
+  .word-row .def, .membership-card p.desc, .pagebar .info { color: var(--text-2); }
+  .membership-card .price { color: var(--muted); }
+  .skel, .audio-track { background: #3a4048; }
+  .key-btn:hover::after { background: var(--card); }
+  .seg .key-btn.on::after, .seg .key-btn.on:hover::after { background: #3a4048; }
+  .test-word.on { background: #16301f; color: #6ee7a0; }
+  mark { background: #6b5312; color: #ffe9b8; }
+  .review-row .senses, .wtl-row .senses { filter: none; }
+  .toast { background: #3a4048; }
+
+  /* --- page shells --- */
+  .page-shell { padding: 16px 12px 40px; gap: 32px; }
+  .container, .container-wide { padding: 0 14px; }
+  .section { margin: 28px 0; }
+
+  /* --- news card: date + reads on one line, full-width 16:9 cover, 3 level buttons --- */
+  .grid-collage { gap: 2px; margin-bottom: 24px; }
+  .grid-collage > * { padding: 16px 14px; }
+  .news-card {
+    display: grid; grid-template-columns: 1fr auto; align-items: start;
+    background: transparent; height: auto;
+  }
+  .news-card .body { display: contents; }
+  .news-card .foot { display: contents; }
+  .news-card .cover-wrap, .news-card h2, .news-card .summary, .news-card .levels { grid-column: 1 / -1; }
+  .news-card img.cover { aspect-ratio: 16 / 9; border-radius: 12px; }
+  .news-card .cover-link { border: none; border-radius: 12px; }
+  .news-card .cover-link:hover { background: transparent; }
+  .news-card .date { grid-row: 2; margin-top: 14px; font-size: 13px; color: var(--muted); }
+  .news-card .reads { grid-row: 2; margin-top: 14px; font-size: 13px; color: var(--muted); text-align: right; }
+  .news-card h2 { margin-top: 8px; font-size: 20px; font-weight: 700; color: var(--text); }
+  .news-card .summary { margin-top: 6px; font-size: 14px; color: var(--text-3); }
+  .news-card .levels { display: flex; gap: 10px; margin-top: 14px; }
+  .news-card .levels a { flex: 1; min-width: 0; }
+  .news-card .levels .key-btn { width: 100%; height: 44px; }
+
+  /* --- home --- */
+  .wwrap:hover::before { opacity: 0; }
+
+  /* --- article page --- */
+  .article-cols { padding: 12px 10px 32px; gap: 28px; }
+  .article-card2 { padding: 16px 14px; border-radius: 14px; }
+  .article-title { font-size: 22px; }
+  .article-meta { font-size: 13px; gap: 10px; }
+  .article-body { margin-top: 24px; gap: 22px; }
+  .article-body .para { font-size: 17px; line-height: 1.8; }
+  .zh-para { font-size: 15px; }
+  .article-cover { border: none; border-radius: 12px; }
+  .pager2 { border-radius: 12px; }
+
+  /* word popup → bottom sheet, never off-viewport */
+  .word-pop {
+    left: 10px !important; right: 10px !important; width: auto !important;
+    top: auto !important; bottom: calc(84px + env(safe-area-inset-bottom)) !important;
+    transform: none !important;
+    max-height: min(58vh, 440px);
+    border-radius: 16px;
+  }
+
+  /* quiz: bigger tap targets */
+  .quiz-item { padding: 16px 14px; }
+  .quiz-opt { min-height: 44px; align-items: center; padding: 4px 0; font-size: 16px; }
+  .quiz-opt input { width: 22px; height: 22px; margin: 0; }
+
+  /* audio bar: compact, no overflow */
+  .audio-card { padding: 14px 12px; }
+  .audio-row { gap: 6px; }
+  .audio-wave { gap: 1px; }
+  .audio-wave i { min-width: 1px; }
+}

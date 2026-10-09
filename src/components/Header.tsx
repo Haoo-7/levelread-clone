@@ -1,5 +1,7 @@
 import { Link, NavLink } from 'react-router-dom'
 import { t, type Lang } from '../i18n'
+import { toggleLang } from '../lib/store'
+import { Icon } from './KeyButton'
 
 export default function Header({ lang }: { lang: Lang }) {
   const navClass = ({ isActive }: { isActive: boolean }) => (isActive ? 'active' : '')
@@ -35,6 +37,12 @@ export default function Header({ lang }: { lang: Lang }) {
             </svg>
           </Link>
           <Link to="/wordbook" className="avatar" title={t('nav_wordbook', lang)} />
+          <Link to="/about" className="sparkle-icon" aria-label={t('nav_plus', lang)} title={t('nav_plus', lang)}>
+            {Icon.sparkle}
+          </Link>
+          <button type="button" className="lang-toggle" onClick={toggleLang} aria-label="Switch language">
+            {lang === 'zh' ? 'EN' : '中'}
+          </button>
         </div>
       </nav>
     </header>

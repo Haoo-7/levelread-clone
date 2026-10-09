@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { HashRouter, Route, Routes, useLocation } from 'react-router-dom'
 import Header, { Footer } from './components/Header'
+import MobileTabBar from './components/MobileTabBar'
 import Home from './pages/Home'
 import NewsList from './pages/NewsList'
 import ArticlePage from './pages/Article'
@@ -43,6 +44,7 @@ export default function App() {
         </Routes>
       </main>
       <Footer lang={lang} onToggleLang={toggleLang} />
+      <MobileTabBar lang={lang} />
     </HashRouter>
   )
 }
