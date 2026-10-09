@@ -1,9 +1,17 @@
 import { Link, NavLink } from 'react-router-dom'
 import { t, type Lang } from '../i18n'
 import { toggleLang } from '../lib/store'
+import { ThemeIcon, cycleThemeMode, useThemeMode } from '../lib/theme'
 import { Icon } from './KeyButton'
 
+const THEME_LABEL: Record<string, { zh: string; en: string }> = {
+  light: { zh: '浅色主题', en: 'Light theme' },
+  dark: { zh: '深色主题', en: 'Dark theme' },
+  auto: { zh: '跟随系统', en: 'Follow system' },
+}
+
 export default function Header({ lang }: { lang: Lang }) {
+  const [mode] = useThemeMode()
   const navClass = ({ isActive }: { isActive: boolean }) => (isActive ? 'active' : '')
   return (
     <header className="site-header">
@@ -36,6 +44,15 @@ export default function Header({ lang }: { lang: Lang }) {
               <path d="m21 21-4.3-4.3" />
             </svg>
           </Link>
+          <button
+            type="button"
+            className="theme-toggle"
+            onClick={cycleThemeMode}
+            aria-label={THEME_LABEL[mode][lang === 'zh' ? 'zh' : 'en']}
+            title={`${THEME_LABEL[mode][lang === 'zh' ? 'zh' : 'en']} → ${THEME_LABEL[mode === 'light' ? 'dark' : mode === 'dark' ? 'auto' : 'light'][lang === 'zh' ? 'zh' : 'en']}`}
+          >
+            {ThemeIcon[mode]}
+          </button>
           <Link to="/wordbook" className="avatar" title={t('nav_wordbook', lang)} />
           <Link to="/about" className="sparkle-icon" aria-label={t('nav_plus', lang)} title={t('nav_plus', lang)}>
             {Icon.sparkle}

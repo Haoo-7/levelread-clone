@@ -10,6 +10,7 @@ import VocabularyTest from './pages/VocabularyTest'
 import WordBook from './pages/WordBook'
 import About from './pages/About'
 import { toggleLang, useApp } from './lib/store'
+import { initTheme } from './lib/theme'
 
 function ScrollToTop() {
   const { pathname } = useLocation()
@@ -22,6 +23,8 @@ function ScrollToTop() {
 export default function App() {
   const { state } = useApp()
   const lang = state.lang
+
+  useEffect(() => initTheme(), [])
 
   return (
     <HashRouter>

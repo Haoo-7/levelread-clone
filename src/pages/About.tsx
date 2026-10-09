@@ -2,6 +2,37 @@ import { t } from '../i18n'
 import type { Lang } from '../i18n'
 import { Link } from 'react-router-dom'
 import { KeyButton } from '../components/KeyButton'
+import { THEME_MODES, useThemeMode, type ThemeMode } from '../lib/theme'
+
+const MODE_LABEL: Record<ThemeMode, { zh: string; en: string }> = {
+  light: { zh: '浅色', en: 'Light' },
+  dark: { zh: '深色', en: 'Dark' },
+  auto: { zh: '跟随系统', en: 'System' },
+}
+
+function ThemeSettings({ lang }: { lang: Lang }) {
+  const [mode, setMode] = useThemeMode()
+  return (
+    <div className="card section" style={{ padding: '6px 20px' }}>
+      <div className="settings-row">
+        <span className="k">{lang === 'zh' ? '主题外观' : 'Appearance'}</span>
+        <span className="seg">
+          {THEME_MODES.map((m, i) => (
+            <KeyButton
+              key={m}
+              seg={i === 0 ? 'first' : i === THEME_MODES.length - 1 ? 'last' : 'mid'}
+              active={mode === m}
+              onClick={() => setMode(m)}
+              title={MODE_LABEL[m][lang === 'zh' ? 'zh' : 'en']}
+            >
+              {MODE_LABEL[m][lang === 'zh' ? 'zh' : 'en']}
+            </KeyButton>
+          ))}
+        </span>
+      </div>
+    </div>
+  )
+}
 
 export default function About({ lang }: { lang: Lang }) {
   return (
@@ -9,6 +40,8 @@ export default function About({ lang }: { lang: Lang }) {
       <div className="hero" style={{ paddingBottom: 0 }}>
         <h1 style={{ fontSize: 26 }}>{t('about_title', lang)}</h1>
       </div>
+
+      <ThemeSettings lang={lang} />
 
       <div className="card card-pad section">
         <h2 className="section-title">
