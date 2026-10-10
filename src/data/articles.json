@@ -1,5 +1,142 @@
 [
  {
+  "slug": "nasa-will-search-for-caves-on-the-moon",
+  "title": "NASA Will Search for Caves on the Moon",
+  "summary": "They could help future astronauts find shelter.",
+  "date": 1791590400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1790867453906-cover.png",
+  "originalUrl": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+  "reads": 1873,
+  "levels": {
+   "1": {
+    "content": "NASA has chosen new projects for a future Moon Base. One project will look below the Moon's surface for natural tunnels called lava tubes. These tunnels may be places where astronauts could find shelter.\n\nThe Moon has very hot and very cold places. It also has harmful radiation and tiny space rocks that can hit the ground. A tunnel under the surface could give better protection. NASA will send an instrument to a place called Marius Hills Pit. It will scan below the ground to see if the pit leads to a large lava tube. NASA has not yet confirmed that there is a useful tunnel there. The project will help teams learn what is safe before people live there.",
+    "vocabulary": [
+     {
+      "word": "surface",
+      "definition": "the outside top layer of something"
+     },
+     {
+      "word": "shelter",
+      "definition": "a place that gives protection"
+     },
+     {
+      "word": "scan",
+      "definition": "to examine something carefully with a tool"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What will NASA's instrument do at Marius Hills Pit?",
+      "options": [
+       "It will bring people to live on the Moon immediately.",
+       "It will scan below the ground to see if the pit leads to a large lava tube.",
+       "It will build a finished house for astronauts."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/nasa-will-map-caves-on-the-moon-level-1.mp3"
+   },
+   "2": {
+    "content": "NASA has selected three new investigations to prepare for a sustained human presence at the Moon. One project, called GIMLI, will study the Marius Hills Pit. Its goal is to scan beneath the lunar surface and learn whether the pit connects to a large underground lava tube.\n\nLava tubes can form when the outside of flowing lava cools while lava continues moving inside. When the lava leaves, it can leave an empty tunnel. On the Moon, an underground space could protect future astronauts from extreme temperatures, harmful radiation, and micrometeoroids, which are very small space rocks.\n\nBut a lava tube is only a possibility until it is confirmed. NASA says GIMLI will hunt for subterranean lava tubes; it is not a plan to move astronauts into a cave soon. The information could change later habitat planning if a large, stable void is found.\n\nThe other new investigations will monitor hazards and study lunar ice and surface conditions. Together, they are meant to help NASA understand resources, risks, and safe operations before a long-term Moon Base is built.",
+    "vocabulary": [
+     {
+      "word": "sustained",
+      "definition": "able to continue for a long time"
+     },
+     {
+      "word": "subterranean",
+      "definition": "under the ground"
+     },
+     {
+      "word": "micrometeoroids",
+      "definition": "very small space rocks moving through space"
+     },
+     {
+      "word": "habitat",
+      "definition": "a place where people or animals can live"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How can a lava tube form?",
+      "options": [
+       "When astronauts dig a room with a shovel.",
+       "When moonlight freezes the surface into ice.",
+       "When the lava leaves, it can leave an empty tunnel."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What has NASA not yet confirmed about Marius Hills Pit?",
+      "options": [
+       "That astronauts need protection from radiation.",
+       "That the Moon has a surface.",
+       "whether the pit connects to a large underground lava tube."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/nasa-will-map-caves-on-the-moon-level-2.mp3"
+   },
+   "3": {
+    "content": "NASA selected three payload suites through its PRISM programme to help prepare for Moon Base, a future sustained lunar outpost. The investigations will study resources, environmental hazards, and natural shelters before NASA sends people to live and work there for longer periods.\n\nThe Geophysical Investigation for Mapping Lunar Interior, or GIMLI, will work at Marius Hills Pit. It will scan under the lunar surface to determine whether the pit opens into a large lava tube. Lava tubes are underground spaces created by past volcanic activity. NASA says a confirmed void could offer future astronauts ready-made protection from extreme temperatures, ionizing radiation, and micrometeoroid impacts.\n\nThat is a potential benefit, not a confirmed home. The project must first determine whether a large tube exists, and later planners would still need to assess its size, stability, access, and safety. Mapping a possible shelter is different from proving that people can live there.\n\nThe other payloads add context. LEMS-SP will monitor the lunar environment, including micrometeoroids and seismic events. DISCO will study ice in micro-cold traps and how the surface behaves during operations. NASA says these results will help reduce risks and support safe, long-term activity at the Moon Base.",
+    "vocabulary": [
+     {
+      "word": "payloads",
+      "definition": "instruments carried by a spacecraft for a task"
+     },
+     {
+      "word": "ionizing",
+      "definition": "having enough energy to damage living tissue"
+     },
+     {
+      "word": "stability",
+      "definition": "the ability to remain safe and not collapse or change"
+     },
+     {
+      "word": "seismic",
+      "definition": "connected with shaking in the ground"
+     },
+     {
+      "word": "operations",
+      "definition": "organized activities needed to do a job"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What will GIMLI try to determine at Marius Hills Pit?",
+      "options": [
+       "It will scan under the lunar surface to determine whether the pit opens into a large lava tube.",
+       "It will build a city under the Moon immediately.",
+       "It will measure weather in Earth's oceans."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What must planners still assess even if a large tube is found?",
+      "options": [
+       "Its size, stability, access, and safety.",
+       "Whether it can send radio messages to Earth.",
+       "Only the colour of its entrance."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What will LEMS-SP monitor?",
+      "options": [
+       "LEMS-SP will transport astronauts to Mars.",
+       "LEMS-SP will name all future Moon caves.",
+       "LEMS-SP will monitor the lunar environment, including micrometeoroids and seismic events."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/nasa-will-map-caves-on-the-moon-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "at-41-should-ronaldo-still-play-for-portugal",
   "title": "At 41, Should Ronaldo Still Play for Portugal?",
   "summary": "His camp exit and public apology have divided fans.",
