@@ -1,5 +1,142 @@
 [
  {
+  "slug": "chemists-choose-mirror-form",
+  "title": "Why Does a Drug’s Shape Matter?",
+  "summary": "The Nobel-winning work helps make useful medicines.",
+  "date": 1791676800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1791454143844-cover.png",
+  "originalUrl": "https://apnews.com/article/nobel-prize-chemistry-sweden-e92801a294ba29d5ff1fbbf63904c977",
+  "reads": 1487,
+  "levels": {
+   "1": {
+    "content": "Some molecules have two forms that look like mirror images. They are like a left hand and a right hand: similar, but they do not fit on top of each other. These forms can act differently in the body.\n\nOn October 7, the chemistry Nobel Prize went to Henri B. Kagan of France and Kenso Soai of Japan. Their work showed how a chemical reaction can help chemists make more of one mirror form than the other. This helps scientists make medicines with the form they want.\n\nThe work gives chemists useful tools. It does not fully explain why life first began to use one form more than the other.",
+    "vocabulary": [
+     {
+      "word": "molecules",
+      "definition": "Very small groups of atoms joined together."
+     },
+     {
+      "word": "reaction",
+      "definition": "A process in which chemicals change into other chemicals."
+     },
+     {
+      "word": "form",
+      "definition": "One version or shape of something."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What did Kagan and Soai’s work help chemists do?",
+      "options": [
+       "Their work showed how a chemical reaction can help chemists make more of one mirror form than the other.",
+       "Explain exactly how the first living things began.",
+       "Make every molecule have two different formulas."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/chemists-choose-mirror-form-level-1.mp3"
+   },
+   "2": {
+    "content": "A molecule can have two mirror-image forms. They contain the same atoms, but their shapes point in opposite ways, like left and right hands. A molecule’s shape can change how it interacts with other things. One version may smell like mint, while its mirror image may smell like caraway.\n\nThis difference matters in medicine. A drug molecule’s two forms can have different effects in the body. The two forms can have different effects in the body. So scientists need ways to make the form that can do the intended job.\n\nHenri B. Kagan, from France, and Kenso Soai, from Japan, shared the 2026 Nobel Prize in Chemistry on October 7. Kagan’s research showed that a reaction could favor one mirror form. Later, Soai developed a reaction. It could efficiently produce one form. The work gave chemists powerful tools for making selected molecules and designing medicines.\n\nLiving things favor one mirror form of certain molecules. The Nobel-winning research helps explain how chemistry can favor one form, but it does not answer every question about how life first developed this preference.2",
+    "vocabulary": [
+     {
+      "word": "opposite",
+      "definition": "Facing or pointing in a different direction."
+     },
+     {
+      "word": "interacts",
+      "definition": "Affects or acts together with something else."
+     },
+     {
+      "word": "intended",
+      "definition": "Planned or wanted for a particular purpose."
+     },
+     {
+      "word": "efficiently",
+      "definition": "In a way that works well without wasting much time or material."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why do drug makers care about a molecule’s mirror-image form?",
+      "options": [
+       "Only one form can exist outside a laboratory.",
+       "The two forms can have different effects in the body.",
+       "The two forms always have different atoms."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What did Soai’s later reaction make possible?",
+      "options": [
+       "It could make all molecules smell like mint.",
+       "It could explain how the first life began.",
+       "It could efficiently produce one form."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/chemists-choose-mirror-form-level-2.mp3"
+   },
+   "3": {
+    "content": "$25",
+    "vocabulary": [
+     {
+      "word": "essential",
+      "definition": "Needed or very important."
+     },
+     {
+      "word": "chirality",
+      "definition": "A property in which an object or molecule has a mirror image that cannot be placed exactly on top of it."
+     },
+     {
+      "word": "properties",
+      "definition": "Features or qualities of something."
+     },
+     {
+      "word": "pharmaceutical",
+      "definition": "Related to medicines and how they are made."
+     },
+     {
+      "word": "preference",
+      "definition": "A tendency to choose or use one thing more than another."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What is chirality?",
+      "options": [
+       "A process that changes a molecule into a gas.",
+       "Chirality means a mirror image cannot be placed exactly on top of the molecule.",
+       "A rule that all medicines must use two mirror forms."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "How did Kagan’s work contribute to the later research?",
+      "options": [
+       "It showed that life began in a laboratory reaction.",
+       "Kagan’s work in the 1980s showed that reactions could be designed to produce more of one mirror form.",
+       "It proved that all mirror forms work the same way."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What major question remains open?",
+      "options": [
+       "Whether chemists can make one mirror form of a molecule.",
+       "Whether mirror-image molecules can have different properties.",
+       "The question of how life first developed this preference remains open."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/chemists-choose-mirror-form-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "nasa-will-search-for-caves-on-the-moon",
   "title": "NASA Will Search for Caves on the Moon",
   "summary": "They could help future astronauts find shelter.",
