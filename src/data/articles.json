@@ -1,5 +1,279 @@
 [
  {
+  "slug": "a-volcano-makes-its-island-bigger",
+  "title": "A Volcano Makes Its Island Bigger",
+  "summary": "Lava added 32.8 hectares of land in Indonesia.",
+  "date": 1791792000000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1791124405284-cover.png",
+  "originalUrl": "https://news.tuoitre.vn/indonesia-detects-new-land-formations-from-anak-krakatau-eruptions-103261003163654755.htm",
+  "reads": 1286,
+  "levels": {
+   "1": {
+    "content": "Anak Krakatau is a volcano in Indonesia. In early September, it erupted for about 25 hours. Hot lava flowed toward the sea. The lava cooled and became hard rock.\n\nIndonesia's Geology Agency used satellite pictures to compare the island on August 8 and September 15. It said the volcano grew by 32.8 hectares, or about 81 acres. This means the island had more land after the eruption.\n\nLater satellite images showed two new pieces of land near the coast. Scientists are still checking what they are. They may be new eruption centers, or they may be piles of volcanic material. The new land is real, but its exact form is not yet certain.",
+    "vocabulary": [
+     {
+      "word": "lava",
+      "definition": "hot, melted rock that comes out of a volcano"
+     },
+     {
+      "word": "satellite",
+      "definition": "a machine in space that can take pictures of Earth"
+     },
+     {
+      "word": "eruption",
+      "definition": "an event when a volcano sends out lava, ash, or gas"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What remains uncertain about the two new pieces of land?",
+      "options": [
+       "Scientists are still checking what they are.",
+       "The eruption lasted for about 25 hours.",
+       "The volcano grew by 32.8 hectares."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/anak-krakatau-grows-after-eruption-level-1.mp3"
+   },
+   "2": {
+    "content": "Anak Krakatau, a volcano in Indonesia's Sunda Strait, changed the shape of its island after a long eruption in early September. The eruption ran from late September 4 to early September 6 and lasted about 25 hours. Lava flowed from the volcano toward the sea.\n\nWhen lava meets seawater, it cools and hardens into rock. The lava cooled and became hard rock. As more rock built up at the edge of the island, the coastline moved outward. Indonesia's Geology Agency said this process added 32.8 hectares, or about 81 acres, to the volcanic island.\n\nThe agency compared Sentinel satellite images from August 8 and September 15. The images helped scientists compare the island on August 8 and September 15. On September 23, images also showed two new land formations: one northwest and one southeast of the coast.\n\nThe formations were found 760 meters and 495 meters from Anak Krakatau's coast. Scientists confirmed that they exist, but they still need more data. The formations could be new eruption vents, where lava comes out, or piles of material left by the eruption.",
+    "vocabulary": [
+     {
+      "word": "coastline",
+      "definition": "the line where land meets the sea"
+     },
+     {
+      "word": "formations",
+      "definition": "new shapes or bodies of land that have formed"
+     },
+     {
+      "word": "vents",
+      "definition": "openings in a volcano where lava, gas, or ash can come out"
+     },
+     {
+      "word": "data",
+      "definition": "facts or information used to study something"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How did the lava help the island grow?",
+      "options": [
+       "The lava cooled and became hard rock.",
+       "The eruption lasted about 25 hours.",
+       "The agency compared satellite images."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What did the Sentinel images help scientists do?",
+      "options": [
+       "The images moved the coastline outward.",
+       "The images proved the formations were eruption vents.",
+       "The images helped scientists compare the island on August 8 and September 15."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/anak-krakatau-grows-after-eruption-level-2.mp3"
+   },
+   "3": {
+    "content": "Indonesia's Anak Krakatau volcano grew after a continuous eruption from late September 4 to early September 6. The episode lasted about 25 hours. Lava flowed from the crater toward the sea, where it cooled into solid rock. Indonesia's Geology Agency said the volcanic edifice, the body of the volcano, expanded by 32.8 hectares, about 81 acres.\n\nThe conclusion came from Sentinel satellite imagery. By comparing images from August 8 and September 15, the agency measured a larger land area around the volcano. This is a visible example of land being built by volcanism: molten rock reaches the coast, cools, and adds to the shoreline.\n\nImages from September 23 also showed two new land formations. One was about 760 meters northwest of Anak Krakatau's coastline; the other was about 495 meters southeast. Their line points through the main crater. Officials said the formations exist, but further analysis is needed to tell whether they are new eruption vents or deposits of erupted material.\n\nThe name Anak Krakatau means Child of Krakatau. The 1883 Krakatau eruption destroyed Danan and Perbuatan and part of Rakata, creating a caldera. Underwater activity began in 1927, and Anak Krakatau later became a permanent island above sea level. Its growth is real, but volcanic landscapes can also change again through erosion, collapse, and future eruptions.",
+    "vocabulary": [
+     {
+      "word": "crater",
+      "definition": "the bowl-shaped opening at the top or side of a volcano"
+     },
+     {
+      "word": "imagery",
+      "definition": "pictures, especially pictures collected by satellites"
+     },
+     {
+      "word": "volcanism",
+      "definition": "the activity and effects of volcanoes"
+     },
+     {
+      "word": "deposits",
+      "definition": "material that has been left in a place"
+     },
+     {
+      "word": "erosion",
+      "definition": "the slow wearing away of land by water, wind, or other forces"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What measurement did the Geology Agency report after the eruption?",
+      "options": [
+       "The new formations were permanent islands above sea level.",
+       "The volcanic edifice, the body of the volcano, expanded by 32.8 hectares, about 81 acres.",
+       "The main crater moved 760 meters northwest."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Why do officials still need further analysis of the new formations?",
+      "options": [
+       "Further analysis is needed to tell whether they are new eruption vents or deposits of erupted material.",
+       "Further analysis is needed to measure the 1883 caldera.",
+       "Further analysis is needed to find the August 8 satellite image."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What does the history of Anak Krakatau show about volcanic land?",
+      "options": [
+       "Volcanic landscapes stop changing after one eruption.",
+       "Volcanic landscapes always become permanent islands.",
+       "Volcanic landscapes can also change again through erosion, collapse, and future eruptions."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/anak-krakatau-grows-after-eruption-level-3.mp3"
+   }
+  }
+ },
+ {
+  "slug": "zheng-qinwen-returns-from-injury-to-make-beijing-history",
+  "title": "Zheng Qinwen Returns From Injury to Make Beijing History",
+  "summary": "She becomes the first Chinese woman to win the China Open singles title.",
+  "date": 1791763200000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1791728738718-cover.png",
+  "originalUrl": "https://www.wtatennis.com/news/4590546/zheng-qinwen-makes-history-with-china-open-wta-1000-title",
+  "reads": 1710,
+  "levels": {
+   "1": {
+    "content": "Zheng Qinwen had an elbow injury. She needed an operation and spent months away from tennis. She returned to the China Open in Beijing with a wild card, a special place in the competition. On Sunday, she faced Mirra Andreeva in the final.\n\nZheng won 7–5, 6–4. She is the first Chinese woman to win the women's singles title at the China Open. It is also her first title at this level of tennis. Her last title was in 2024.\n\nTickets for the final sold out. Some cinemas in China showed the match on big screens. Zheng said playing for home fans brought both support and pressure.",
+    "vocabulary": [
+     {
+      "word": "injury",
+      "definition": "Damage to a part of the body."
+     },
+     {
+      "word": "final",
+      "definition": "The last match that decides who wins a competition."
+     },
+     {
+      "word": "pressure",
+      "definition": "A feeling that people expect you to do well."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why was Zheng's win a first for China?",
+      "options": [
+       "She is the first Chinese woman to win the women's singles title at the China Open.",
+       "She is the first Chinese woman to return after an injury.",
+       "She is the first Chinese woman to play tennis in Beijing."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/zheng-qinwen-returns-from-injury-to-make-beijing-history-level-1.mp3"
+   },
+   "2": {
+    "content": "Zheng Qinwen's tennis career was interrupted by an elbow injury. She had surgery in 2025 and missed months. Her ranking fell. At this year's China Open in Beijing, Zheng got a special chance to play. She received a wild card, which gave her a place in the main competition.\n\nZheng reached Sunday's women's singles final against Mirra Andreeva, this year's French Open champion. Andreeva was the higher-ranked player, but Zheng won 7–5, 6–4. She saved three chances for Andreeva to take the first set. Then she won that set and took the second.\n\nThe result made Zheng the first Chinese woman to win the China Open singles title. It was also her first WTA 1000 title, one of the biggest types of titles on the women's tour. She had not won any tournament since Tokyo in 2024.\n\nThe final was sold out. Some cinemas around China showed the match live. Zheng had said that home fans gave her energy but also made her feel pressure. Her victory brought an injury comeback and a Beijing first together in one evening.",
+    "vocabulary": [
+     {
+      "word": "interrupted",
+      "definition": "Stopped for a time before continuing."
+     },
+     {
+      "word": "ranking",
+      "definition": "A player's position in an ordered list based on results."
+     },
+     {
+      "word": "competition",
+      "definition": "An event in which people try to win."
+     },
+     {
+      "word": "comeback",
+      "definition": "A return to success after a difficult period."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How did Zheng enter the main competition in Beijing?",
+      "options": [
+       "She entered because she had won the French Open.",
+       "She entered by winning the Tokyo tournament this year.",
+       "She received a wild card, which gave her a place in the main competition."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What made Zheng's Beijing result historic?",
+      "options": [
+       "She won the final without losing a single point.",
+       "The result made Zheng the first Chinese woman to win the China Open singles title.",
+       "She had never played in Beijing before."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/zheng-qinwen-returns-from-injury-to-make-beijing-history-level-2.mp3"
+   },
+   "3": {
+    "content": "Zheng Qinwen's first China Open title was also a comeback. She had right-elbow surgery in 2025, briefly returned in Beijing that year, then stopped playing again until February 2026. Her ranking later fell sharply. She needed a wild card to enter the main draw. That was her route back to the China Open this year.\n\nShe became the first Chinese player to reach a China Open women's singles final. This happened in Saturday's semifinal. Chinese players had lost all seven earlier semifinals at the event. On Sunday, Zheng faced Mirra Andreeva, who won the French Open this year. Zheng saved three set points in the opening set, then defeated Andreeva 7–5, 6–4. She became the first Chinese woman to win the tournament's singles title.\n\nThis was Zheng's first WTA 1000 title and her first tournament win since Tokyo in 2024. WTA 1000 events are among the highest-level tournaments on the women's tennis tour. The match's significance reached beyond the court. Final tickets sold out, and cinemas in China showed the match live for fans without seats.\n\nZheng had said her home crowd gave her motivation as well as pressure. Her win joined three stories: recovery after injury, a tournament first, and a difficult match played in front of people eager to see her succeed.",
+    "vocabulary": [
+     {
+      "word": "briefly",
+      "definition": "For a short time."
+     },
+     {
+      "word": "semifinal",
+      "definition": "A match whose winner moves on to the final."
+     },
+     {
+      "word": "defeated",
+      "definition": "Won a match against someone."
+     },
+     {
+      "word": "significance",
+      "definition": "The importance or meaning of something."
+     },
+     {
+      "word": "motivation",
+      "definition": "A reason or energy that helps someone act."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What was Zheng's route into the 2026 China Open main draw?",
+      "options": [
+       "She won the French Open first.",
+       "She entered automatically as the top seed.",
+       "She needed a wild card to enter the main draw."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "How did Zheng change the event's history before the final?",
+      "options": [
+       "She became the first Chinese player to reach a China Open women's singles final.",
+       "She won the event's first match ever.",
+       "She ended the tournament before Sunday."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What showed the scale of interest in Zheng's final?",
+      "options": [
+       "The stadium closed before the match began.",
+       "Only tennis players were allowed to watch the match.",
+       "Final tickets sold out, and cinemas in China showed the match live for fans without seats."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/zheng-qinwen-returns-from-injury-to-make-beijing-history-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "chemists-choose-mirror-form",
   "title": "Why Does a Drug’s Shape Matter?",
   "summary": "The Nobel-winning work helps make useful medicines.",
