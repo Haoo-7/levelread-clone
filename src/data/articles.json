@@ -1,5 +1,279 @@
 [
  {
+  "slug": "four-animals-chosen-for-future-british-banknotes",
+  "title": "Four Animals Chosen for Future British Banknotes",
+  "summary": "A puffin, owl, bumblebee and hedgehog will appear years from now.",
+  "date": 1791964800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1791726255260-cover.png",
+  "originalUrl": "https://www.bbc.com/news/articles/cwe8ld517ry3o",
+  "reads": 1337,
+  "levels": {
+   "1": {
+    "content": "The Bank of England has chosen four wild animals for new British banknotes. They are a puffin, a barn owl, a bumblebee and a hedgehog. A banknote is paper-like money that people can hold and spend. The animals will be the main pictures on a future set of notes.\n\nPeople helped make the choice. Almost 500,000 people shared their views in a public vote. The bank looked at these views before it picked the four animals. But you cannot find these animal notes in shops today. The notes are not ready yet. The bank still needs years to design, test and print them. It has not decided which animal will go on each note.",
+    "vocabulary": [
+     {
+      "word": "banknote",
+      "definition": "A piece of money that people can hold and spend."
+     },
+     {
+      "word": "vote",
+      "definition": "A way for people to say which choice they want."
+     },
+     {
+      "word": "design",
+      "definition": "To plan how something will look and work."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What is true about the new animal banknotes now?",
+      "options": [
+       "Each animal already has its own note value.",
+       "The notes are not ready yet.",
+       "The notes are already in shops today."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/four-animals-chosen-for-future-british-banknotes-level-1.mp3"
+   },
+   "2": {
+    "content": "Four kinds of wildlife have been chosen for the next Bank of England banknotes: the Atlantic puffin, barn owl, buff-tailed bumblebee and European hedgehog. The animals will be the main images on four different note values. The bank announced the decision on 8 October 2026.\n\nThe choice followed a public consultation. Nearly 500,000 people responded to a list of 18 animals. The owl, bee and hedgehog led their own groups. The puffin was picked as the most popular sea animal, adding life from Britain's coast to the set. The bank made the final choice using the public's views. The public helped choose the animals, but the bank made the final decision.\n\nThe images are part of a wider redesign that will add new security features. The bank has not said which animal will appear on the £5, £10, £20 or £50 note. The bank has not decided which animal will appear on each note. Designing and testing the notes will take years, so these pictures are a plan for the future, not money people can spend now.",
+    "vocabulary": [
+     {
+      "word": "consultation",
+      "definition": "A process that asks people for their views before a decision."
+     },
+     {
+      "word": "responded",
+      "definition": "Gave an answer or opinion."
+     },
+     {
+      "word": "security",
+      "definition": "Protection that helps make the notes hard to copy."
+     },
+     {
+      "word": "redesign",
+      "definition": "A new version of an existing design."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Who made the final choice of the four animals?",
+      "options": [
+       "The public directly assigned an animal to each note value.",
+       "Wildlife experts alone chose the four winners.",
+       "The bank made the final choice using the public's views."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What is still unknown about the four animals?",
+      "options": [
+       "The bank has not decided which animal will appear on each note.",
+       "The bank has not chosen a wildlife theme yet.",
+       "The four animals have not been selected yet."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/four-animals-chosen-for-future-british-banknotes-level-2.mp3"
+   },
+   "3": {
+    "content": "The Bank of England has named the four animals that will become central images on its next series of banknotes: the Atlantic puffin, barn owl, buff-tailed bumblebee and European hedgehog. It announced the selection on 8 October 2026. One animal is planned for each of the four note values, but the bank has not assigned them yet.\n\nThe decision followed a consultation that received 478,531 responses. People chose from 18 native animals grouped as mammals, birds, and amphibians, insects and fish. The hedgehog, owl and bumblebee were the top choices in their groups. The puffin was selected because it was the most popular marine animal. Including it also brings Britain's coastline into the set and helps make the notes distinct.\n\nThe redesign has a practical aim: updated security features should make fake notes harder to produce. The animal images will replace historical figures on one side. A portrait of the monarch will remain. Other natural details may also appear. These are selected subjects, not finished banknote designs.\n\nThe bank still needs to develop, test and print the new series, a process expected to take years. It has not announced which animal goes on each value or an exact launch date. The first new note is expected in the next few years.",
+    "vocabulary": [
+     {
+      "word": "consultation",
+      "definition": "An organized process for gathering public views."
+     },
+     {
+      "word": "native",
+      "definition": "Naturally found in a particular place."
+     },
+     {
+      "word": "marine",
+      "definition": "Connected with the sea."
+     },
+     {
+      "word": "distinct",
+      "definition": "Easy to tell apart from other things."
+     },
+     {
+      "word": "monarch",
+      "definition": "A king or queen who is a country's head of state."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did the bank choose the puffin?",
+      "options": [
+       "The puffin won the mammal group of the vote.",
+       "The puffin was selected because it was the most popular marine animal.",
+       "The puffin was the only bird on the shortlist."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What will remain on the next series of notes?",
+      "options": [
+       "The old notes will remain the only legal money.",
+       "A portrait of the monarch will remain.",
+       "The historical figures will remain as the main images."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What has the bank announced about when the notes will appear?",
+      "options": [
+       "The first new note is expected in the next few years.",
+       "All four notes will appear in October 2026.",
+       "Each note has an exact launch date already."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/four-animals-chosen-for-future-british-banknotes-level-3.mp3"
+   }
+  }
+ },
+ {
+  "slug": "a-city-in-taiwan-changes-lights-to-see-more-stars",
+  "title": "A City in Taiwan Changes Lights to See More Stars",
+  "summary": "Over 400 streetlights changed as Lala Mountain gained a night-sky award.",
+  "date": 1791936000000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1791877679533-cover.png",
+  "originalUrl": "https://www.cna.com.tw/news/aloc/202610120106.aspx",
+  "reads": 1810,
+  "levels": {
+   "1": {
+    "content": "At night, city lights can hide the stars. The stars are still there. Bright lights from roads can shine up into the sky. Then the sky looks less dark.\n\nNear Taoyuan, a city in Taiwan, people changed lights around Lala Mountain. Workers put covers on some streetlights. They also turned some lights toward the ground. The city says it changed more than 400 public streetlights. Roads still need light so people can travel safely at night.\n\nOn October 12, the city said the mountain had won a special award for its night sky. It is Taiwan's first place to win this kind of award. With less light going up, people may see more stars.",
+    "vocabulary": [
+     {
+      "word": "stars",
+      "definition": "Small bright points that you can see in the night sky."
+     },
+     {
+      "word": "streetlights",
+      "definition": "Lights beside roads that help people see at night."
+     },
+     {
+      "word": "award",
+      "definition": "Something given to show that a person or place has done well."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Where did workers point some lights?",
+      "options": [
+       "They pointed them toward the sky.",
+       "They pointed them toward the ground.",
+       "They pointed them toward the stars."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-city-in-taiwan-changes-lights-to-see-more-stars-level-1.mp3"
+   },
+   "2": {
+    "content": "On October 12, officials in Taoyuan, Taiwan, said Lala Mountain had been designated an Urban Night Sky Place by DarkSky International. It is the first place in Taiwan and the third in Asia in this specific category. Taiwan already has a certified Dark Sky Park, so the claim does not mean this is its first dark-sky site of any kind.\n\nIn and near cities, outdoor lighting can spill upward and make faint stars hard to see. Taoyuan added shields to, or adjusted the angle of, more than 400 public streetlights around the mountain. These changes direct more light toward the ground where it is useful, while reducing light sent into the sky.\n\nThe designated area includes Indigenous communities and other homes. Officials spoke with residents because safer roads and daily needs still matter after dark. The city also held lighting workshops and trained stargazing guides. The project shows a practical answer to light pollution: improve where lights shine, rather than switch them all off.",
+    "vocabulary": [
+     {
+      "word": "designated",
+      "definition": "Officially given a particular name or status."
+     },
+     {
+      "word": "shields",
+      "definition": "Covers that stop light from shining in unwanted directions."
+     },
+     {
+      "word": "residents",
+      "definition": "People who live in a particular place."
+     },
+     {
+      "word": "pollution",
+      "definition": "Something harmful added to the environment; here, too much unwanted light."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What is Taiwan's 'first' in this story?",
+      "options": [
+       "Its first Urban Night Sky Place.",
+       "Asia's first Urban Night Sky Place.",
+       "Its first dark-sky site of any kind."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How did the city change public streetlights?",
+      "options": [
+       "It added shields or adjusted their angles.",
+       "It turned off every outdoor light.",
+       "It moved road lights up into the sky."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-city-in-taiwan-changes-lights-to-see-more-stars-level-2.mp3"
+   },
+   "3": {
+    "content": "Taoyuan officials reported on October 12 that Lala Mountain had received DarkSky International's Urban Night Sky Place designation. The organization had notified the city, with a formal announcement expected on October 14. Taoyuan described the site as Taiwan's first in this category and Asia's third. That distinction is narrow: Taiwan's Hehuan Mountain already holds a different Dark Sky Park certification.\n\nThe category recognizes places in or near urban areas that preserve a meaningful night-sky experience despite surrounding artificial light. Excess light directed upward brightens the sky and makes fainter stars harder to see. Rather than remove lighting, Taoyuan fitted shields to or changed the angles of more than 400 public streetlights, directing illumination toward the ground.\n\nThe designated area includes Indigenous communities and other residential areas, so road safety and everyday access shaped the work. Officials held community meetings, lighting workshops and training for stargazing guides to build support. The aim was to reduce light pollution without leaving roads unlit.\n\nCertification shows that the site met a defined standard; it does not mean the city simply turned its lights off. The result offers a practical lesson for other places: useful lighting and a darker sky can coexist when light is aimed where people need it.",
+    "vocabulary": [
+     {
+      "word": "certification",
+      "definition": "Official recognition that a place has met stated requirements."
+     },
+     {
+      "word": "artificial",
+      "definition": "Made by people rather than occurring naturally."
+     },
+     {
+      "word": "illumination",
+      "definition": "Light falling on an area or object."
+     },
+     {
+      "word": "Indigenous",
+      "definition": "Belonging to peoples with long-standing roots in a place before later settlers."
+     },
+     {
+      "word": "coexist",
+      "definition": "Exist together at the same time."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why is the phrase 'Taiwan's first' limited here?",
+      "options": [
+       "Taiwan had no certified dark-sky sites before this one.",
+       "It was the first Urban Night Sky Place anywhere in Asia.",
+       "It is the first site in the Urban Night Sky Place category, not every dark-sky category."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What was the main purpose of changing the streetlights?",
+      "options": [
+       "To direct useful light downward while reducing upward spill.",
+       "To remove all lighting from roads near the mountain.",
+       "To make the night sky brighter for drivers."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why did officials work with local communities?",
+      "options": [
+       "They wanted residents to turn off every light at home.",
+       "Lighting changes had to respect road safety and daily life.",
+       "They wanted to stop all travel on local roads at night."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-city-in-taiwan-changes-lights-to-see-more-stars-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "seychelles-tortoises-outnumber-people",
   "title": "One Country Has More Giant Tortoises Than People",
   "summary": "About 183,000 live on Aldabra Atoll.",
