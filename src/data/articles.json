@@ -1,5 +1,279 @@
 [
  {
+  "slug": "bank-hacks-expose-customers-personal-data",
+  "title": "Bank Hacks Expose Customers’ Personal Data",
+  "summary": "Personal details can cause harm even without stolen money.",
+  "date": 1792051200000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1791125829948-cover.png",
+  "originalUrl": "https://www.reuters.com/legal/litigation/south-korea-finance-regulator-holds-emergency-meeting-over-bank-hacks-2026-10-02/",
+  "reads": 1092,
+  "levels": {
+   "1": {
+    "content": "South Korea's financial regulator held an emergency meeting after several banks reported cyberattacks. Hana Bank said personal information from 89 customers had leaked. The information included names, personal ID numbers, and phone numbers.\n\nHana Bank said financial information was not leaked. That is important, but personal data still matters. A criminal can use a name and phone number to send a scam message that looks real.\n\nPeople can also combine data from different leaks. One leak may have a phone number. Another may have an address or email. Together, these details can help someone pretend to be you. A data leak does not always mean money was taken, but it can create new risks.",
+    "vocabulary": [
+     {
+      "word": "regulator",
+      "definition": "an official organization that checks whether companies follow rules"
+     },
+     {
+      "word": "leaked",
+      "definition": "shared or released without permission"
+     },
+     {
+      "word": "combine",
+      "definition": "to join two or more things together"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What did Hana Bank say was not leaked?",
+      "options": [
+       "All personal information was not leaked.",
+       "Financial information was not leaked.",
+       "Names and phone numbers were not leaked."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-korean-bank-hacks-why-data-leaks-matter-level-1.mp3"
+   },
+   "2": {
+    "content": "South Korea's financial regulator held an emergency meeting after a series of reported cyberattacks on banks. It told financial institutions to inspect their systems' defenses against unauthorized access. Authorities were still investigating the attacks.\n\nHana Bank said personal information from 89 customers had leaked, including names, personal ID numbers, and phone numbers. The bank said financial information was not leaked. That can reduce one immediate danger, but it does not remove every risk.\n\nPersonal details can make a false text message or phone call look convincing. A criminal who knows your name may pretend to be your bank, delivery company, or another service. Details from several leaks can be combined into a more complete profile.\n\nA data breach does not automatically mean that a person will lose money. But it is a reason to be careful. If a company tells you about a leak, use its official app or website to check for advice. Do not trust an unexpected message just because it knows your name.",
+    "vocabulary": [
+     {
+      "word": "unauthorized",
+      "definition": "not allowed or approved"
+     },
+     {
+      "word": "breach",
+      "definition": "an event in which information is accessed or shared without permission"
+     },
+     {
+      "word": "convincing",
+      "definition": "likely to make someone believe something"
+     },
+     {
+      "word": "profile",
+      "definition": "a collection of information about a person"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What were financial institutions told to do?",
+      "options": [
+       "Inspect their systems' defenses against unauthorized access.",
+       "Close every bank branch immediately.",
+       "Stop telling customers about leaks."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why can personal details from several leaks be risky?",
+      "options": [
+       "They make all online messages safe.",
+       "They prove that money has already been taken.",
+       "Details from several leaks can be combined into a more complete profile."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-korean-bank-hacks-why-data-leaks-matter-level-2.mp3"
+   },
+   "3": {
+    "content": "South Korea's financial regulator held an emergency meeting after reported cyberattacks on several banks. It directed financial institutions to inspect their defenses against unauthorized access while authorities investigated. The reports did not establish every detail of the attacks or who was responsible.\n\nHana Bank said personal information from 89 customers had leaked, including names, personal ID numbers, and phone numbers. It said financial information was not leaked from the affected system. This matters, but a data breach does not necessarily mean that money was stolen.\n\nIdentity-related details can still be valuable to criminals. A name, phone number, address, or workplace can make a targeted scam look more believable. Details from several leaks can be combined into a more complete identity profile. The result may help someone impersonate a real company or person, even when no banking password or transaction record was exposed in one incident.\n\nThe right response is careful, not panic. If you receive a data-leak notice or an unexpected request, use a bank's official app or a number you find independently, not a link in an unexpected message. Never give a one-time code or password to an unsolicited caller. A reported breach is a warning to check information carefully, not proof that every affected customer has been defrauded.",
+    "vocabulary": [
+     {
+      "word": "defenses",
+      "definition": "systems or actions used to protect against harm"
+     },
+     {
+      "word": "necessarily",
+      "definition": "in every case or as a certain result"
+     },
+     {
+      "word": "targeted",
+      "definition": "aimed at a particular person or group"
+     },
+     {
+      "word": "impersonate",
+      "definition": "to pretend to be another person or organization"
+     },
+     {
+      "word": "unsolicited",
+      "definition": "not asked for or expected"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the report about Hana Bank's leak not necessarily mean?",
+      "options": [
+       "Every bank in the world was hacked.",
+       "A data breach does not necessarily mean that money was stolen.",
+       "Personal information has no value to criminals."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Why can separate data leaks increase risk?",
+      "options": [
+       "They always reveal a banking password.",
+       "Details from several leaks can be combined into a more complete identity profile.",
+       "They make customer information disappear."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What is one safer way to check an unexpected request?",
+      "options": [
+       "Use a bank's official app or a number you find independently, not a link in an unexpected message.",
+       "Assume every message that uses your name is real.",
+       "Reply with a one-time code to prove your identity."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-korean-bank-hacks-why-data-leaks-matter-level-3.mp3"
+   }
+  }
+ },
+ {
+  "slug": "south-korean-ship-sails-to-europe-through-the-arctic",
+  "title": "South Korean Ship Sails to Europe Through the Arctic",
+  "summary": "Its 50-day round trip tested a shorter but uncertain route.",
+  "date": 1792022400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1791849224319-cover.png",
+  "originalUrl": "https://www.reuters.com/world/china/south-korea-completes-arctic-europe-commercial-voyage-eyes-regular-service-2026-10-11/",
+  "reads": 1528,
+  "levels": {
+   "1": {
+    "content": "A ship from South Korea went to Europe by sea. It did not take the usual way south. It went north through the Arctic, a very cold area near the top of Earth. The ship carried large boxes of goods.\n\nIt left Busan, a city in South Korea, on August 22. It stopped at three ports in Europe. Then it came home. It reached Busan again on October 11. The whole trip there and back took 50 days. Fifty days was not the time for one way.\n\nSouth Korean officials say this route may save time on some trips. But ice can slow a ship. Extra costs can also make this way hard to use often.",
+    "vocabulary": [
+     {
+      "word": "route",
+      "definition": "The way a ship or person goes from one place to another."
+     },
+     {
+      "word": "ports",
+      "definition": "Places by the sea where ships stop."
+     },
+     {
+      "word": "ice",
+      "definition": "Water that is very cold and has become hard."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How long did the whole trip take?",
+      "options": [
+       "It took 50 days to go and return.",
+       "It took 50 days to reach Europe.",
+       "It took 50 days to cross Arctic waters."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-korean-ship-sails-to-europe-through-the-arctic-level-1.mp3"
+   },
+   "2": {
+    "content": "South Korea's PanStar Acro has completed the country's first commercial round trip between Busan and Europe through Arctic waters. It sailed from Busan on August 22, called at Felixstowe in Britain, Rotterdam in the Netherlands, and Gdansk in Poland, and returned to Busan on October 11. The complete journey took 50 days; that figure is for the trip out and back, not for the crossing to Europe alone.\n\nMost Asia–Europe ships use a southern route that passes through the Indian Ocean and the Suez Canal. South Korean authorities say a northern route could shorten typical voyage times by about one third. But the 50-day trial does not prove that regular services will save that much time. It was one journey under particular conditions.\n\nIce can force ships to slow down, while special insurance and extra fuel may raise costs. Schedules also need to be reliable for customers. The route follows Russia's northern coast, bringing political concerns alongside the practical ones. Officials hope to develop regular services by 2030, but the trial leaves open whether the route can work dependably.2",
+    "vocabulary": [
+     {
+      "word": "route",
+      "definition": "A planned path from one place to another."
+     },
+     {
+      "word": "voyage",
+      "definition": "A long journey by sea."
+     },
+     {
+      "word": "insurance",
+      "definition": "Protection that helps pay for losses if something goes wrong."
+     },
+     {
+      "word": "reliable",
+      "definition": "Working as expected at the time people expect."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the 50-day figure describe?",
+      "options": [
+       "The time spent sailing only in Arctic waters.",
+       "The voyage from Busan to the first European port.",
+       "The complete trip to Europe and back to Busan."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why is regular Arctic service still uncertain?",
+      "options": [
+       "The ship did not visit any European ports.",
+       "The Suez Canal is in the Arctic.",
+       "Ice, costs, and schedules may make it difficult."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-korean-ship-sails-to-europe-through-the-arctic-level-2.mp3"
+   },
+   "3": {
+    "content": "$25",
+    "vocabulary": [
+     {
+      "word": "transit",
+      "definition": "The act of travelling through or across an area."
+     },
+     {
+      "word": "viability",
+      "definition": "The ability of a plan to work successfully in practice."
+     },
+     {
+      "word": "predictable",
+      "definition": "Likely to happen as expected, without major surprises."
+     },
+     {
+      "word": "seasonal",
+      "definition": "Changing with the seasons of the year."
+     },
+     {
+      "word": "corridor",
+      "definition": "A route that connects places and can carry regular movement."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What can the completed voyage establish by itself?",
+      "options": [
+       "A commercial round trip was completed through the Arctic.",
+       "The northern route has already saved one third of travel time.",
+       "The Arctic service is already dependable all year."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What did the cargo figures suggest about commercial viability?",
+      "options": [
+       "The ship left with less paying cargo than the operator sought.",
+       "The ship left with more paying cargo than the operator sought.",
+       "The operator found no cargo at all before departure."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why might a shorter Arctic path fail to become a faster scheduled service?",
+      "options": [
+       "European ports cannot receive container ships.",
+       "Ice, fuel, insurance, and schedules can offset the distance advantage.",
+       "The Suez Canal lies along Russia's Arctic coast."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-korean-ship-sails-to-europe-through-the-arctic-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "four-animals-chosen-for-future-british-banknotes",
   "title": "Four Animals Chosen for Future British Banknotes",
   "summary": "A puffin, owl, bumblebee and hedgehog will appear years from now.",
