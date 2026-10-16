@@ -1,5 +1,279 @@
 [
  {
+  "slug": "rats-make-a-special-sound-when-they-eat-chocolate",
+  "title": "Rats Make a Special Sound When They Eat Chocolate",
+  "summary": "The high sound may be linked to tasty food.",
+  "date": 1792137600000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1791125413822-cover.png",
+  "originalUrl": "https://www.earth.com/science/ultrasonic-calls-by-rats-offer-clues-to-how-animals-experience-pleasure/",
+  "reads": 1094,
+  "levels": {
+   "1": {
+    "content": "Rats make sounds that humans cannot hear. These are ultrasonic calls. Scientists in Japan listened to rats while they ate chocolate, a food the rats liked very much.\n\nThey found a special 40-kilohertz call. Its shape looked like an upside-down U on a sound picture. Nearly all of these calls happened within one second of the rats biting or chewing chocolate.\n\nThe call was much less common when the rats ate normal food. This may mean that the sound is linked to eating something tasty. But it does not prove that a rat is saying \"yum.\" The scientists recorded pairs of rats, so they could not always tell which rat made each call.",
+    "vocabulary": [
+     {
+      "word": "ultrasonic",
+      "definition": "at a frequency too high for humans to hear"
+     },
+     {
+      "word": "chewing",
+      "definition": "using the teeth to break food into smaller pieces"
+     },
+     {
+      "word": "linked",
+      "definition": "connected to something"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What could the scientists not always tell?",
+      "options": [
+       "They could not always tell which rat made each call.",
+       "They could not always tell whether rats have teeth.",
+       "They could not always tell whether humans can hear normal sounds."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/rats-make-a-special-sound-when-they-eat-chocolate-level-1.mp3"
+   },
+   "2": {
+    "content": "Rats use ultrasonic calls, sounds too high for humans to hear. Researchers in Japan recorded pairs of male rats while they ate chocolate. With a computer method, they identified a 40-kilohertz call whose line rose and fell like an upside-down U.\n\nThe call was closely timed to eating. In one experiment, 97.2% of the inverted-U calls came within one second of a bite or chewing. The rats made far more of these calls while eating chocolate than while eating regular food. The amount of food they ate was similar in the comparison.\n\nThe team also gave rats naloxone, a drug that blocks opioid receptors. The calls became less frequent. Opioid systems help regulate reward-related processes, so this result suggests that the calls may be linked to positive feelings during tasty eating.\n\nHowever, the study did not prove what a call means. Because two rats lived in each cage, the recordings could not show which individual rat was calling at a particular moment. The sounds may be useful clues, not a direct translation of rat thoughts.",
+    "vocabulary": [
+     {
+      "word": "ultrasonic",
+      "definition": "too high in frequency for human ears to hear"
+     },
+     {
+      "word": "identified",
+      "definition": "recognized or found after careful study"
+     },
+     {
+      "word": "frequent",
+      "definition": "happening often"
+     },
+     {
+      "word": "receptors",
+      "definition": "parts of cells that receive chemical signals"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What happened close to the rats' eating?",
+      "options": [
+       "The rats stopped eating all food.",
+       "Every sound was made before chocolate arrived.",
+       "97.2% of the inverted-U calls came within one second of a bite or chewing."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why could the recordings not give a direct translation of rat thoughts?",
+      "options": [
+       "The rats could hear the calls without a microphone.",
+       "The recordings could not show which individual rat was calling at a particular moment.",
+       "The calls were made by humans."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/rats-make-a-special-sound-when-they-eat-chocolate-level-2.mp3"
+   },
+   "3": {
+    "content": "Scientists want ways to study positive emotional states in animals that cannot describe their feelings. Researchers from the University of Fukui and other Japanese institutions studied ultrasonic vocalizations in male rats eating chocolate. A machine-learning method distinguished a 40-kilohertz, inverted-U-shaped call from other calls.\n\nThe new call was tightly linked in time to chocolate feeding: 97.2% occurred within one second of biting or chewing. It was also significantly more frequent during chocolate consumption than during regular chow eating, even though the rats ate similar amounts of the two foods. This makes a simple explanation less likely: that the sound is caused only by chewing.\n\nThe team gave the rats naloxone, which blocks opioid receptors. It reduced the calls during chocolate eating, and it also reduced chocolate consumption. This finding suggests that the body's opioid system helps regulate the calls, but it does not prove that each call measures pleasure alone.\n\nAn important limitation remains. Rats were housed and recorded in pairs, and the researchers could not identify the individual animal making each sound. Calls could relate to feeding, taste, social conditions, or other internal states. The study offers a possible non-invasive behavioral signal for future research, not a way to read a rat's mind.",
+    "vocabulary": [
+     {
+      "word": "vocalizations",
+      "definition": "sounds made by an animal or person"
+     },
+     {
+      "word": "distinguished",
+      "definition": "recognized as different from other things"
+     },
+     {
+      "word": "consumption",
+      "definition": "the act of eating or using something"
+     },
+     {
+      "word": "limitation",
+      "definition": "a fact that restricts what a study can show"
+     },
+     {
+      "word": "non-invasive",
+      "definition": "not involving entry into the body"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the comparison with regular chow help show?",
+      "options": [
+       "It proves that rats can speak human words.",
+       "It proves that every rat prefers chocolate.",
+       "This makes a simple explanation less likely: that the sound is caused only by chewing."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What happened after the rats received naloxone?",
+      "options": [
+       "The calls became louder than human speech.",
+       "The rats stopped producing all types of sound forever.",
+       "It reduced the calls during chocolate eating, and it also reduced chocolate consumption."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What is an important limitation of the study?",
+      "options": [
+       "The researchers could not identify the individual animal making each sound.",
+       "The study used no sound recordings.",
+       "The researchers did not know that rats can eat food."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/rats-make-a-special-sound-when-they-eat-chocolate-level-3.mp3"
+   }
+  }
+ },
+ {
+  "slug": "a-van-gogh-painting-hidden-for-60-years",
+  "title": "A Van Gogh Painting Hidden for 60 Years",
+  "summary": "A rare public viewing comes before a November auction in New York.",
+  "date": 1792108800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792077968206-cover.png",
+  "originalUrl": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et",
+  "reads": 1444,
+  "levels": {
+   "1": {
+    "content": "A painting by Vincent van Gogh was out of public view for more than 60 years. It was kept in a private collection. Now people can see it again. Hundreds saw it in Hong Kong.\n\nThe painting is called Chestnut Trees in Blossom. Van Gogh painted it in France in 1890, near the end of his life. It shows a tree full of flowers. The painting will go to an auction in New York in November. People bid at an auction. Experts think it could sell for about $180 million, but no one knows the final price yet.\n\nThe painting may go back into a private collection after the sale. Then it may disappear from public view again.",
+    "vocabulary": [
+     {
+      "word": "painting",
+      "definition": "A picture made with paint."
+     },
+     {
+      "word": "auction",
+      "definition": "An event where people offer money to buy things."
+     },
+     {
+      "word": "private",
+      "definition": "Belonging to a person or group rather than being open to everyone."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why could most people not see the painting for years?",
+      "options": [
+       "It was still being painted.",
+       "It was kept in a private collection.",
+       "It had been destroyed in a fire."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-van-gogh-painting-hidden-for-60-years-level-1.mp3"
+   },
+   "2": {
+    "content": "Vincent van Gogh's Chestnut Trees in Blossom has returned to public view after more than 60 years. The painting belongs to a private South American collection, so visitors had few chances to see it. Hundreds came to a showing in Hong Kong. It is due to be auctioned in New York on November 18.\n\nVan Gogh painted the flowering chestnut trees in May 1890 in Auvers-sur-Oise, a French town. He died only weeks later, aged 37. Works from this final period attract interest because they are closely connected to the end of his career. Many major Van Gogh paintings are already in museums and are rarely offered for sale.\n\nThe painting could sell for about $180 million. This is an estimate, not a sale price. If the bidding reaches that level, it could set a new auction record for Van Gogh. Buyers may value the painting's history, condition, rarity and long absence from the market. Yet a high price does not mean the public will keep seeing it. A new owner could place it in another private collection.",
+    "vocabulary": [
+     {
+      "word": "collection",
+      "definition": "A group of objects gathered and kept by a person or organisation."
+     },
+     {
+      "word": "auctioned",
+      "definition": "Offered for sale to the person who bids the most."
+     },
+     {
+      "word": "estimate",
+      "definition": "A careful guess about an amount or value."
+     },
+     {
+      "word": "rarity",
+      "definition": "The quality of being unusual or hard to find."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the $180 million figure describe?",
+      "options": [
+       "The price paid when Van Gogh painted the work.",
+       "The final price already paid in Hong Kong.",
+       "An estimated price before the auction."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why was the Hong Kong showing unusual?",
+      "options": [
+       "The painting had been kept out of public view for more than 60 years.",
+       "The painting had never been seen by its owners.",
+       "Van Gogh painted it in Hong Kong."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-van-gogh-painting-hidden-for-60-years-level-2.mp3"
+   },
+   "3": {
+    "content": "Vincent van Gogh's Chestnut Trees in Blossom has reappeared before a November 18 auction in New York. Held in a private Argentine collection, it had not been publicly exhibited for more than 60 years. Hundreds reportedly visited a brief showing in Hong Kong. Its return raises a question about public access: a famous work can exist for decades beyond most people's sight.\n\nVan Gogh painted the chestnut trees in May 1890 at Auvers-sur-Oise, shortly before his death at 37. He produced many paintings during his final weeks there. Works from this period rarely reach the market, partly because museums already hold many significant examples. The painting's long residence in one family adds to its unusual history.\n\nThe work is expected to fetch about $180 million. That figure is an estimate, not an outcome. If bidding reaches it, the sale could break Van Gogh's auction record. Reputation, condition, provenance and scarcity can affect an artwork's price; competition among buyers matters too. Van Gogh's modern market value contrasts with his limited commercial success while he was alive.\n\nThe Hong Kong display offers a rare chance to see the painting directly. An auction may reveal its price, but it will not guarantee future public access. A new buyer could lend it to museums or keep it private again.",
+    "vocabulary": [
+     {
+      "word": "exhibited",
+      "definition": "Shown to the public, often in a museum or gallery."
+     },
+     {
+      "word": "provenance",
+      "definition": "The record of who owned an artwork and where it has been."
+     },
+     {
+      "word": "scarcity",
+      "definition": "A situation in which little of something is available."
+     },
+     {
+      "word": "commercial",
+      "definition": "Related to selling and earning money."
+     },
+     {
+      "word": "guarantee",
+      "definition": "To make a result certain."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What is known about the painting's expected $180 million price?",
+      "options": [
+       "It is an estimate, not an outcome.",
+       "It is a guaranteed result of the auction.",
+       "It is the amount already paid by a museum."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why may paintings from Van Gogh's final period be rare on the market?",
+      "options": [
+       "They were all destroyed after his death.",
+       "No one knows when Van Gogh made them.",
+       "Museums already hold many significant examples."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What remains uncertain after the auction?",
+      "options": [
+       "Whether it was shown in Hong Kong.",
+       "Whether Van Gogh painted the work in 1890.",
+       "Whether the new owner will make it available to the public."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-van-gogh-painting-hidden-for-60-years-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "bank-hacks-expose-customers-personal-data",
   "title": "Bank Hacks Expose Customers’ Personal Data",
   "summary": "Personal details can cause harm even without stolen money.",
