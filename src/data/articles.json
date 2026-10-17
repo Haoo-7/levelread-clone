@@ -1,5 +1,142 @@
 [
  {
+  "slug": "why-is-kfc-switching-from-pepsi-to-coca-cola",
+  "title": "Why Is KFC Switching From Pepsi to Coca-Cola?",
+  "summary": "The US chain sees new drinks as part of its business comeback.",
+  "date": 1792195200000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792123120569-cover.png",
+  "originalUrl": "https://www.reuters.com/business/kfc-sign-coca-cola-beverage-partner-ditching-pepsico-wsj-reports-2026-10-15/",
+  "reads": 1901,
+  "levels": {
+   "1": {
+    "content": "KFC is changing its drinks in the United States. For almost 40 years, customers usually got Pepsi. Now KFC has chosen Coca-Cola as its new drinks partner. The change will start in January 2027. All US KFC restaurants should have Coca-Cola products by spring.\n\nWhy change? KFC wants more people to visit its restaurants. It plans to improve its food and offer new drinks. Working with Coca-Cola could help it make more drink choices and meals with drinks.\n\nThis change is only for the United States. Pepsi will still serve many KFC restaurants in other countries. Customers may get a different cola. KFC will also work with a new company.",
+    "vocabulary": [
+     {
+      "word": "customers",
+      "definition": "people who buy things from a business"
+     },
+     {
+      "word": "partner",
+      "definition": "a person or company you work with"
+     },
+     {
+      "word": "choices",
+      "definition": "different things you can choose"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Where is KFC changing its drinks partner?",
+      "options": [
+       "KFC is changing its partner in every country.",
+       "KFC is changing its partner only outside the United States.",
+       "KFC is changing its partner in the United States."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-is-kfc-switching-from-pepsi-to-coca-cola-level-1.mp3"
+   },
+   "2": {
+    "content": "KFC is ending a nearly 40-year drinks partnership with Pepsi in the United States. Announced on October 15, the switch to Coca-Cola will begin in January 2027. Coca-Cola products are expected at all US KFC restaurants by spring.\n\nThe long relationship began when PepsiCo bought KFC in 1986. PepsiCo separated its restaurant business in 1997, but the drinks partnership continued. Now KFC says its new deal supports a broader effort to refresh its US business, including its restaurants and menu.\n\nDrinks are part of that plan. At a test restaurant in Texas, KFC has tried iced coffee, boba drinks and milkshakes. It says Coca-Cola could help develop new beverages and food-and-drink combinations. A drinks contract can also involve equipment, delivery and marketing support, while giving the supplier access to many customers.\n\nThe financial details have not been made public. The change concerns US restaurants: Pepsi will still supply many KFC locations abroad. For customers, the biggest difference may simply be which cola comes with their chicken.",
+    "vocabulary": [
+     {
+      "word": "partnership",
+      "definition": "an arrangement in which people or companies work together"
+     },
+     {
+      "word": "beverages",
+      "definition": "drinks"
+     },
+     {
+      "word": "supplier",
+      "definition": "a company or person that provides goods to another business"
+     },
+     {
+      "word": "abroad",
+      "definition": "in or to another country"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why does KFC say it chose the new partnership?",
+      "options": [
+       "It means PepsiCo has bought KFC again.",
+       "It supports plans to refresh the business and develop drinks.",
+       "It allows KFC to stop selling drinks in its restaurants."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What happened after PepsiCo separated its restaurant business?",
+      "options": [
+       "All KFC restaurants began selling Coca-Cola.",
+       "The drinks partnership with KFC continued.",
+       "KFC stopped serving Pepsi immediately."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-is-kfc-switching-from-pepsi-to-coca-cola-level-2.mp3"
+   },
+   "3": {
+    "content": "KFC's decision to replace Pepsi with Coca-Cola in the United States ends a beverage relationship stretching back almost four decades. Announced on October 15, the transition begins in January 2027, with Coca-Cola products expected across all US KFC restaurants by spring. Financial terms remain undisclosed.\n\nThe partnership outlasted the ownership structure that created it. PepsiCo acquired KFC in 1986, gaining an outlet for its drinks. Although it separated its restaurant business in 1997, the beverage relationship endured. The new agreement therefore changes more than the label on a customer's cup.\n\nKFC presents the switch as part of its US comeback, alongside restaurant and menu improvements. A Texas test restaurant has already explored iced coffee, boba drinks and milkshakes. The company says Coca-Cola offers opportunities for beverage innovation and food-and-drink combinations. Such contracts may encompass fountain equipment, syrup, distribution and marketing support; suppliers gain repeated exposure to restaurant customers in return.\n\nFor Coca-Cola, access to KFC's 3,718 US restaurants is significant. For PepsiCo, the loss comes amid weaker demand in parts of its North American beverage business. However, the geographic scope matters: Pepsi will continue supplying many KFC restaurants outside the United States. The deal illustrates how a familiar consumer choice can reflect a wider strategy, without revealing the financial calculation behind that choice.",
+    "vocabulary": [
+     {
+      "word": "transition",
+      "definition": "the process of changing from one arrangement or state to another"
+     },
+     {
+      "word": "undisclosed",
+      "definition": "not made known to the public"
+     },
+     {
+      "word": "endured",
+      "definition": "continued to exist over a long period despite changes"
+     },
+     {
+      "word": "encompass",
+      "definition": "to include several different things within a larger arrangement"
+     },
+     {
+      "word": "scope",
+      "definition": "the range or extent covered by an action or agreement"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the history of the Pepsi partnership show?",
+      "options": [
+       "It continued even after the original shared ownership ended.",
+       "It ended as soon as PepsiCo separated its restaurant business.",
+       "It began only after the Coca-Cola agreement was announced."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why is the geographic scope of the deal important?",
+      "options": [
+       "The switch removes Pepsi from every fast-food restaurant worldwide.",
+       "The switch concerns US KFC restaurants, while many overseas locations will still use Pepsi.",
+       "The agreement applies only to the Texas test restaurant."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What remains unknown about the agreement?",
+      "options": [
+       "The financial terms of the deal.",
+       "Whether Coca-Cola supplies drinks.",
+       "Whether KFC has ever worked with Pepsi."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-is-kfc-switching-from-pepsi-to-coca-cola-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "rats-make-a-special-sound-when-they-eat-chocolate",
   "title": "Rats Make a Special Sound When They Eat Chocolate",
   "summary": "The high sound may be linked to tasty food.",
