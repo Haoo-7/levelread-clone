@@ -1,5 +1,142 @@
 [
  {
+  "slug": "did-tesla-really-make-a-flying-car",
+  "title": "Did Tesla Really Make a Flying Car?",
+  "summary": "A new Roadster flew briefly in a test without a person inside.",
+  "date": 1792281600000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792135652848-cover.png",
+  "originalUrl": "https://live.euronext.com/en/financial-news/teslas-new-roadster-turns-air-spacex-thrusters-wont-land-until-2028",
+  "reads": 1890,
+  "levels": {
+   "1": {
+    "content": "Tesla showed its new Roadster in Texas on October 15. The car left the ground. Jets of gas pushed it into the air. It moved above other cars, turned and came down again. No one was inside the car.\n\nSo, is it a flying car? It can fly for a short time. But it cannot fly between cities like a plane. The test showed a jump, not a long trip. Its use on public roads is unproven.\n\nThe Roadster is also made to be very fast on the ground. Tesla says it plans to start making the new car in 2028. For now, the flying version is a test, with many questions still to answer.",
+    "vocabulary": [
+     {
+      "word": "jets",
+      "definition": "Strong streams of gas or liquid that move quickly in one direction."
+     },
+     {
+      "word": "test",
+      "definition": "An activity done to see how well something works."
+     },
+     {
+      "word": "public",
+      "definition": "Open for ordinary people to use."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How long did the Roadster fly in the test?",
+      "options": [
+       "It did not fly at all.",
+       "It flew for a short time.",
+       "It flew for many hours."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/did-tesla-really-make-a-flying-car-level-1.mp3"
+   },
+   "2": {
+    "content": "On October 15, Tesla's redesigned Roadster briefly left the ground at a Texas test site. Gas jets lifted and turned the car before it landed. It crossed over other vehicles. There was no person inside during the flying demonstration.\n\nThe system uses gas stored at high pressure. When it escapes through nozzles, the gas pushes the car in the opposite direction. This is called thrust. Spacecraft use similar technology. But the Roadster has no wings or large helicopter blades. Its brief jumps are not the same as flying between cities.\n\nTesla also says the Roadster can accelerate from zero to 60 miles per hour in less than one second. That is a company claim, not a result for every future car. Tesla first announced the new Roadster in 2017 and now aims to begin production in 2028.\n\nThere is another limit: leaving the ground may bring aviation rules into play. It is unclear where an owner could legally use the flying system. For now, the Roadster is a sports car that has flown briefly in a controlled test.",
+    "vocabulary": [
+     {
+      "word": "redesigned",
+      "definition": "Changed in shape or construction from an earlier design."
+     },
+     {
+      "word": "nozzles",
+      "definition": "Small openings that direct a flow of gas or liquid."
+     },
+     {
+      "word": "thrust",
+      "definition": "A pushing force that moves an object."
+     },
+     {
+      "word": "aviation",
+      "definition": "The activity and rules involved in flying aircraft."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What pushed the Roadster into the air?",
+      "options": [
+       "Large helicopter blades above the roof.",
+       "Gas released through nozzles.",
+       "Wings fixed to each side of the car."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What remains unclear about using the flying system?",
+      "options": [
+       "Where an owner could legally use it.",
+       "Whether the test took place in Texas.",
+       "Whether the car used gas jets."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/did-tesla-really-make-a-flying-car-level-2.mp3"
+   },
+   "3": {
+    "content": "Tesla's new Roadster did leave the ground during an October 15 demonstration at SpaceX's Texas test site. A version equipped with cold-gas thrusters rose, turned in the air and landed. It also cleared a row of vehicles. No person rode inside during these maneuvers. The car flew briefly but has not demonstrated ordinary air travel.\n\nThe system stores gas under high pressure and releases it through nozzles. The escaping gas produces thrust in the opposite direction, allowing the car to lift and change orientation. A separate suction system helped it drive upside down on a ramp. Neither system makes it equivalent to an aircraft that can carry passengers over long distances.\n\nTesla says some versions can reach 60 miles per hour from rest in under one second. Independent tests have not established how production cars will perform. The second-generation Roadster was announced in 2017, with deliveries initially expected in 2020. Tesla now targets production in 2028.\n\nPractical use presents another challenge. Aviation experts told WIRED that a car leaving the ground would likely face approval and airspace rules. Elon Musk acknowledged that the flying feature might not be legal everywhere. The test therefore proves a short airborne maneuver under controlled conditions, while passenger use, regulatory approval and delivery remain open questions.",
+    "vocabulary": [
+     {
+      "word": "thrusters",
+      "definition": "Devices that produce a pushing force by expelling gas."
+     },
+     {
+      "word": "maneuvers",
+      "definition": "Planned movements that change an object's position or direction."
+     },
+     {
+      "word": "orientation",
+      "definition": "The direction or position in which something faces."
+     },
+     {
+      "word": "equivalent",
+      "definition": "Equal in function or meaning to something else."
+     },
+     {
+      "word": "regulatory",
+      "definition": "Related to official rules and approvals."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What did the demonstration establish?",
+      "options": [
+       "That production cars are already being delivered.",
+       "That owners can legally fly between cities today.",
+       "That the Roadster made a brief controlled airborne maneuver."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What was the suction system used for?",
+      "options": [
+       "Replacing all of the car's wheels.",
+       "Keeping the car in the air for hundreds of kilometres.",
+       "Helping the car drive upside down on a ramp."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Which issue remains unresolved for future owners?",
+      "options": [
+       "Whether the flying feature will be legally approved for use.",
+       "Whether the car left the ground during the demonstration.",
+       "Whether the event happened in Texas."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/did-tesla-really-make-a-flying-car-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "why-is-kfc-switching-from-pepsi-to-coca-cola",
   "title": "Why Is KFC Switching From Pepsi to Coca-Cola?",
   "summary": "The US chain sees new drinks as part of its business comeback.",
