@@ -1,5 +1,279 @@
 [
  {
+  "slug": "can-dry-ice-clear-southeast-asias-toxic-haze",
+  "title": "Can Dry Ice Clear Southeast Asia’s Toxic Haze?",
+  "summary": "Indonesia is testing a way to move smoke trapped near the ground.",
+  "date": 1792396800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792077445106-cover.png",
+  "originalUrl": "manual-input:user-provided-article-external-verification-waived",
+  "reads": 1106,
+  "levels": {
+   "1": {
+    "content": "Smoke from fires in Indonesia has made the air dirty. It has reached other countries. Some schools have closed.\n\nIndonesia is trying something new. Planes will drop dry ice over a smoky area. Dry ice is very cold, frozen gas. Officials hope it will help the smoke rise and move away. They do not yet know if it will work.\n\nThe dry ice will not stop the fires. Many fires are still burning. Some burn under the ground and are hard to reach. Indonesia is also trying to make rain to help stop them. For now, clean air is still a big problem.",
+    "vocabulary": [
+     {
+      "word": "smoke",
+      "definition": "The grey or dark air that comes from a fire."
+     },
+     {
+      "word": "planes",
+      "definition": "Vehicles that fly in the sky."
+     },
+     {
+      "word": "frozen",
+      "definition": "Made very cold and solid."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What can dry ice do to the fires?",
+      "options": [
+       "It will not stop the fires.",
+       "It has already stopped the fires.",
+       "It will stop all the fires."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/can-dry-ice-clear-southeast-asias-toxic-haze-level-1.mp3"
+   },
+   "2": {
+    "content": "For months, smoke from fires in Indonesia has spread across Southeast Asia. Schools have closed, and people have stayed indoors. On October 15, Indonesian authorities began a trial in South Sumatra. They planned to release about 1.5 tons of dry ice from planes. Dry ice is frozen carbon dioxide.\n\nThe experiment aims to move smoke, not put out fires. Usually, warm air rises and carries pollution upward. Sometimes warmer air sits above cooler air near the ground. This is called a temperature inversion. It acts like a lid and traps smoke below. Officials hope dry ice can cool the upper layer and let the trapped air rise. They hope visibility will improve, but the method is unproven.\n\nThe fires remain the main source of pollution. Many burn on peatland, where dried plant material can keep burning below the ground. Indonesia is also using cloud seeding to encourage rain and fight the fires. Dry ice may move smoke; cloud seeding aims to make the land wetter.",
+    "vocabulary": [
+     {
+      "word": "trial",
+      "definition": "A test to learn whether something works."
+     },
+     {
+      "word": "pollution",
+      "definition": "Harmful material in the air, water, or land."
+     },
+     {
+      "word": "traps",
+      "definition": "Keeps something in one place so it cannot easily leave."
+     },
+     {
+      "word": "peatland",
+      "definition": "Wet land containing partly decayed plants that can burn when dry."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What is the dry-ice trial mainly trying to do?",
+      "options": [
+       "Make peatland dry enough to farm.",
+       "Put out every forest fire directly.",
+       "Move smoke that is trapped near the ground."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why can smoke remain close to the ground?",
+      "options": [
+       "Because all warm air rises without stopping.",
+       "Because a warmer air layer can trap cooler air and smoke below.",
+       "Because planes keep the smoke below them."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/can-dry-ice-clear-southeast-asias-toxic-haze-level-2.mp3"
+   },
+   "3": {
+    "content": "Indonesia is testing whether dry ice released from aircraft can reduce the haze caused by forest and land fires. On October 15, authorities began a trial over South Sumatra, with planes prepared to release about 1.5 tons of frozen carbon dioxide. They hope to improve visibility from around one to at least five kilometres. This is a target, not a result.\n\nThe idea concerns a temperature inversion. Normally, warm air rises and carries smoke upward. During an inversion, a warmer layer sits above cooler surface air, limiting that upward movement. Officials hope dry ice will cool or disturb the upper layer enough for trapped smoke to rise. Whether this works at useful scale remains unknown. This is the country's first trial of the technique for haze.\n\nEven a temporary improvement would not extinguish the fires. Many burn on peatland: layers of partly decayed plants that can dry out after drainage and then burn beneath the surface. Cloud seeding aims to make rain and wet the land. Dry ice targets smoke already in the air; cloud seeding targets the conditions sustaining fires.\n\nThe haze has crossed borders, disrupting schools and travel. The trial may offer short-term relief, but preventing fires and protecting wet peatlands address the continuing source of the smoke.",
+    "vocabulary": [
+     {
+      "word": "visibility",
+      "definition": "How far people can see clearly through the air."
+     },
+     {
+      "word": "inversion",
+      "definition": "An unusual air arrangement in which warmer air lies above cooler air."
+     },
+     {
+      "word": "extinguish",
+      "definition": "To put out a fire completely."
+     },
+     {
+      "word": "drainage",
+      "definition": "The removal of water from land."
+     },
+     {
+      "word": "sustaining",
+      "definition": "Keeping something going over time."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What is the reported visibility figure of five kilometres?",
+      "options": [
+       "A target officials hope the trial can reach.",
+       "A result already measured after the trial.",
+       "The distance between the fires and Singapore."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How do the two air-based methods differ?",
+      "options": [
+       "Both methods directly remove underground peat fires.",
+       "Dry ice aims to move smoke; cloud seeding aims to encourage rain.",
+       "Cloud seeding moves smoke while dry ice creates rain."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What problem would remain even if the haze briefly clears?",
+      "options": [
+       "The fires would remain a source of smoke.",
+       "Planes would no longer be able to fly.",
+       "All peatlands would become permanently wet."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/can-dry-ice-clear-southeast-asias-toxic-haze-level-3.mp3"
+   }
+  }
+ },
+ {
+  "slug": "in-china-people-are-paying-to-feel-less-lonely",
+  "title": "In China, People Are Paying to Feel Less Lonely",
+  "summary": "Services bring meals, hospital help and conversation to older and younger customers.",
+  "date": 1792368000000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792078028738-cover.png",
+  "originalUrl": "https://www.bbc.com/news/articles/cm5ynwpzkgk1o",
+  "reads": 1936,
+  "levels": {
+   "1": {
+    "content": "In China, some people pay someone to visit them. Yang is 91 and lives near Beijing. After her husband died, her home felt very quiet. Now a small team brings her hot meals twice a day. The visitors also stay and talk with her.\n\nYoung people use these services too. Some pay a helper to go to hospital with them. Their family or friends may live far away. Others pay someone to walk with them in the mountains.\n\nThese visits can help people feel less lonely. But a paid helper cannot take the place of every close friend or family member.",
+    "vocabulary": [
+     {
+      "word": "visit",
+      "definition": "to go and see someone"
+     },
+     {
+      "word": "meals",
+      "definition": "food you eat at breakfast, lunch or dinner"
+     },
+     {
+      "word": "lonely",
+      "definition": "sad because you want someone to be with you"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What else do the visitors do for Yang?",
+      "options": [
+       "They help her find a job.",
+       "They take her to the mountains.",
+       "They stay and talk with her."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/in-china-people-are-paying-to-feel-less-lonely-level-1.mp3"
+   },
+   "2": {
+    "content": "In China, people are paying for company as well as practical help. Yang, a 91-year-old woman near Beijing, became lonely after her husband died. Wang Yingwei and his team now visit twice daily with hot meals. They also help with household problems and make time to talk.\n\nSuch support is useful when relatives live far away. Many young adults move to other cities for work or study, leaving older parents behind. Yet loneliness also affects younger people who have moved away from home.\n\nIn Beijing, 23-year-old Liu Yanyan works as a medical escort: someone paid to help customers during hospital visits. Some customers are in their twenties. Hiring help can feel easier than asking a friend to miss work. Elsewhere, people hire hiking partners for photographs and encouragement.\n\nPaid companionship offers clear expectations about the help provided. However, it raises questions about what friendship means. A reliable visit can improve someone's day, even though professional support cannot replace every close relationship.",
+    "vocabulary": [
+     {
+      "word": "relatives",
+      "definition": "people in your family"
+     },
+     {
+      "word": "escort",
+      "definition": "a person who goes with someone to guide or help them"
+     },
+     {
+      "word": "encouragement",
+      "definition": "words or actions that help someone feel more confident"
+     },
+     {
+      "word": "expectations",
+      "definition": "ideas about what will happen or what someone will do"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why might a young customer hire a medical escort?",
+      "options": [
+       "The customer can get help without asking a friend to miss work.",
+       "The customer must hire an escort before entering any hospital.",
+       "The escort can provide medical treatment instead of a doctor."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What limit does the article describe?",
+      "options": [
+       "Paid companions cannot help with practical problems.",
+       "Paid visitors can only help older people.",
+       "Professional support cannot replace every close relationship."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/in-china-people-are-paying-to-feel-less-lonely-level-2.mp3"
+   },
+   "3": {
+    "content": "In China, paid companionship is turning everyday acts of care into a growing business. For Yang, a 91-year-old widow near Beijing, the service includes hot meals, help with household problems and conversation. Wang Yingwei's team visits twice daily, offering support that may help older customers remain at home longer.\n\nThe demand extends beyond older people. As young adults relocate for employment or education, families become geographically separated, while newcomers can struggle to form local connections. In Beijing, medical escort Liu Yanyan accompanies customers through hospital visits; some are in their twenties. Hiring assistance can spare them the discomfort of asking a friend to miss work or feeling obliged to return a favour. Hiking companions offer another version, combining practical guidance with photographs and encouragement.\n\nResearchers suggest that a paid arrangement can feel less complicated than friendship because responsibilities and expectations are clearer. That predictability may be reassuring, although a defined service is different from an intimate relationship.\n\nThe broader question is whether commercial companionship supplements personal care or allows families and communities to withdraw from it. The services cannot replace every close relationship, and their wider social effects remain open to debate. Nevertheless, a dependable visitor who notices a problem and listens can make an immediate difference.",
+    "vocabulary": [
+     {
+      "word": "companionship",
+      "definition": "the comfort or connection that comes from spending time with another person"
+     },
+     {
+      "word": "relocate",
+      "definition": "to move to a different place to live or work"
+     },
+     {
+      "word": "obliged",
+      "definition": "feeling that you have a duty or social responsibility to do something"
+     },
+     {
+      "word": "predictability",
+      "definition": "the quality of being consistent enough for people to know what to expect"
+     },
+     {
+      "word": "supplements",
+      "definition": "adds to something to make it more complete or effective"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "According to the researchers, what can make paid companionship reassuring?",
+      "options": [
+       "It makes responsibilities and expectations more predictable.",
+       "It guarantees that a lasting friendship will develop.",
+       "It removes the need for any other personal relationships."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Which wider social question does the article leave unresolved?",
+      "options": [
+       "Whether older customers prefer photographs to meals.",
+       "Whether paid services add to personal care or encourage others to withdraw from it.",
+       "Whether medical escorts are qualified to replace hospital doctors."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What does the final paragraph support?",
+      "options": [
+       "Paid companionship has already solved loneliness across China.",
+       "Commercial services always weaken families and communities.",
+       "A dependable visitor can help even when the wider social effects are uncertain."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/in-china-people-are-paying-to-feel-less-lonely-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "did-tesla-really-make-a-flying-car",
   "title": "Did Tesla Really Make a Flying Car?",
   "summary": "A new Roadster flew briefly in a test without a person inside.",
