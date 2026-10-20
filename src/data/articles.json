@@ -1,5 +1,279 @@
 [
  {
+  "slug": "japan-has-more-foreign-residents-than-ever",
+  "title": "Japan Has More Foreign Residents Than Ever",
+  "summary": "New figures show about 4.28 million, as an aging population leaves businesses short of workers.",
+  "date": 1792483200000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792419932398-japan-torii-cover-v2.png",
+  "originalUrl": "https://www.koreatimes.co.kr/amp/world/20261017/japan-says-hosting-record-number-of-foreigners",
+  "reads": 1330,
+  "levels": {
+   "1": {
+    "content": "More people from other countries now live in Japan. On October 16, officials shared new numbers. About 4.28 million foreign residents lived there at the end of June 2026. Residents are people who live in a place. The number is the highest so far. It does not include tourists on short visits.\n\nJapan has more old people and fewer young people. Many businesses need more workers. People from other countries can help do these jobs. But living in Japan for a long time may become harder. AFP reports that Japan made some rules stricter in October. Businesses want better support for foreign residents.",
+    "vocabulary": [
+     {
+      "word": "residents",
+      "definition": "People who live in a place."
+     },
+     {
+      "word": "workers",
+      "definition": "People who do jobs."
+     },
+     {
+      "word": "support",
+      "definition": "Help that someone needs."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why do many businesses need foreign workers?",
+      "options": [
+       "They have too many workers.",
+       "They have too many tourists.",
+       "They have too few workers."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/japan-has-more-foreign-residents-than-ever-level-1.mp3"
+   },
+   "2": {
+    "content": "Japan has a record number of foreign residents, according to figures released on October 16. About 4.28 million lived in the country at the end of June 2026. That was about 156,000 more than at the end of 2025. Short-term visitors are not included.\n\nForeign residents account for roughly 3.5 percent of Japan's population. However, this is a count of residents, not just workers. Japan's overall population is getting older and smaller, making it difficult for businesses to find enough staff.\n\nAn immigration expert told AFP that Japan would continue to need workers from abroad. Businesses have asked the government for a wider policy to support foreign residents. At the same time, opposition to immigration has grown.\n\nAFP also reports that Japan tightened some permanent residency rules in October. Permanent residency allows people to live in a country without a fixed end date. The expert warned that tougher rules could make staying less attractive. Meeting demand for workers and supporting residents are connected challenges.",
+    "vocabulary": [
+     {
+      "word": "residents",
+      "definition": "People who live in a particular place."
+     },
+     {
+      "word": "staff",
+      "definition": "The people who work for an organization."
+     },
+     {
+      "word": "opposition",
+      "definition": "Disagreement with or resistance to an idea or policy."
+     },
+     {
+      "word": "permanent",
+      "definition": "Continuing without a planned end date."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the 4.28 million figure measure?",
+      "options": [
+       "Everyone who visited Japan during June.",
+       "Foreign residents, excluding short-term visitors.",
+       "Only people working in Japanese businesses."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Why might tougher residency rules concern businesses?",
+      "options": [
+       "They could discourage people from staying.",
+       "They guarantee more people will settle in Japan.",
+       "They remove every limit on short visits."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/japan-has-more-foreign-residents-than-ever-level-2.mp3"
+   },
+   "3": {
+    "content": "Japan's foreign resident population reached a record 4.28 million at the end of June 2026, according to figures announced on October 16. The total rose by approximately 156,000 from the end of 2025 and represented roughly 3.5 percent of the national population. It excludes short-term visitors and should not be interpreted as a foreign-worker count.\n\nThe increase comes as Japan's population ages and contracts. Immigration expert Toshihiro Menju told AFP that labor shortages extend from specialized professions to service jobs. In his assessment, automation and greater participation by women and older workers cannot fully compensate for the shortfall. That is an expert judgment about workforce needs, rather than a conclusion established by the resident total alone.\n\nBusinesses have called for a comprehensive approach to supporting foreign residents. Yet political resistance to immigration has intensified. AFP reports that Japan tightened permanent residency requirements in October, including income and Japanese-language expectations. Menju warned that more restrictive rules could weaken the incentive to remain, while low wages and a weak yen could also discourage longer stays.\n\nThe tension concerns both recruitment and retention: attracting workers does not automatically persuade them to build lasting lives in Japan. The figures establish a demographic milestone; they do not, by themselves, show how successfully residents are being supported.",
+    "vocabulary": [
+     {
+      "word": "contracts",
+      "definition": "Becomes smaller in size or extent."
+     },
+     {
+      "word": "compensate",
+      "definition": "Make up for a loss or an insufficient amount."
+     },
+     {
+      "word": "comprehensive",
+      "definition": "Covering the main relevant parts of an issue."
+     },
+     {
+      "word": "retention",
+      "definition": "The ability to keep people involved over time."
+     },
+     {
+      "word": "demographic",
+      "definition": "Relating to the size or characteristics of a population."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Which conclusion is supported by the resident figures alone?",
+      "options": [
+       "Japan has solved its labor shortages.",
+       "All foreign residents have jobs in Japan.",
+       "The foreign resident population reached a new high."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "How does the article present the limits of automation?",
+      "options": [
+       "As Menju’s assessment of workforce needs.",
+       "As proof derived solely from the resident count.",
+       "As a guarantee that machines will replace all workers."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What is the distinction between recruitment and retention?",
+      "options": [
+       "Recruitment attracts workers; retention encourages them to stay.",
+       "Recruitment tightens language rules; retention removes them.",
+       "Recruitment counts tourists; retention counts residents."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/japan-has-more-foreign-residents-than-ever-level-3.mp3"
+   }
+  }
+ },
+ {
+  "slug": "why-did-protests-in-france-turn-violent",
+  "title": "Why Did Protests in France Turn Violent?",
+  "summary": "Most people marched peacefully, but clashes and fires shifted attention away from their demands.",
+  "date": 1792454400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792421402590-cover.png",
+  "originalUrl": "https://www.reuters.com/world/students-trade-unions-yellow-vests-set-protest-across-france-2026-10-17/",
+  "reads": 2089,
+  "levels": {
+   "1": {
+    "content": "On October 17, many people marched in France. Students wanted better schools. Workers wanted better pay and help with high prices. Most people were peaceful. They wanted the government to listen.\n\nBut some groups fought with police. They started fires and broke into shops. Police used gas and water to control the crowds. In one city, a fire badly damaged the city hall. By October 19, police had arrested more than 2,400 people across France.\n\nOfficials blamed groups that wanted to fight. Other people questioned how police acted. There was no single agreed reason for the violence. The fires drew attention away from the problems behind the marches.",
+    "vocabulary": [
+     {
+      "word": "marched",
+      "definition": "Walked together to ask for change."
+     },
+     {
+      "word": "peaceful",
+      "definition": "Not fighting or hurting people."
+     },
+     {
+      "word": "damaged",
+      "definition": "Harmed or broken."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How did most people protest?",
+      "options": [
+       "They fought with police.",
+       "They set shops on fire.",
+       "They marched peacefully."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-did-protests-in-france-turn-violent-level-1.mp3"
+   },
+   "2": {
+    "content": "Hundreds of thousands of people protested across France on October 17. The Interior Ministry estimated 550,000 participants, while organizers put the figure near 800,000. Most marched peacefully, but smaller groups clashed with police, started fires and looted shops.\n\nStudents were demanding better school conditions, including more teachers and less crowded classrooms. Workers and trade unions raised concerns about wages, pensions, public services and living costs. These different complaints brought people together for a national protest.\n\nThe government blamed radical groups for much of the violence. Critics also questioned police tactics, including tear gas and water cannons. Injuries during earlier student protests had already caused anger. These competing accounts do not establish one explanation for every clash.\n\nA fire badly damaged the city hall in Limoges. By October 19, more than 2,400 people had been arrested nationwide. The prime minister asked some local authorities to introduce limited curfews where further violence was considered likely. The unrest shifted attention from protesters' demands to restoring order.",
+    "vocabulary": [
+     {
+      "word": "participants",
+      "definition": "People who take part in an event."
+     },
+     {
+      "word": "looted",
+      "definition": "Stole things during violence or disorder."
+     },
+     {
+      "word": "tactics",
+      "definition": "Methods used to achieve a particular result."
+     },
+     {
+      "word": "curfews",
+      "definition": "Rules requiring people to stay off the streets during certain hours."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did students and workers protest together?",
+      "options": [
+       "They all wanted schools to close permanently.",
+       "They had different concerns about schools and daily life.",
+       "They all agreed that public services were improving."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What does the article say about the causes of the clashes?",
+      "options": [
+       "Officials and critics offered different explanations.",
+       "The total number arrested explained every clash.",
+       "Only one explanation was accepted by everyone."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-did-protests-in-france-turn-violent-level-2.mp3"
+   },
+   "3": {
+    "content": "France's October 17 demonstrations united students, trade unions and other protesters around grievances over schools, incomes and public services. The Interior Ministry estimated nationwide participation at 550,000; organizers suggested roughly 800,000. Although most participants marched peacefully, smaller groups engaged in clashes, arson and looting.\n\nStudents had protested teacher shortages, overcrowded classrooms and deteriorating buildings. Workers challenged living costs, wages and pensions. Some Yellow Vest participants also joined the demonstrations. That movement began over fuel taxes in 2018 before broadening into concerns about inequality. France's tradition of mobilization helps explain the protests' scale, but does not establish why particular confrontations became violent.\n\nOfficials attributed much of the destruction to radical groups arriving prepared for confrontation. Critics questioned police methods, including tear gas and water cannons; injuries during earlier student demonstrations had already intensified anger. These competing accounts should not be mistaken for a single, settled explanation of every incident.\n\nA fire severely damaged Limoges's nineteenth-century city hall, and arrests nationwide exceeded 2,400 by October 19. The prime minister requested limited local curfews where further violence was judged likely. President Emmanuel Macron condemned the destruction and appealed for calm. The unrest redirected debate toward security, potentially obscuring the grievances that peaceful demonstrators had wanted the government to address.",
+    "vocabulary": [
+     {
+      "word": "grievances",
+      "definition": "Complaints about conditions considered unfair or unacceptable."
+     },
+     {
+      "word": "arson",
+      "definition": "The deliberate act of setting property on fire."
+     },
+     {
+      "word": "mobilization",
+      "definition": "The process of bringing people together to take collective action."
+     },
+     {
+      "word": "attributed",
+      "definition": "Identified something as the result or responsibility of a particular cause or actor."
+     },
+     {
+      "word": "obscuring",
+      "definition": "Making something harder to see, understand or notice."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does France’s protest tradition help explain?",
+      "options": [
+       "The reason every demonstrator supported violence.",
+       "The scale of public participation.",
+       "The exact responsibility for each fire."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Why does the article distinguish official and critical accounts?",
+      "options": [
+       "They prove that every confrontation had an identical cause.",
+       "They establish that no demonstrators marched peacefully.",
+       "They offer competing interpretations rather than a settled explanation."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "How can street violence affect the wider protest debate?",
+      "options": [
+       "It removes all disagreement about police tactics.",
+       "It guarantees that the original demands will be met.",
+       "It can shift attention from grievances to security."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-did-protests-in-france-turn-violent-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "can-dry-ice-clear-southeast-asias-toxic-haze",
   "title": "Can Dry Ice Clear Southeast Asia’s Toxic Haze?",
   "summary": "Indonesia is testing a way to move smoke trapped near the ground.",
