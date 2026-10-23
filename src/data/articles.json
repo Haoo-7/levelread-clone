@@ -1,5 +1,279 @@
 [
  {
+  "slug": "what-happens-when-a-city-hides-its-trains-underground",
+  "title": "What Happens When a City Hides Its Trains Underground?",
+  "summary": "Tainan plans green public space while keeping its historic station.",
+  "date": 1792742400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792118603460-cover.png",
+  "originalUrl": "https://focustaiwan.tw/society/202610150019",
+  "reads": 1056,
+  "levels": {
+   "1": {
+    "content": "A railway runs through Tainan, a city in Taiwan. The tracks make it hard to cross the city. People on foot or bikes cannot always go straight across. Now the city is moving its trains underground, below the streets.\n\nThe new line is expected to open on October 17. Later, workers will remove the old tracks. The city plans to use that space for trees and paths. People could walk or ride bikes there. The old station building will stay beside the new underground station.\n\nBut the work is not all finished. Opening the new line does not mean the green paths are ready. Changing the space above will take more time.",
+    "vocabulary": [
+     {
+      "word": "tracks",
+      "definition": "the two metal lines that trains move along"
+     },
+     {
+      "word": "underground",
+      "definition": "below the ground"
+     },
+     {
+      "word": "paths",
+      "definition": "small routes for people to walk or ride along"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Are the green paths ready when the new line opens?",
+      "options": [
+       "No, the green paths still need more work.",
+       "Yes, all the green paths are ready.",
+       "No, the city has no plans for green paths."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/what-happens-when-a-city-hides-its-trains-underground-level-1.mp3"
+   },
+   "2": {
+    "content": "In Tainan, Taiwan, a railway connects the city from north to south but makes travel between its eastern and western neighbourhoods difficult. Trains and the structures around the tracks create barriers for people walking or cycling. Moving the railway underground could help reconnect these areas.\n\nAn 8.23-kilometre underground section is expected to open on October 17. The project received approval in 2009. Eventually, it will remove 23 railway crossings and related structures. However, workers must still remove old tracks and restore roads after underground services begin.\n\nThe city plans to turn the former railway route into a green corridor about 30 metres wide, with walking and cycling paths and landscaped areas. It could link neighbourhoods, schools and public facilities. This remains a plan, rather than a finished park.\n\nMeanwhile, the historic station building, rebuilt in 1936, will remain beside the new underground station. Possible future uses include reading spaces and exhibitions. The change offers a chance to improve daily journeys while keeping a connection to local history.",
+    "vocabulary": [
+     {
+      "word": "barriers",
+      "definition": "things that block movement or make it difficult"
+     },
+     {
+      "word": "restore",
+      "definition": "to return something to a useful or good condition"
+     },
+     {
+      "word": "corridor",
+      "definition": "a long narrow area that connects different places"
+     },
+     {
+      "word": "exhibitions",
+      "definition": "public displays of objects or information for people to see"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why could moving the railway underground help the city?",
+      "options": [
+       "It would stop all trains from travelling through Tainan.",
+       "It could make travel between separated neighbourhoods easier.",
+       "It would move every resident closer to the station."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What is planned for the historic station building?",
+      "options": [
+       "It will be moved to another city.",
+       "It will be demolished to make space for the new line.",
+       "It will remain beside the new underground station."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/what-happens-when-a-city-hides-its-trains-underground-level-2.mp3"
+   },
+   "3": {
+    "content": "Tainan's railway illustrates how infrastructure can connect a region while dividing a city. Its north-south route has long supported transport, yet tracks, crossings and associated structures have complicated movement between eastern and western neighbourhoods. An 8.23-kilometre underground section, expected to open on October 17, could begin to change that relationship.\n\nApproved in 2009, the project will eventually eliminate 23 crossings and related structures. However, the first-stage opening is not equivalent to completing the urban transformation. Surface tracks must be dismantled, roads restored and pedestrian facilities improved. The full project is scheduled for completion in March 2031.\n\nTransport authorities plan a green corridor roughly 30 metres wide along the former railway route, incorporating walking and cycling paths and landscaped areas. It could connect neighbourhoods, schools and public facilities, although these benefits depend on subsequent work. The historic station building, rebuilt in 1936, will remain alongside the underground station; reading spaces and exhibitions are among the uses under discussion.\n\nThe challenge is therefore both spatial and cultural. Removing a physical barrier creates an opportunity for useful public space, but does not automatically deliver it. Retaining the old station also offers a way to connect daily travel with local history. The project's broader success will depend on what happens above ground after trains move below it.",
+    "vocabulary": [
+     {
+      "word": "infrastructure",
+      "definition": "the basic physical systems, such as railways and roads, that allow a place to function"
+     },
+     {
+      "word": "equivalent",
+      "definition": "equal in meaning, effect or value"
+     },
+     {
+      "word": "dismantled",
+      "definition": "taken apart in an organised way"
+     },
+     {
+      "word": "subsequent",
+      "definition": "happening after something else"
+     },
+     {
+      "word": "spatial",
+      "definition": "relating to how places or objects are arranged in space"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What distinction does the article make about the first-stage opening?",
+      "options": [
+       "It begins a change whose surface improvements still require work.",
+       "It means the historic station has already become an exhibition space.",
+       "It confirms that all surface improvements are complete."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How can the railway connect and divide at the same time?",
+      "options": [
+       "It connects the city culturally but has never supported transport.",
+       "It supports north-south transport but obstructs movement between eastern and western areas.",
+       "It links every neighbourhood equally but separates all trains from stations."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What will help determine the broader success of the project?",
+      "options": [
+       "Whether the first trains run underground without any future surface changes.",
+       "Whether the city removes all reminders of the railway.",
+       "Whether the released land becomes useful public space while history remains connected to daily life."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/what-happens-when-a-city-hides-its-trains-underground-level-3.mp3"
+   }
+  }
+ },
+ {
+  "slug": "ai-finds-old-website-flaws-prompting-urgent-fixes",
+  "title": "AI Uncovers Old Flaws, Sending Websites Offline Worldwide",
+  "summary": "Researchers report two serious weaknesses in PHP, software used to build many websites.",
+  "date": 1792713600000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792680275900-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1307,
+  "levels": {
+   "1": {
+    "content": "AI tools helped researchers find two old problems in PHP. PHP is software that helps many websites work. These problems stayed hidden for years, according to the report.\n\nThe problems could let attackers control some website computers and steal private information. This does not mean every website was attacked. Some organisations took websites offline to reduce the risk. Fixes are now available.\n\nWebsite owners should ask their hosting company or developer about the PHP fixes. Updating WordPress alone does not fix PHP. Most visitors do not need to act now. They should follow advice from services they use. They should also watch for fake messages about the problems.",
+    "vocabulary": [
+     {
+      "word": "hidden",
+      "definition": "Not seen or known about."
+     },
+     {
+      "word": "private",
+      "definition": "Not meant for everyone to see."
+     },
+     {
+      "word": "fake",
+      "definition": "Made to look real, but not real."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What needs its own security fix?",
+      "options": [
+       "Only WordPress.",
+       "Every visitor’s phone.",
+       "PHP."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/ai-finds-old-website-flaws-prompting-urgent-fixes-level-1.mp3"
+   },
+   "2": {
+    "content": "Researchers used AI to uncover two serious security flaws in PHP, according to the report. PHP runs on web servers and helps create pages for visitors. Many websites, including those built with WordPress, depend on it.\n\nThe researchers said the flaws had remained hidden for years. Under certain conditions, attackers could use them to control affected servers and steal sensitive data. This risk does not mean every website has been hacked. Some organisations temporarily took services offline as a precaution.\n\nEmergency fixes, called patches, were released. Security agencies urged operators to apply them quickly and consider taking websites offline if protection could not be added promptly. Updating WordPress or its plugins alone does not repair PHP itself. Owners whose websites are managed by others should ask their hosting company or developer whether the PHP fixes have been applied.\n\nMost visitors need no immediate action. However, they should follow security advice from affected services and watch for phishing messages. These try to trick people into sharing information. AI can help defenders find weaknesses, but it can also help attackers exploit them.",
+    "vocabulary": [
+     {
+      "word": "servers",
+      "definition": "Computers that provide websites or other services to users."
+     },
+     {
+      "word": "precaution",
+      "definition": "An action taken to reduce a possible risk."
+     },
+     {
+      "word": "patches",
+      "definition": "Software updates that fix problems."
+     },
+     {
+      "word": "phishing",
+      "definition": "Using deceptive messages to trick people into revealing information."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did some organisations take websites offline?",
+      "options": [
+       "To replace every visitor’s computer.",
+       "To reduce a possible security risk.",
+       "To show that all their data had been stolen."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What should an owner with a managed website ask?",
+      "options": [
+       "Whether visitors have updated their phones.",
+       "Whether the website has changed its colours.",
+       "Whether the PHP security fixes have been applied."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/ai-finds-old-website-flaws-prompting-urgent-fixes-level-2.mp3"
+   },
+   "3": {
+    "content": "AI-assisted research has exposed two longstanding vulnerabilities in PHP, prompting an international security response, according to the report. PHP runs on web servers and supports many websites, including WordPress-based platforms. The flaws concern the underlying language rather than merely an individual website plugin.\n\nResearchers at Wiz and Calif reported that, under suitable conditions, attackers could exploit the weaknesses to take control of affected servers and steal sensitive data. Some organisations temporarily suspended services as a precaution. Such shutdowns do not establish that those services were successfully compromised, and the reported risk should not be confused with confirmed data theft.\n\nEmergency patches were released, while security agencies urged operators to update promptly or consider temporary shutdowns when protection could not be applied quickly. Updating WordPress or its plugins alone cannot resolve flaws in PHP itself. Owners using managed services should ask their hosting provider or developer whether the PHP fixes have been installed.\n\nThe discovery illustrates AI's dual role in security: it can expose bugs that have escaped detection for years, but also accelerate attackers' development of offensive tools. Most ordinary users need no immediate action, although they should follow advice from affected services and remain alert to phishing messages exploiting publicity around the incident.",
+    "vocabulary": [
+     {
+      "word": "vulnerabilities",
+      "definition": "Weaknesses that could allow a system to be attacked."
+     },
+     {
+      "word": "underlying",
+      "definition": "Forming the basic layer on which something else depends."
+     },
+     {
+      "word": "compromised",
+      "definition": "Accessed or controlled without permission."
+     },
+     {
+      "word": "dual",
+      "definition": "Having two parts or roles."
+     },
+     {
+      "word": "offensive",
+      "definition": "Intended to attack rather than defend."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What can be concluded from a precautionary shutdown?",
+      "options": [
+       "An organisation is reducing a possible risk.",
+       "Every server has certainly been compromised.",
+       "Data theft has definitely been confirmed."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why is updating WordPress alone insufficient?",
+      "options": [
+       "PHP operates only on visitors’ personal devices.",
+       "The flaws affect PHP beneath the website software.",
+       "WordPress updates always remove all server protections."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What dual role does the reading attribute to AI?",
+      "options": [
+       "It helps find flaws and can accelerate attacks.",
+       "It replaces both website owners and visitors.",
+       "It causes every bug and automatically repairs it."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/ai-finds-old-website-flaws-prompting-urgent-fixes-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "are-skills-becoming-more-important-than-degrees",
   "title": "Are Skills Becoming More Important Than Degrees?",
   "summary": "Singapore's new framework encourages employers to assess abilities, without removing degree requirements.",
