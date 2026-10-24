@@ -1,5 +1,142 @@
 [
  {
+  "slug": "who-is-responsible-after-a-suspected-dog-attack",
+  "title": "Who Is Responsible After a Suspected Dog Attack?",
+  "summary": "A Hong Kong case shows why responsibility can be hard to prove.",
+  "date": 1792800000000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1791124955021-cover.png",
+  "originalUrl": "https://news.rthk.hk/rthk/en/component/k2/1870833-20260920.htm",
+  "reads": 1506,
+  "levels": {
+   "1": {
+    "content": "A 27-year-old woman died after a suspected dog attack in Yuen Long, Hong Kong, in September. Police said she was cycling home when dogs followed her. They said animals were believed to have caused her injuries.\n\nAfterward, officials caught eight unattended dogs nearby. Three had microchips, but their licences had expired. One registered keeper was prosecuted over a licence and failing to control a dog in public.\n\nThis does not prove which dog caused the woman's injuries. Authorities had not conclusively identified which dogs were responsible. When a dog has no clear owner nearby, who must keep people safe? A microchip shows registration, but the facts still need investigation.",
+    "vocabulary": [
+     {
+      "word": "unattended",
+      "definition": "without a person watching or controlling it"
+     },
+     {
+      "word": "microchips",
+      "definition": "small electronic devices placed under an animal's skin for identification"
+     },
+     {
+      "word": "responsible",
+      "definition": "having a duty to deal with something or its results"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What had authorities not conclusively identified?",
+      "options": [
+       "Authorities had not conclusively identified which dogs were responsible.",
+       "They had not learned that dogs can have microchips.",
+       "They had not found any dogs in the area."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/when-a-stray-dog-attacks-who-is-responsible-level-1.mp3"
+   },
+   "2": {
+    "content": "A fatal suspected dog attack in Yuen Long raised questions about stray dogs and responsibility. A 27-year-old cyclist was found with serious injuries after dogs followed her on September 19. Police said animal bites or claws were believed to have caused the injuries, but the cause of death needed further examination.\n\nDuring a five-day operation, officials caught eight unattended dogs nearby. Three were microchipped, but their licences had expired. One registered keeper was prosecuted for allegedly failing to keep a valid licence and control a dog in public. The prosecution did not identify which dog caused the death.\n\nA microchip links a dog to a registered keeper, but it may not show who was caring for the dog at the time of an incident. A dog may be abandoned, allowed to roam, or passed to another person without updated records.\n\nResponsibility depends on evidence about the dog, the people connected to it, and local law. Regular feeding can create a difficult question, but it does not automatically prove legal responsibility. Public safety and animal welfare both matter.",
+    "vocabulary": [
+     {
+      "word": "fatal",
+      "definition": "causing death"
+     },
+     {
+      "word": "prosecuted",
+      "definition": "formally accused in court of breaking a law"
+     },
+     {
+      "word": "incident",
+      "definition": "an event, often one that is unusual or serious"
+     },
+     {
+      "word": "evidence",
+      "definition": "facts or information used to show what happened"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What did officials find about three of the unattended dogs?",
+      "options": [
+       "None of the three had ever been registered.",
+       "All three were proved to have caused the death.",
+       "Three were microchipped, but their licences had expired."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why does a microchip not settle every responsibility question?",
+      "options": [
+       "A microchip proves that a dog is dangerous.",
+       "A microchip means a dog can never be abandoned.",
+       "A microchip links a dog to a registered keeper, but it may not show who was caring for the dog at the time of an incident."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/when-a-stray-dog-attacks-who-is-responsible-level-2.mp3"
+   },
+   "3": {
+    "content": "Two fatal dog cases in Hong Kong in August and September renewed debate about safety, ownership, and stray animals. In the Yuen Long case, police said a 27-year-old cyclist was chased by dogs and later died. They believed animals caused her injuries, but the cause of death still needed further examination in the first report.\n\nThe Agriculture, Fisheries and Conservation Department and police later caught eight unattended dogs. Three had microchips but expired licences. One registered keeper was prosecuted for alleged licensing and dog-control offences. Those facts do not identify which dog caused the injuries or establish responsibility for her death.\n\nOfficial figures measure the number of stray dogs caught. They were 463 in 2023, 425 in 2024, and 398 in 2025. These capture figures do not measure how dangerous all free-roaming dogs are. They cannot by themselves explain two recent tragedies.\n\nA dog described as stray may still have a human history. It may have been registered, abandoned, regularly fed, or informally cared for. A microchip is evidence of registration, not automatic proof of control at the time of an attack. Any decision about liability must depend on the evidence and the law that applies. Cities must protect people while also treating animals humanely.",
+    "vocabulary": [
+     {
+      "word": "renewed",
+      "definition": "made people start discussing something again"
+     },
+     {
+      "word": "licensing",
+      "definition": "the system of giving official permission or registration"
+     },
+     {
+      "word": "free-roaming",
+      "definition": "moving around without being kept in one place or controlled"
+     },
+     {
+      "word": "liability",
+      "definition": "legal responsibility for harm or loss"
+     },
+     {
+      "word": "humanely",
+      "definition": "in a kind way that avoids unnecessary suffering"
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What do the 2023 to 2025 figures measure?",
+      "options": [
+       "The number of dog owners found guilty in court each year.",
+       "Official figures measure the number of stray dogs caught.",
+       "The number of fatal dog attacks each year."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What do the capture figures not show by themselves?",
+      "options": [
+       "They do not show that microchips exist.",
+       "They do not show that Hong Kong has any dogs.",
+       "These capture figures do not measure how dangerous all free-roaming dogs are."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What is a microchip in this case?",
+      "options": [
+       "A microchip is evidence of registration, not automatic proof of control at the time of an attack.",
+       "It is a device that decides legal liability.",
+       "It is automatic proof of control at the time of an attack."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/when-a-stray-dog-attacks-who-is-responsible-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "what-happens-when-a-city-hides-its-trains-underground",
   "title": "What Happens When a City Hides Its Trains Underground?",
   "summary": "Tainan plans green public space while keeping its historic station.",
