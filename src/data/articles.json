@@ -1,5 +1,142 @@
 [
  {
+  "slug": "why-is-this-desert-museum-built-underground",
+  "title": "Why Is This Desert Museum Built Underground?",
+  "summary": "Soil helps protect a museum in China from desert heat and cold.",
+  "date": 1792886400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792497057358-cover.png",
+  "originalUrl": "manual-input:user-provided-article-no-secondary-verification",
+  "reads": 1729,
+  "levels": {
+   "1": {
+    "content": "A new museum opened in China's desert in September 2026. Visitors can see fossils: remains of animals from long ago. Silver shapes stand above the sand. But most rooms are about eight metres underground.\n\nWhy build there? Summers are very hot. Winters are very cold. Deep soil changes temperature slowly. It helps keep the rooms cooler in summer and warmer in winter. The soil also protects much of the building from wind and sand.\n\nOpenings bring in fresh air and daylight. Machines can still cool the rooms. The designers expect to save electricity. However, years of use have not yet proved how much electricity the museum can save.",
+    "vocabulary": [
+     {
+      "word": "fossils",
+      "definition": "Remains or signs of animals or plants from long ago."
+     },
+     {
+      "word": "soil",
+      "definition": "The earth in which plants can grow."
+     },
+     {
+      "word": "electricity",
+      "definition": "Energy that makes lights and machines work."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How does deep soil help the rooms?",
+      "options": [
+       "It makes them hotter all year.",
+       "It protects them from very hot and cold weather.",
+       "It keeps all daylight out."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-is-this-desert-museum-built-underground-level-1.mp3"
+   },
+   "2": {
+    "content": "A new museum in China's Gobi Desert has silver shapes above the sand, but most of its rooms lie about eight metres underground. The Hami Pterosaur Museum opened in September 2026. It displays fossils of flying reptiles, animals that were not dinosaurs.\n\nThe desert brings hot summers, freezing winters and sandstorms. Underground, temperatures change more slowly because soil slows the movement of heat. This protects the rooms from extremes and reduces the need for heating and cooling. Much of the building is also sheltered from wind and sand.\n\nSpecial passages allow fresh air to move through the museum. Other structures carry daylight down into the halls. Air-conditioning remains available, but natural processes help it do less work.\n\nThe design team estimates about 94% less electricity for air-conditioning and nearly 50% less for artificial lighting than a conventional building above ground. These are design estimates, not savings confirmed over years of use. Underground construction also depends on local soil, weather and costs.",
+    "vocabulary": [
+     {
+      "word": "reptiles",
+      "definition": "Animals such as snakes and lizards, usually with skin covered in scales."
+     },
+     {
+      "word": "sheltered",
+      "definition": "Protected from bad weather or other dangers."
+     },
+     {
+      "word": "passages",
+      "definition": "Ways through a building or place that people, air or other things can move along."
+     },
+     {
+      "word": "estimates",
+      "definition": "Calculates an approximate amount using available information."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why are temperatures steadier underground?",
+      "options": [
+       "Soil slows the movement of heat.",
+       "Artificial lights stop temperature changes.",
+       "Silver shapes remove the need for cooling."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What do the electricity figures describe?",
+      "options": [
+       "Savings estimated by the design team.",
+       "Savings already confirmed over many years.",
+       "Savings guaranteed for every desert building."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-is-this-desert-museum-built-underground-level-2.mp3"
+   },
+   "3": {
+    "content": "The Hami Pterosaur Museum, which opened in China's Gobi Desert in September 2026, combines visible silver forms with a largely concealed building. Most of its 8,000 square metres sit about eight metres below ground. Its exhibits include fossils of pterosaurs, flying reptiles distinct from dinosaurs.\n\nThe architects at Turenscape responded to an environment of intense summer heat, freezing winters and frequent sandstorms. Soil slows heat transfer, moderating temperature fluctuations underground. This can reduce heating and cooling demands while sheltering much of the structure from wind and airborne sand. Rather than eliminate mechanical systems, the design reduces dependence on them.\n\nVentilation passages exploit natural air movement: warm air rises and escapes while cooler air enters. Structures extending down from the surface admit daylight to the halls. A nearby solar facility and a system for collecting and reusing some water complement these measures.\n\nThe design team estimates electricity reductions of about 94% for air-conditioning and nearly 50% for artificial lighting relative to a conventional building above ground. Those projections are not confirmed savings from years of operation. Construction costs, soil conditions and climate also limit where underground building makes sense. The museum therefore illustrates an approach to adapting architecture to its surroundings, rather than a universal solution or proof of the projected savings.",
+    "vocabulary": [
+     {
+      "word": "concealed",
+      "definition": "Hidden from view."
+     },
+     {
+      "word": "moderating",
+      "definition": "Making something less extreme or intense."
+     },
+     {
+      "word": "Ventilation",
+      "definition": "The supply and movement of fresh air through a space."
+     },
+     {
+      "word": "projections",
+      "definition": "Calculations of what may happen in the future, based on assumptions and evidence."
+     },
+     {
+      "word": "complement",
+      "definition": "Add to something in a way that makes it more effective or complete."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How does the museum combine natural processes and machines?",
+      "options": [
+       "Mechanical systems prevent natural air movement.",
+       "Natural processes replace every mechanical system.",
+       "Natural processes reduce reliance on mechanical systems."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What is the evidential limit of the electricity figures?",
+      "options": [
+       "They measure total electricity use from all sources.",
+       "They confirm identical savings for all underground buildings.",
+       "They have not been established through years of operation."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why does the article reject a universal conclusion?",
+      "options": [
+       "The building relies entirely on artificial lighting.",
+       "Local ground, climate and construction costs affect suitability.",
+       "The exhibits are unrelated to the building location."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-is-this-desert-museum-built-underground-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "who-is-responsible-after-a-suspected-dog-attack",
   "title": "Who Is Responsible After a Suspected Dog Attack?",
   "summary": "A Hong Kong case shows why responsibility can be hard to prove.",
