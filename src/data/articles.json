@@ -1,5 +1,142 @@
 [
  {
+  "slug": "who-really-made-chinas-terracotta-army",
+  "title": "Who Really Made China's Terracotta Army?",
+  "summary": "Ancient fingerprints suggest women and children may have helped shape the clay soldiers.",
+  "date": 1792972800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792653241050-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 3,
+  "levels": {
+   "1": {
+    "content": "Who made China's Terracotta Army? These clay soldiers are near Xi'an. Workers made them for China's first emperor over 2,200 years ago. Many people thought most makers were grown men.\n\nNow, researchers have studied 79 fingerprints on 36 soldiers. Fingerprints are the small lines our fingers leave on things. The marks suggest that women and children may have helped too. The team compared the spaces between these lines.\n\nBut this is not a full picture. The team studied only a few soldiers. One person could leave many marks. The method also uses information from people today, so the results are not certain. We still cannot know each person's job.",
+    "vocabulary": [
+     {
+      "word": "clay",
+      "definition": "Soft earth that people can shape and heat to make hard objects."
+     },
+     {
+      "word": "marks",
+      "definition": "Small signs left on a surface."
+     },
+     {
+      "word": "compared",
+      "definition": "Looked at things to see how they were similar or different."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Who may also have helped make the soldiers?",
+      "options": [
+       "Only the emperor.",
+       "Women and children.",
+       "Only grown men."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/who-really-made-chinas-terracotta-army-level-1.mp3"
+   },
+   "2": {
+    "content": "A fingerprint left in soft clay can last for thousands of years. Researchers studying China's Terracotta Army suggest that women and children may have helped make the soldiers, alongside adult men.\n\nThe army was created for Qin Shi Huang, China's first emperor, near Xi'an. He died in 210 BC. Workers shaped different body parts separately before joining them together. Their fingers sometimes left tiny lines in the wet clay. Heating the figures made many marks permanent.\n\nIn an October 2026 study, researchers examined 79 clear fingerprints on 36 soldiers. They measured the spaces between fingerprint lines and used a statistical model. It suggested that about 45% of the prints came from adult men, 33% from adult women, and 22% from children under 15.\n\nThese are estimates of prints, not shares of all workers. One person could leave several marks, and the sample was small. The model also relies partly on modern data. The marks cannot reveal each person's task, but they offer clues about ordinary workers.",
+    "vocabulary": [
+     {
+      "word": "permanent",
+      "definition": "Lasting for a long time rather than disappearing."
+     },
+     {
+      "word": "statistical",
+      "definition": "Using numbers and patterns in data to understand something."
+     },
+     {
+      "word": "estimates",
+      "definition": "Approximate amounts calculated from available information."
+     },
+     {
+      "word": "sample",
+      "definition": "A small group examined to learn about a larger group."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did many fingerprints remain on the soldiers?",
+      "options": [
+       "Heating the clay made the marks permanent.",
+       "Workers added new marks every year.",
+       "The emperor wrote down every fingerprint."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What do the percentages describe?",
+      "options": [
+       "The ages of all visitors to the site.",
+       "The estimated groups that left the studied prints.",
+       "The jobs of every ancient worker."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/who-really-made-chinas-terracotta-army-level-2.mp3"
+   },
+   "3": {
+    "content": "For more than 2,200 years, fingerprints have preserved traces of the people who shaped China's Terracotta Army. An October 2026 study in the Journal of Cultural Heritage suggests that its workshops may have included women and children as well as adult men.\n\nCreated for Qin Shi Huang near Xi'an, the army contains thousands of clay figures. Production involved shaping separate components and assembling them, allowing several workers to contribute to one soldier. Contact with wet clay left fingerprint ridges that could survive firing.\n\nResearchers examined 79 clear prints on 36 soldiers, analysing the spacing between ridges. This spacing generally increases as children grow, while adult patterns also vary. Because age and sex categories overlap, the team used a statistical model to assess the prints collectively. It attributed approximately 45% to adult men, 33% to adult women, and 22% to children under 15.\n\nThese proportions cannot establish the workforce's composition: individuals could leave multiple prints or none. The limited sample and reliance on modern reference data add uncertainty. Ancient records describing young people learning practical skills make children's participation plausible, but fingerprints cannot identify anyone's precise task. The findings nevertheless shift attention from an emperor's monument towards the ordinary people whose labour made it possible.",
+    "vocabulary": [
+     {
+      "word": "components",
+      "definition": "Individual parts that are combined to form a larger object."
+     },
+     {
+      "word": "ridges",
+      "definition": "Narrow raised lines, such as those on the skin of a fingertip."
+     },
+     {
+      "word": "collectively",
+      "definition": "As a group rather than as separate individuals."
+     },
+     {
+      "word": "proportions",
+      "definition": "The shares of a total represented by different groups."
+     },
+     {
+      "word": "plausible",
+      "definition": "Reasonable or believable, although not proven."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did the researchers assess the prints collectively?",
+      "options": [
+       "Age and sex categories overlap in fingerprint patterns.",
+       "Every soldier had exactly one maker.",
+       "The prints recorded workers’ names."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why can the print proportions not establish workforce composition?",
+      "options": [
+       "Workers could leave different numbers of prints, including none.",
+       "Women never left fingerprints in clay.",
+       "Every worker left the same number of prints."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How do ancient records relate to the findings?",
+      "options": [
+       "They identify the task behind each fingerprint.",
+       "They confirm the exact percentage of child workers.",
+       "They make children’s involvement plausible without proving their exact tasks."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/who-really-made-chinas-terracotta-army-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "why-is-this-desert-museum-built-underground",
   "title": "Why Is This Desert Museum Built Underground?",
   "summary": "Soil helps protect a museum in China from desert heat and cold.",
