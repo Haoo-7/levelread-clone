@@ -1,5 +1,142 @@
 [
  {
+  "slug": "sydney-opens-an-airport-that-can-run-all-night",
+  "title": "Sydney Opens an Airport That Can Run All Night",
+  "summary": "Western Sydney International began passenger services on 25 October, according to the supplied report.",
+  "date": 1793001600000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792972954358-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1245,
+  "levels": {
+   "1": {
+    "content": "Sydney has another international airport. According to the report, passenger services began there on 25 October. Western Sydney International Airport is about 60 kilometres from the city centre.\n\nWhy does Sydney need it? The older main airport usually cannot have regular flights between 11 pm and 6 am. The new airport can stay open all day and night. Airlines can choose flight times more easily.\n\nFor people in western Sydney, the journey to an airport may become shorter. New hotels and other businesses may also come. But these are possible benefits, not certain results. The airport's future size does not tell us how many passengers will use it in its first year.",
+    "vocabulary": [
+     {
+      "word": "regular",
+      "definition": "Usual or normal, rather than special."
+     },
+     {
+      "word": "journey",
+      "definition": "Travel from one place to another."
+     },
+     {
+      "word": "benefits",
+      "definition": "Good things that something may bring."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What can the new airport do?",
+      "options": [
+       "Stay open all day and night.",
+       "Open only for goods.",
+       "Open only in the morning."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/sydney-opens-an-airport-that-can-run-all-night-level-1.mp3"
+   },
+   "2": {
+    "content": "According to the supplied report, Western Sydney International Airport began passenger services on 25 October. Sydney's new international airport is about 60 kilometres from the city centre and cost around A$5.6 billion to build. Freight services, which move goods, started in July.\n\nOne important difference is its operating hours. Sydney's existing main airport generally restricts regular takeoffs and landings between 11 pm and 6 am. The new airport can operate 24 hours a day, giving airlines more flexibility when planning flights. Jetstar plans to operate the first departing passenger flights.\n\nLocation matters too. For people living in western Sydney, the new airport may mean a shorter journey than travelling to the existing airport. It could also attract hotels, logistics companies and other businesses. These are potential benefits, rather than guaranteed outcomes.\n\nThe airport's long-term design capacity should not be mistaken for the number of passengers it will handle in its first year. Opening another airport creates opportunities, but those opportunities are different from results already achieved.",
+    "vocabulary": [
+     {
+      "word": "Freight",
+      "definition": "Goods transported by aircraft, ships, trains or trucks."
+     },
+     {
+      "word": "restricts",
+      "definition": "Limits what is allowed to happen."
+     },
+     {
+      "word": "flexibility",
+      "definition": "The ability to change plans to suit different needs."
+     },
+     {
+      "word": "capacity",
+      "definition": "The amount that a place or system can handle."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why can the new airport give airlines more flexibility?",
+      "options": [
+       "It is open only during daytime.",
+       "It removes every limit at the existing airport.",
+       "It can operate throughout the day and night."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What does long-term design capacity describe?",
+      "options": [
+       "What the airport is designed to handle over the longer term.",
+       "The exact number of passengers guaranteed in the first year.",
+       "The number of passengers already carried on opening day."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/sydney-opens-an-airport-that-can-run-all-night-level-2.mp3"
+   },
+   "3": {
+    "content": "Why would a city with an established international airport build another? According to the supplied report, Western Sydney International began passenger services on 25 October, following the start of freight operations in July. Located roughly 60 kilometres from central Sydney, the project cost about A$5.6 billion.\n\nThe key distinction is operational. Sydney's existing main airport generally restricts routine takeoffs and landings between 11 pm and 6 am, whereas the new facility can operate around the clock. That offers airlines greater scheduling flexibility. Jetstar plans to operate the first departing passenger flights; a stated plan should not be confused with confirmation that a particular flight has departed.\n\nGeography provides another rationale. For residents of western Sydney, a nearby alternative may reduce the journey required to reach an airport. The development could also attract logistics firms, hotels and other commercial activity. These possibilities explain why an airport's significance extends beyond its runways, but they remain prospective benefits rather than established outcomes.\n\nExpectations also require care. Long-term design capacity describes what the airport is intended to accommodate, not the passenger total it will necessarily achieve during its first year. The opening therefore marks an expansion of transport options, while actual passenger demand and commercial benefits should remain distinct from projections.",
+    "vocabulary": [
+     {
+      "word": "routine",
+      "definition": "Usual and regularly occurring."
+     },
+     {
+      "word": "rationale",
+      "definition": "The reasons that explain a decision or action."
+     },
+     {
+      "word": "prospective",
+      "definition": "Expected or possible in the future, rather than already realised."
+     },
+     {
+      "word": "accommodate",
+      "definition": "Provide enough space or ability to handle something."
+     },
+     {
+      "word": "projections",
+      "definition": "Estimates about what may happen in the future."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What is the main operational contrast between the airports?",
+      "options": [
+       "The new airport has already removed the existing airport’s restrictions.",
+       "The new airport can operate at night while the existing one generally restricts routine night flights.",
+       "Both airports allow only daytime flights."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What is the reading’s position on business benefits?",
+      "options": [
+       "The report proves that no businesses will benefit.",
+       "Every proposed hotel and logistics project is already operating.",
+       "They are possible future benefits, not established results."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "How should the statement about Jetstar be understood?",
+      "options": [
+       "It describes a plan without confirming a particular departure.",
+       "It shows passenger services will never begin.",
+       "It proves every planned flight has departed."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/sydney-opens-an-airport-that-can-run-all-night-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "who-really-made-chinas-terracotta-army",
   "title": "Who Really Made China's Terracotta Army?",
   "summary": "Ancient fingerprints suggest women and children may have helped shape the clay soldiers.",
