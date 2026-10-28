@@ -1,5 +1,279 @@
 [
  {
+  "slug": "why-are-families-in-china-getting-smaller",
+  "title": "Why Are Families in China Getting Smaller?",
+  "summary": "Average household size fell from 3.44 people in 2000 to 2.52 in 2025.",
+  "date": 1793174400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793150110190-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1292,
+  "levels": {
+   "1": {
+    "content": "Fewer people are sharing homes in China. A 2025 survey says the average home had 2.52 people. In 2000, it had 3.44. These numbers count people living together, not all their relatives.\n\nWhy is this happening? People have fewer children. Some marry later or stay single. Young adults may move to cities for work. Some couples choose their own homes. Older parents may then live together or alone.\n\nImagine two parents and their two children. Both children move away. The family still has four people, but they live in different homes. Living apart can give people more freedom. However, older people and parents with young children may need more help.",
+    "vocabulary": [
+     {
+      "word": "survey",
+      "definition": "A set of questions used to learn about people."
+     },
+     {
+      "word": "relatives",
+      "definition": "People in your family, such as parents or cousins."
+     },
+     {
+      "word": "alone",
+      "definition": "Without another person."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What do the survey numbers count?",
+      "options": [
+       "All the relatives in a family.",
+       "People who share a home.",
+       "Only children in a family."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-are-families-in-china-getting-smaller-level-1.mp3"
+   },
+   "2": {
+    "content": "China's average household had 2.52 people in 2025, down from 3.44 in 2000, according to a population survey. A household means people living together. It does not include every relative, so smaller households do not necessarily mean fewer family members.\n\nSeveral changes help explain the trend. People are having fewer children, marrying later or remaining single. Housing, education and childcare costs can influence these choices. China's former one-child policy also shaped families for decades. Meanwhile, people move to cities for work or study, often leaving parents in their hometowns.\n\nBetter housing allows some couples to live independently. As the population ages, older parents may spend years living together after their children leave. If one partner dies, the other may live alone. One family can therefore spread across several households without losing any members when children move out.\n\nLiving separately can bring privacy and freedom, but also challenges. Older people may need care, while parents without grandparents nearby may need childcare support. Communities must respond to how people actually live.",
+    "vocabulary": [
+     {
+      "word": "household",
+      "definition": "A person or group of people living in one home."
+     },
+     {
+      "word": "trend",
+      "definition": "A general direction in which something is changing."
+     },
+     {
+      "word": "independently",
+      "definition": "Without depending on other people for everyday arrangements."
+     },
+     {
+      "word": "privacy",
+      "definition": "The ability to keep your personal life or space to yourself."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How can one family become several households?",
+      "options": [
+       "Its adult children move into separate homes.",
+       "Every relative must live in the same city.",
+       "The survey stops counting older people."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What challenge can smaller households create?",
+      "options": [
+       "All parents receive more help from grandparents.",
+       "People can no longer choose where to live.",
+       "Older people may need more outside care."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-are-families-in-china-getting-smaller-level-2.mp3"
+   },
+   "3": {
+    "content": "China's 2025 population survey puts average household size at 2.52 people, compared with 3.44 in 2000. The decline describes co-residence, not the total number of relatives someone has. When adult children establish separate homes, a family can be counted across several households without any change in its membership.\n\nFalling fertility is one explanation. Later marriage, remaining single and decisions about children also influence living arrangements. Housing, education and childcare costs can shape those decisions, while the former one-child policy has left a demographic legacy. Migration adds another mechanism: work and education draw younger adults away from their parents, splitting a previously shared home into separate households.\n\nImproved housing can allow couples to pursue greater independence. Population ageing also matters. Parents may live together for years after their children leave, and bereavement can leave one person living alone. These processes overlap; the average alone cannot tell us how much each explanation contributes.\n\nSmaller households can offer privacy and autonomy, yet distribute practical responsibilities differently. Older residents may require outside care, and parents living far from grandparents may struggle with childcare. The figures therefore raise questions about housing, community services and support networks. Fewer people around one dinner table need not mean fewer relatives: family ties can extend across several cities.",
+    "vocabulary": [
+     {
+      "word": "fertility",
+      "definition": "The pattern or level of childbearing in a population."
+     },
+     {
+      "word": "demographic",
+      "definition": "Related to the size, structure or changes of a population."
+     },
+     {
+      "word": "bereavement",
+      "definition": "The experience of losing someone close through death."
+     },
+     {
+      "word": "autonomy",
+      "definition": "The freedom to make decisions about your own life."
+     },
+     {
+      "word": "networks",
+      "definition": "Connected groups of people or organisations that share help or information."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the fall in average household size establish?",
+      "options": [
+       "Fewer people live together in the average household.",
+       "People have fewer relatives in every family.",
+       "Migration is the only cause of the change."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why can the average not identify one main cause?",
+      "options": [
+       "Several overlapping processes can change household size.",
+       "The survey counts only couples with children.",
+       "All the described processes have identical effects."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Which response best addresses the challenges described?",
+      "options": [
+       "Treat every small household as having the same needs.",
+       "Assume separate homes mean family relationships have ended.",
+       "Plan housing and care around changing living arrangements."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-are-families-in-china-getting-smaller-level-3.mp3"
+   }
+  }
+ },
+ {
+  "slug": "a-motorcycle-travels-over-40-kilometres-on-water",
+  "title": "A Motorcycle Travels Over 40 Kilometres on Water",
+  "summary": "Zhang Xue returned to his hometown river, seventeen years after four failed attempts.",
+  "date": 1793145600000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792979697871-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1483,
+  "levels": {
+   "1": {
+    "content": "Motorcycles usually travel on land. But on 25 October, Zhang Xue rode one across water in Hunan, China. He travelled 40.74 kilometres in about 32 minutes. He made seven turns and set a world record, according to the report.\n\nHis motorcycle was special. His team added parts like water skis. The back tyre pushed water behind it. At enough speed, water pushed up against the ski parts. This helped keep the motorcycle above the water. Going too slowly could make it fall in.\n\nZhang had tried in 2009, but reached only about 20 metres. Better engineering helped him return. Ordinary motorcycles cannot do this. Riding on water is dangerous.",
+    "vocabulary": [
+     {
+      "word": "turns",
+      "definition": "Changes in the direction of travel."
+     },
+     {
+      "word": "speed",
+      "definition": "How fast something moves."
+     },
+     {
+      "word": "Ordinary",
+      "definition": "Usual, rather than specially made or changed."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What was different about this motorcycle?",
+      "options": [
+       "It could stay still on water.",
+       "It was an ordinary road bike.",
+       "It had special parts for water."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-motorcycle-travels-over-40-kilometres-on-water-level-1.mp3"
+   },
+   "2": {
+    "content": "On 25 October, Zhang Xue rode a modified motorcycle across a river in Mayang, Hunan, his hometown. According to the report, he travelled 40.74 kilometres in about 32 minutes, making seven turns. The journey broke the Guinness World Record for the longest distance travelled on open water by a modified motorcycle. The previous record was about 31.8 kilometres.\n\nHis engineering team added sliding parts similar to water skis. The rear tyre's deep tread pushed water backwards to move the bike forward. At enough speed, water pressing upwards against the sliding parts helped support its weight. Unlike a boat floating quietly, the motorcycle needed to keep moving. Losing speed or balance could make it fall into the water.\n\nThe achievement followed four failed attempts in 2009, when Zhang's longest ride reached only about 20 metres. This time, his team spent months testing and changing the machine. Special equipment and preparation made the journey possible. It does not mean an ordinary motorcycle can cross a lake, and high-speed water riding remains dangerous.",
+    "vocabulary": [
+     {
+      "word": "modified",
+      "definition": "Changed from its original form for a particular purpose."
+     },
+     {
+      "word": "tread",
+      "definition": "The raised pattern on a tyre that helps it push against a surface."
+     },
+     {
+      "word": "balance",
+      "definition": "A steady position that prevents something from falling."
+     },
+     {
+      "word": "preparation",
+      "definition": "Work done beforehand to get ready for something."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did the motorcycle need to keep moving?",
+      "options": [
+       "The river became a solid road at high speed.",
+       "Sufficient speed helped water support the sliding parts.",
+       "It floated without help when stopped."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What does the successful ride show?",
+      "options": [
+       "Preparation made all risks disappear.",
+       "Every motorcycle can now cross a lake.",
+       "Special engineering and preparation enabled this particular ride."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-motorcycle-travels-over-40-kilometres-on-water-level-2.mp3"
+   },
+   "3": {
+    "content": "Seventeen years after four unsuccessful attempts, Zhang Xue returned to the water in his hometown of Mayang, Hunan. On 25 October, he covered 40.74 kilometres in approximately 32 minutes on a modified MX450 motorcycle, completing seven turns. According to the supplied account, he broke the Guinness World Record for the longest open-water journey by a modified motorcycle, previously about 31.8 kilometres.\n\nThe machine relied on dynamic support rather than simply floating. Engineers added sliding components resembling water skis and adapted the rear tyre's deep tread to push water backwards. At sufficient speed, upward water forces on the sliding components helped support the bike's weight. Slowing excessively or losing balance could therefore cause it to sink. Turning required careful control of speed and body position, with the front sliding component helping guide the motorcycle.\n\nThe team also protected important engine parts and electrical systems from water and fitted a larger fuel tank. Months of testing preceded the attempt. Zhang, who began by repairing motorcycles and later founded a motorcycle company, had managed only about 20 metres during his 2009 attempts.\n\nThe contrast highlights how engineering and preparation can change what is achievable. It does not establish that ordinary motorcycles can travel on water, nor does the record eliminate the serious risks involved.",
+    "vocabulary": [
+     {
+      "word": "dynamic",
+      "definition": "Produced by movement or changing forces, rather than remaining still."
+     },
+     {
+      "word": "components",
+      "definition": "Separate parts that together form a larger machine or system."
+     },
+     {
+      "word": "adapted",
+      "definition": "Changed to make something suitable for a particular use."
+     },
+     {
+      "word": "preceded",
+      "definition": "Happened or took place before something else."
+     },
+     {
+      "word": "achievable",
+      "definition": "Possible to accomplish."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How was the motorcycle supported on the water?",
+      "options": [
+       "It floated safely without motion like a stationary boat.",
+       "Movement generated upward water forces against the sliding components.",
+       "Its ordinary tyres alone made all other equipment unnecessary."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Why did turns demand careful control?",
+      "options": [
+       "Losing too much speed or balance could cause the bike to sink.",
+       "The rider no longer needed to maintain balance.",
+       "The motorcycle became stable only when it stopped."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Which conclusion best fits the record?",
+      "options": [
+       "Engineering and preparation enabled a remarkable ride without eliminating risk.",
+       "Engineering removed the need for preparation.",
+       "The result proves ordinary motorcycles can travel safely on water."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-motorcycle-travels-over-40-kilometres-on-water-level-3.mp3"
+   }
+  }
+ },
+ {
   "slug": "athletes-report-short-beds-and-missing-buses-at-asian-games",
   "title": "Behind the Chaos at Japan's Asian Games",
   "summary": "Japan's organisers apologised; athletes' experiences varied and sporting events continued.",
