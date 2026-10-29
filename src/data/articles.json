@@ -1,5 +1,279 @@
 [
  {
+  "slug": "spain-sees-its-second-deadly-train-crash-this-year",
+  "title": "Spain Sees Its Second Deadly Train Crash This Year",
+  "summary": "Rescue work continues; reported casualties may change, and the official cause remains unknown.",
+  "date": 1793260800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793201347244-spain-train-crash-cover-v3.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1071,
+  "levels": {
+   "1": {
+    "content": "Two fast trains crashed near Urda, Spain, on 28 October. By that afternoon, officials reported at least 64 deaths and 58 injuries. Rescue work continued, so the numbers could change.\n\nEarly reports said one train had stopped. The other hit it from behind. Some carriages left the rails. Rescue teams searched the trains and helped injured people. Some train services also stopped.\n\nThe official cause is not yet known. Investigators must check what happened. Spain had another deadly train crash in January, but the accidents happened differently. There is no confirmed shared cause. For now, helping people comes first. Finding the cause may help make future journeys safer.",
+    "vocabulary": [
+     {
+      "word": "injuries",
+      "definition": "Harm or damage to people’s bodies."
+     },
+     {
+      "word": "carriages",
+      "definition": "The parts of a train that carry passengers."
+     },
+     {
+      "word": "cause",
+      "definition": "The reason why something happens."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What is known about the official cause?",
+      "options": [
+       "It is not yet known.",
+       "It was confirmed as the same cause as January’s crash.",
+       "It was confirmed as a driver’s mistake."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/spain-sees-its-second-deadly-train-crash-this-year/level-1/11448ea7e24a36ef3c5297cef07f9788e7b941be26a7020f6a1cb5f9e9de0bd8.mp3"
+   },
+   "2": {
+    "content": "Two high-speed trains collided near Urda, about 130 kilometres south of Madrid, on 28 October 2026. By Wednesday afternoon, authorities reported at least 64 deaths and 58 injuries. Rescue teams were still working, and the figures could change.\n\nThe trains carried 544 passengers altogether. One belonged to state-owned Renfe; the other was operated by private company Iryo. Both were heading from Madrid towards Seville. Early reports said the Iryo train had stopped before the Renfe train hit it from behind. Several carriages left the rails. Emergency teams helped survivors, while some services to southern Spain stopped.\n\nSignals and control systems help trains keep safe distances. Trains cannot turn away from danger and may need a long distance to stop. Investigators must examine movements, communications and safety equipment. The official cause remains unknown; early suggestions about traffic-control mistakes are not confirmed findings.\n\nA January crash near Adamuz killed 46 people and involved the same companies. However, it happened differently, and no shared cause has been confirmed. Immediate priorities remain rescue work and support for affected families.",
+    "vocabulary": [
+     {
+      "word": "collided",
+      "definition": "Crashed into each other."
+     },
+     {
+      "word": "authorities",
+      "definition": "Officials or organisations responsible for public decisions and services."
+     },
+     {
+      "word": "signals",
+      "definition": "Signs or instructions that tell train drivers when it is safe to move."
+     },
+     {
+      "word": "confirmed",
+      "definition": "Established as true after checking."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why do fast trains depend on signals and control systems?",
+      "options": [
+       "They can stop immediately at any speed.",
+       "They can turn onto roads whenever another train stops.",
+       "They cannot turn away and may need a long distance to stop."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What does the article say about the two crashes?",
+      "options": [
+       "The same companies were involved, but a shared cause is unconfirmed.",
+       "Investigators have already confirmed identical equipment failures.",
+       "Their different circumstances prove they had the same cause."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/spain-sees-its-second-deadly-train-crash-this-year/level-2/f67172c1208c384de2368adfbc50f3cdc194b5e337a6e2c46900e68cc858bce0.mp3"
+   },
+   "3": {
+    "content": "Spain's second deadly high-speed rail crash of 2026 occurred near Urda on 28 October. By Wednesday afternoon, authorities had reported at least 64 deaths and 58 injuries. With rescue operations continuing, these figures remained subject to change. The two trains carried 544 passengers and were travelling from Madrid towards Seville.\n\nEarly accounts indicated that a Renfe train struck a stationary Iryo train from behind, derailing several carriages. Emergency workers searched the wreckage and treated survivors, while disruption spread to services linking Madrid with southern Spain. These preliminary accounts describe the apparent sequence, not an established explanation of why it happened.\n\nRail safety relies on signals, communications and control systems that maintain separation between trains. A fast-moving train cannot steer away and may require considerable braking distance. Investigators will examine movements, communications and equipment. Although early reports suggested a possible traffic-control error, the official cause remains undetermined; responsibility cannot yet be assigned to people, equipment or their interaction.\n\nThe January crash near Adamuz killed 46 people after an Iryo train derailed into the path of an oncoming Renfe train. The operators were the same, but the collision mechanisms differed, and no common cause has been confirmed. Supporting survivors and families remains urgent, while preventing recurrence requires evidence rather than conclusions drawn from the companies' repeated involvement.",
+    "vocabulary": [
+     {
+      "word": "stationary",
+      "definition": "Not moving."
+     },
+     {
+      "word": "preliminary",
+      "definition": "Based on early information and not yet final."
+     },
+     {
+      "word": "separation",
+      "definition": "The distance or space kept between things."
+     },
+     {
+      "word": "undetermined",
+      "definition": "Not yet established or decided."
+     },
+     {
+      "word": "recurrence",
+      "definition": "The happening of something again."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What do the preliminary accounts establish in the article?",
+      "options": [
+       "They identify the final technical cause beyond doubt.",
+       "They prove that both companies deliberately ignored safety rules.",
+       "They describe an apparent sequence without establishing why it happened."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why is the operators’ repeated involvement insufficient to establish a shared cause?",
+      "options": [
+       "Company names alone identify which signal failed.",
+       "The crashes happened differently, and no common cause has been confirmed.",
+       "The operators were not actually involved in the January crash."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What should guide conclusions about preventing another crash?",
+      "options": [
+       "Evidence from examining movements, communications and equipment.",
+       "The assumption that the earliest reports cannot change.",
+       "Assumptions based only on the operators’ names."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/spain-sees-its-second-deadly-train-crash-this-year/level-3/52da4e2e46393155b64b5946f6ff4c7074884d9d53cbbf5a8aabbd094df3b3bf.mp3"
+   }
+  }
+ },
+ {
+  "slug": "a-dream-cruise-around-the-world-stops-in-cambodia",
+  "title": "A Dream Cruise Around the World Stops in Cambodia",
+  "summary": "Residents leave their floating homes; the operator cites fuel costs but cannot promise a restart.",
+  "date": 1793232000000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793202447440-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1467,
+  "levels": {
+   "1": {
+    "content": "A cruise ship carrying 203 passengers stopped its journey in Cambodia. On 27 October, people were told to leave. Local officials said they had about seven hours to pack. Some found rooms nearby; others flew away.\n\nThe ship offered more than a short holiday. People could live in its cabins while travelling around the world. Some had even sold their houses. Leaving the ship also meant leaving their home.\n\nThe company says fuel became too expensive. It tried moving more slowly and staying longer in ports, but said this was not enough. It is looking for new money. The journey may not start again, so passengers must decide what to do next.",
+    "vocabulary": [
+     {
+      "word": "passengers",
+      "definition": "People travelling in a ship, train, bus or other vehicle."
+     },
+     {
+      "word": "cabins",
+      "definition": "Small rooms where people sleep on a ship."
+     },
+     {
+      "word": "fuel",
+      "definition": "A substance used to power an engine."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why was leaving especially difficult for some passengers?",
+      "options": [
+       "The ship was also their home.",
+       "Everyone was guaranteed a free house.",
+       "They had never travelled before."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-dream-cruise-around-the-world-stops-in-cambodia/level-1/e800b222572458f76cff82dea07a2ba82d97bcd5a985d136d92c767edb3db8c3.mp3"
+   },
+   "2": {
+    "content": "The Villa Vie Odyssey suspended its world voyage in Cambodia with 203 passengers aboard. On 27 October, residents were told to leave in Sihanoukville. Local officials said they had about seven hours to pack. Some stayed locally; others flew elsewhere.\n\nThe ship left Belfast in October 2024 for several years of travel. Residents could rent cabins or buy long-term rights to live in them. Some sold their homes before joining. The suspension therefore disrupted both travel plans and housing.\n\nThe operator blames rising fuel costs. It says monthly fuel expenses per cabin rose from about $1,800 to an estimated $6,000–$8,000 in parts of Asia. These are company expenses divided by cabin, not new bills sent to each passenger. Slower sailing and longer port stays did not save enough, the company said.\n\nSome passengers also complained about earlier itinerary changes and extra-money requests. These complaints do not establish why the voyage stopped. The company is seeking funding and considering financial changes over 60 days, but cannot promise that sailing will resume.2",
+    "vocabulary": [
+     {
+      "word": "suspended",
+      "definition": "Stopped temporarily, with no certainty about restarting."
+     },
+     {
+      "word": "residents",
+      "definition": "People who live in a particular place."
+     },
+     {
+      "word": "expenses",
+      "definition": "Money spent on running something or paying for needs."
+     },
+     {
+      "word": "itinerary",
+      "definition": "A planned route or schedule for a journey."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What do the fuel-cost figures represent?",
+      "options": [
+       "Company fuel expenses divided by cabin.",
+       "A new bill sent directly to every passenger.",
+       "A guaranteed refund for each resident."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What is known about the future of the voyage?",
+      "options": [
+       "It will definitely restart after exactly 60 days.",
+       "The company is seeking funding but cannot promise a restart.",
+       "Passenger complaints prove its final cause."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-dream-cruise-around-the-world-stops-in-cambodia/level-2/c85b085bdc115e6f0483a52a86ee71473f25e3ca2fa63c72184720a0e6658d5b.mp3"
+   },
+   "3": {
+    "content": "$25",
+    "vocabulary": [
+     {
+      "word": "disembark",
+      "definition": "To leave a ship or other large vehicle."
+     },
+     {
+      "word": "occupancy",
+      "definition": "The use of a room or property as a place to live or stay."
+     },
+     {
+      "word": "escalating",
+      "definition": "Increasing rapidly or becoming more serious."
+     },
+     {
+      "word": "allocation",
+      "definition": "The assignment or division of a cost, resource or amount."
+     },
+     {
+      "word": "insufficient",
+      "definition": "Not enough to meet a need or solve a problem."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why is the suspension more than a travel disruption?",
+      "options": [
+       "Every passenger has bought a house in Cambodia.",
+       "The company has confirmed a permanent global ban on cruises.",
+       "Some passengers used the ship as their home."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "How should the Montoyas’ accounts be understood?",
+      "options": [
+       "As proof that each passenger received an $8,000 fuel bill.",
+       "As complaints rather than confirmed findings explaining the suspension.",
+       "As an official investigation proving the cause."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What does the 60-day period mean?",
+      "options": [
+       "A period for considering financial changes, without a guaranteed restart.",
+       "A guaranteed date for every passenger to return.",
+       "A confirmed deadline for finishing a new ship."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/a-dream-cruise-around-the-world-stops-in-cambodia/level-3/80ec37353ec9cd7b11ceb02df94265aaf0bd63962b52789a2de047160bc87e86.mp3"
+   }
+  }
+ },
+ {
   "slug": "why-are-families-in-china-getting-smaller",
   "title": "Why Are Families in China Getting Smaller?",
   "summary": "Average household size fell from 3.44 people in 2000 to 2.52 in 2025.",
