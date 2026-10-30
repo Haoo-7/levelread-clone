@@ -1,5 +1,279 @@
 [
  {
+  "slug": "electric-boats-rise-above-water-on-underwater-wings",
+  "title": "Electric Boats Rise Above Water on Underwater Wings",
+  "summary": "Passenger services already use the technology in Auckland and Stockholm.",
+  "date": 1793347200000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793343234997-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 856,
+  "levels": {
+   "1": {
+    "content": "A small white boat moved across New York Harbor. Then its body rose above the water. The boat used electricity, not diesel fuel. Special wings under the water lifted it. These wings are called hydrofoils.\n\nMost of the boat stayed above the waves. Less of its body touched the water. This helped it move with less energy. Electric boats with these wings already carry people in New Zealand and Sweden.\n\nThese boats could help people cross city waters. But they cannot work everywhere. They need places to charge their batteries. Their trips must suit the boats, too. Other electric boats stay in the water. The power used to charge them also matters for pollution.",
+    "vocabulary": [
+     {
+      "word": "rose",
+      "definition": "Moved up."
+     },
+     {
+      "word": "wings",
+      "definition": "Parts shaped to help something lift or move."
+     },
+     {
+      "word": "charge",
+      "definition": "To put electricity into a battery."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What lifts the boat?",
+      "options": [
+       "Wings above the boat.",
+       "Wings under the water.",
+       "Waves behind the boat."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/electric-boats-rise-above-water-on-underwater-wings/level-1/97039ab7e607869274987d7a08451c3d6727bb0be4dd6a10b1209efcb353b8cb.mp3"
+   },
+   "2": {
+    "content": "A white electric boat rose above the water during a demonstration in New York Harbor. Built by New Zealand company Vessev, it used underwater wings called hydrofoils to lift its body about 45 centimetres above the surface.\n\nAs water flows around the wings, it creates an upward force. The wings stay underwater while most of the boat rises. Less contact with the water means less drag, the resistance that slows a boat down. Vessev says its design cuts drag by about 66%. This is a company estimate, not a result for every hydrofoil boat.\n\nUsing less energy could help electric boats travel farther without bigger batteries. Passenger services already operate in Auckland and Stockholm. Such boats may offer quieter, smoother journeys across city waters.\n\nHowever, operators need charging places and suitable routes. Battery costs and time between trips also matter. Electric motors produce no exhaust, but the wider pollution benefit depends on how the electricity is made. Some electric ferries operate without hydrofoils.",
+    "vocabulary": [
+     {
+      "word": "demonstration",
+      "definition": "An event that shows how something works."
+     },
+     {
+      "word": "drag",
+      "definition": "Resistance from water or air that slows movement."
+     },
+     {
+      "word": "estimate",
+      "definition": "A number believed to be close to the real amount."
+     },
+     {
+      "word": "exhaust",
+      "definition": "Waste gases released by an engine."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why can lifting the boat save energy?",
+      "options": [
+       "It makes the batteries heavier.",
+       "It removes the need to charge.",
+       "It reduces contact with the water."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What does the 66% figure describe?",
+      "options": [
+       "A reduction in battery weight.",
+       "A company estimate of drag reduction.",
+       "A saving for all electric boats."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/electric-boats-rise-above-water-on-underwater-wings/level-2/b9d006f02c17f64f6d1b348ba65c40b7308e625a92ea9a6dc0b73c3b37726987.mp3"
+   },
+   "3": {
+    "content": "During a New York Harbor demonstration, an electric boat built by New Zealand company Vessev lifted its hull about 45 centimetres above the water. Its apparent flight depended on hydrofoils: submerged wings that generate lift as water flows around them.\n\nRaising the hull reduces contact with the water and therefore drag. Vessev estimates that its design cuts drag by about 66%, a claim specific to its vessel rather than a universal hydrofoil saving. Lower resistance is particularly valuable for battery propulsion: reducing energy demand could extend range without requiring larger, heavier batteries.\n\nThe technology already serves passengers. Vessev operates electric sightseeing trips in Auckland, while Candela has a hydrofoil commuter ferry in Stockholm. Candela claims energy savings of up to 80% against comparable conventional boats. That figure concerns energy use, whereas Vessev's figure concerns drag; they describe different measures.\n\nHowever, widespread adoption depends on more than efficiency. Operators must balance passenger capacity, battery costs, route suitability and charging time between departures. Electric motors eliminate exhaust during operation, but the broader environmental benefit depends partly on electricity generation. Conventional electric ferries can also reduce waterfront pollution without hydrofoils. These vessels offer another transport option for cities around water, rather than a solution for every route or traffic problem.",
+    "vocabulary": [
+     {
+      "word": "submerged",
+      "definition": "Completely below the surface of water."
+     },
+     {
+      "word": "propulsion",
+      "definition": "The force or system that moves a vehicle forward."
+     },
+     {
+      "word": "range",
+      "definition": "The distance a vehicle can travel before refuelling or recharging."
+     },
+     {
+      "word": "adoption",
+      "definition": "The process of starting to use a technology or method."
+     },
+     {
+      "word": "capacity",
+      "definition": "The number of people or amount of goods something can carry."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why should the two company percentages be treated separately?",
+      "options": [
+       "They measure different things.",
+       "They apply to every electric ferry.",
+       "They both measure battery weight."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What can lower resistance allow an electric boat to do?",
+      "options": [
+       "Operate without any electricity.",
+       "Extend its range without larger batteries.",
+       "Carry unlimited numbers of passengers."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Which conclusion best reflects the environmental qualification?",
+      "options": [
+       "Benefits depend partly on the electricity source.",
+       "Electric motors make electricity generation irrelevant.",
+       "Hydrofoils are essential for any pollution reduction."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/electric-boats-rise-above-water-on-underwater-wings/level-3/52bd9400c07bb35bb1a705c046801a4fd4a66272da7dc0cca70e56390969ef5b.mp3"
+   }
+  }
+ },
+ {
+  "slug": "why-are-pistachios-suddenly-so-expensive",
+  "title": "Why Are Pistachios Suddenly So Expensive?",
+  "summary": "Heat and smaller harvests squeeze supplies as demand for snacks and sweets stays strong.",
+  "date": 1793318400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793150679847-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1627,
+  "levels": {
+   "1": {
+    "content": "Pistachios are green nuts that many people enjoy. In some Chinese shops, they now cost more. Some shops also limit how many bags people can buy.\n\nWhy? Hot weather hurt flowers on pistachio trees in California. This can leave shells empty. The trees were also expected to produce fewer nuts after a large crop last year. Dry weather and trade problems have affected supplies from Iran too. Experts expect fewer pistachios worldwide, but final totals may differ.\n\nPeople still want the nuts for snacks and sweets. When there are fewer nuts to buy, prices can rise. New trees cannot help quickly: they usually need five or six years to produce their first small crop.",
+    "vocabulary": [
+     {
+      "word": "limit",
+      "definition": "To control how much someone can have or do."
+     },
+     {
+      "word": "shells",
+      "definition": "The hard outer covers of nuts."
+     },
+     {
+      "word": "crop",
+      "definition": "The plants or food grown and collected by farmers."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why can pistachio prices rise?",
+      "options": [
+       "Every shop has too many nuts.",
+       "People want nuts, but fewer are available.",
+       "New trees produce nuts straight away."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-are-pistachios-suddenly-so-expensive/level-1/4d47ee2f06cffe090762d7f5c095ed4672365f5013b7d1258936651c598568ca.mp3"
+   },
+   "2": {
+    "content": "Pistachios are becoming more expensive in some Chinese shops, while some retailers limit purchases. At a Beijing wholesale market, their average price rose about 27% between January and October 2026. Different stores may raise prices or restrict sales at different times because they bought their stock at different times.\n\nPart of the explanation lies in California. A March heatwave arrived while pistachio trees were flowering. Heat can damage pollen, which normally travels on the wind between male and female flowers. Poor pollination can leave empty shells. Trees also naturally alternate between larger and smaller crops; after 2025's record harvest, a smaller crop was already expected.\n\nDry weather and trade difficulties have affected Iran too. Industry forecasts suggest global production could fall by more than a third this season, although final totals may differ. China relies heavily on imported pistachios.\n\nDemand remains strong for snacks, desserts and fashionable pistachio-filled chocolate. Less supply can push prices up. Planting more trees offers no quick solution: their first small crop usually takes five or six years.",
+    "vocabulary": [
+     {
+      "word": "wholesale",
+      "definition": "Relating to selling goods in large amounts, usually to shops."
+     },
+     {
+      "word": "pollen",
+      "definition": "Fine powder from flowers that helps plants produce seeds."
+     },
+     {
+      "word": "pollination",
+      "definition": "The transfer of pollen that allows a plant to develop seeds."
+     },
+     {
+      "word": "forecasts",
+      "definition": "Statements about what is expected to happen in the future."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why might two shops respond differently to shortages?",
+      "options": [
+       "Every retailer must charge exactly the same price.",
+       "They may have bought their stock at different times.",
+       "All shops receive unlimited supplies each morning."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What does the global production forecast tell us?",
+      "options": [
+       "Production could fall sharply, but final totals may differ.",
+       "World production will certainly rise this season.",
+       "The final harvest has already been counted everywhere."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-are-pistachios-suddenly-so-expensive/level-2/f342ce282ef0f2356c737b388440d1e0f692246b46788a6b17d1e5dacb1bed5e.mp3"
+   },
+   "3": {
+    "content": "Rising pistachio prices in China reflect pressure across international supply chains. At a Beijing wholesale market, average prices increased about 27% between January and October 2026. Some retailers have raised prices; others have imposed buying limits. Their responses can differ because stock was purchased at different times, allowing cheaper supplies to run out before shelf prices change.\n\nCalifornia's March heatwave coincided with flowering. Extreme heat can damage pollen and disrupt wind-driven pollination, leaving shells with little or no nut inside. Growers call these shells “blanks”. Pistachio trees also tend to alternate between abundant and smaller harvests. After a record 2025 crop, California already faced a weaker year. Industry estimates suggest its 2026 harvest could be less than half last year's.\n\nIran has faced dry weather and difficulties moving products through international trade routes. Global industry forecasts suggest production could decline by more than a third this season, although final harvest figures may differ. China's reliance on imports makes disruptions abroad particularly relevant to local shoppers.\n\nMeanwhile, snacks, desserts and pistachio-filled “Dubai chocolate” sustain demand. Reduced supply can therefore raise prices and encourage rationing. Planting cannot provide immediate relief: trees usually need five or six years to yield their first small crop, with full production taking longer. Expanding supply requires time as well as suitable weather.",
+    "vocabulary": [
+     {
+      "word": "coincided",
+      "definition": "Happened at the same time as something else."
+     },
+     {
+      "word": "disrupt",
+      "definition": "To interrupt a process or prevent it from working normally."
+     },
+     {
+      "word": "abundant",
+      "definition": "Available in large amounts."
+     },
+     {
+      "word": "rationing",
+      "definition": "Limiting how much of a scarce product each person can buy or receive."
+     },
+     {
+      "word": "yield",
+      "definition": "To produce a crop or other result."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How did the heatwave worsen the expected harvest?",
+      "options": [
+       "It disrupted pollination in a year already expected to produce a smaller crop.",
+       "It removed the trees’ natural variation between harvests.",
+       "It immediately replaced all older trees with young ones."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Which statement preserves the limits of the global forecast?",
+      "options": [
+       "A decline of more than a third is guaranteed.",
+       "A decline of more than a third is forecast, but final figures may differ.",
+       "Every region has already reported its final harvest."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Why can planting more trees not quickly end the shortage?",
+      "options": [
+       "Planting trees immediately reduces demand for snacks.",
+       "New trees reach full production as soon as they are planted.",
+       "New trees need years to produce even their first small crop."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/why-are-pistachios-suddenly-so-expensive/level-3/07629a488238b231c052de17c2bb4633fefca11c4c87b431050f96d280d3655a.mp3"
+   }
+  }
+ },
+ {
   "slug": "spain-sees-its-second-deadly-train-crash-this-year",
   "title": "Spain Sees Its Second Deadly Train Crash This Year",
   "summary": "Rescue work continues; reported casualties may change, and the official cause remains unknown.",
