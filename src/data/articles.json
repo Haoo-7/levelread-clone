@@ -1,5 +1,142 @@
 [
  {
+  "slug": "black-clothes-never-seem-to-go-out-of-style",
+  "title": "Black Clothes Never Seem to Go Out of Style",
+  "summary": "Easy matching and personal confidence help explain a familiar shopping choice.",
+  "date": 1793491200000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793277493359-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1623,
+  "levels": {
+   "1": {
+    "content": "Why do people buy black clothes again and again? CNA Lifestyle spoke to fashion experts in Singapore. Black clothes are easy to wear with other colours. The same black trousers can work at the office and at dinner.\n\nSome people feel less worried in black. They may feel better about their bodies. Black may also make small marks harder to see. But not everyone likes black or feels better in it.\n\nSeeing clothes in a shop can change people's choices. At one brand, black and cream sold best online. Green sold best at a shop event. Trying a colour may help people feel ready to wear it.",
+    "vocabulary": [
+     {
+      "word": "colours",
+      "definition": "Red, blue and green are examples of these."
+     },
+     {
+      "word": "marks",
+      "definition": "Small spots or lines on a surface."
+     },
+     {
+      "word": "choices",
+      "definition": "The things people decide to take or do."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why are black clothes easy to use?",
+      "options": [
+       "They cost less in every shop.",
+       "They never get dirty.",
+       "They go with other colours."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/black-clothes-never-seem-to-go-out-of-style/level-1/aa36ee44bd7c9f90704161f980109c915fb9f1d631184a8458c9acc8d93f7ee1.mp3"
+   },
+   "2": {
+    "content": "You enter a shop planning to buy something colourful but leave with another black outfit. A CNA Lifestyle report explored this familiar choice through interviews with fashion designers, shop owners and stylists in Singapore. At Rock Daisy, black accounts for 32% of sales, compared with 11% for green.\n\nBlack is easy to match with clothes people already own. The same trousers can suit work, dinner or a family event. A black shirt can also look relaxed or formal with different shoes and accessories. Wearing an item often may make its price feel easier to accept.\n\nFor some shoppers, black reduces worries about standing out or how their bodies look. It may make stains or wrinkles less noticeable. Choosing black can even make an unusual clothing shape feel less risky.\n\nHowever, preferences differ. Indigo blue is more popular at 45R. At a Rock Daisy shop event, green became the best seller after black and cream had led online. Seeing and trying colours can change what feels comfortable.",
+    "vocabulary": [
+     {
+      "word": "outfit",
+      "definition": "A set of clothes worn together."
+     },
+     {
+      "word": "accessories",
+      "definition": "Extra things worn with clothes, such as belts or jewellery."
+     },
+     {
+      "word": "stains",
+      "definition": "Dirty marks that can be hard to remove."
+     },
+     {
+      "word": "preferences",
+      "definition": "The things people like more than other things."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why can a black item feel worth its price?",
+      "options": [
+       "It must be cheaper than colourful clothes.",
+       "It removes the need for shoes.",
+       "The buyer expects to wear it often."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What does the Rock Daisy shop event suggest?",
+      "options": [
+       "Shoppers always dislike green online.",
+       "Seeing clothes in person can change colour choices.",
+       "Black sells best in every setting."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/black-clothes-never-seem-to-go-out-of-style/level-2/9a7c75bafc7a9d062653922920100945821bb9a597854650c085d7b53450f94f.mp3"
+   },
+   "3": {
+    "content": "Black clothing's lasting appeal involves more than appearance. In interviews with CNA Lifestyle, Singapore fashion designers, retailers and stylists described a combination of practical convenience and emotional reassurance. At Rock Daisy, black represents 32% of sales, while green, the next most popular colour, accounts for 11%.\n\nVersatility helps explain the gap. Black trousers can move between professional and social settings, while shoes or jewellery can change a black shirt's mood. Because such pieces combine readily with an existing wardrobe, shoppers may anticipate wearing them frequently and find their price easier to justify.\n\nBlack can also reduce perceived social risk. Some shoppers worry less about conspicuous colours, stains, wrinkles or their body's appearance when wearing it. These are individual responses, not evidence that everyone looks or feels better in black. A familiar colour may even encourage experimentation: someone hesitant about a jacket's unconventional shape might accept it in black.\n\nNevertheless, preference depends on context. Indigo blue outsells black at 45R. Rock Daisy initially found black and cream most popular online, yet green led at a subsequent physical shop event. Seeing fabric directly or trying an outfit can make unfamiliar colours feel less uncertain. Black may therefore express genuine preference, practical habit or caution; its popularity does not mean shoppers' tastes are fixed.",
+    "vocabulary": [
+     {
+      "word": "reassurance",
+      "definition": "A feeling of reduced worry or greater confidence."
+     },
+     {
+      "word": "Versatility",
+      "definition": "The ability to serve many purposes or suit different situations."
+     },
+     {
+      "word": "conspicuous",
+      "definition": "Easy to notice or attracting attention."
+     },
+     {
+      "word": "experimentation",
+      "definition": "The act of trying unfamiliar ideas or approaches."
+     },
+     {
+      "word": "context",
+      "definition": "The circumstances that influence how something is understood or experienced."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How can black encourage experimentation?",
+      "options": [
+       "A familiar colour can make an unusual shape feel less risky.",
+       "It makes unconventional designs look identical.",
+       "It guarantees that strangers will admire an outfit."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What does the comparison between online and physical sales show?",
+      "options": [
+       "Online buyers cannot see any colours.",
+       "Shopping context can influence colour preferences.",
+       "Green permanently replaced black at every brand."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Which conclusion best reflects the article?",
+      "options": [
+       "Black is popular because everyone has the same taste.",
+       "Black can reflect preference, convenience or caution.",
+       "Black clothing always provides better value than other colours."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/black-clothes-never-seem-to-go-out-of-style/level-3/40804467d58b59798101115a3cf650e649b72e266cddf65d57cf725270a91da2.mp3"
+   }
+  }
+ },
+ {
   "slug": "hong-kong-cancels-hilltop-lights-after-public-opposition",
   "title": "Hong Kong Cancels Hilltop Lights After Public Opposition",
   "summary": "The Tourism Board promised to remove equipment and restore affected walking paths.",
