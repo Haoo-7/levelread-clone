@@ -1,5 +1,279 @@
 [
  {
+  "slug": "mexico-remembers-loved-ones-with-flowers-and-altars",
+  "title": "Mexico Remembers Loved Ones with Flowers and Altars",
+  "summary": "Day of the Dead traditions bring family memories into homes and public celebrations.",
+  "date": 1793606400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793540807458-cover.png",
+  "originalUrl": "https://apnews.com/article/3a7842be9ad9d7e63d63b33334cad7de",
+  "reads": 1194,
+  "levels": {
+   "1": {
+    "content": "Families in Mexico are getting ready for the Day of the Dead. The main days are November 1 and 2. People remember family members who have died. Some people paint their faces to look like skeletons. There are also parades in Mexico City.\n\nAt home, families make altars, special places for gifts and memories. They put out photos, candles and food. They add bright orange flowers called marigolds. People believe these flowers help the dead find their way home.\n\nThis is a belief, not a fact about people coming back to life. The festival gives families time to remember loved ones together.",
+    "vocabulary": [
+     {
+      "word": "remember",
+      "definition": "To think about someone or something from the past."
+     },
+     {
+      "word": "candles",
+      "definition": "Objects made of wax that give light when they burn."
+     },
+     {
+      "word": "believe",
+      "definition": "To think that something is true."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Who do families remember?",
+      "options": [
+       "People in a sports team.",
+       "Visitors at a market.",
+       "Family members who have died."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/mexico-remembers-loved-ones-with-flowers-and-altars/level-1/e4c5d18a60e5360f10c1dda780ce604e8e3d1ad4dc7887f31c3d001eff0bbee4.mp3"
+   },
+   "2": {
+    "content": "Orange flowers and skeleton face paint mark Mexico's Day of the Dead celebrations. Events begin in October and lead up to November 1 and 2. Mexico City holds large parades, but family altars are another important part of the festival.\n\nAn altar is a special place where families arrange photographs, candles and offerings for relatives who have died. These offerings can include the person's favourite food. Orange marigolds decorate streets and markets as well as altars. According to the tradition, their bright colour helps guide the dead home for a brief visit.\n\nThe return of the dead is a religious and cultural belief, not a claim that people physically come back to life. The festival combines Indigenous traditions with Catholic influences. Customs differ between communities, so a city parade does not show every family's experience.\n\nBeyond the public celebrations, these preparations help families remember particular people. A familiar meal or photograph connects the festival to someone's life, rather than to death alone.",
+    "vocabulary": [
+     {
+      "word": "offerings",
+      "definition": "Gifts given as part of a religious or cultural practice."
+     },
+     {
+      "word": "guide",
+      "definition": "To show someone the way to a place."
+     },
+     {
+      "word": "traditions",
+      "definition": "Beliefs or ways of doing things passed between generations."
+     },
+     {
+      "word": "relatives",
+      "definition": "People who belong to the same family."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What are marigolds traditionally believed to do?",
+      "options": [
+       "Keep families away from their homes.",
+       "Replace the food on an altar.",
+       "Guide the dead home for a visit."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why does a city parade not show every family's experience?",
+      "options": [
+       "Customs differ between communities.",
+       "The festival has no religious traditions.",
+       "All families celebrate only at home."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/mexico-remembers-loved-ones-with-flowers-and-altars/level-2/c6c2ccf5442dcd345f9ac3e55b84a8086c3eae6e689196abd673ca8a8296d20d.mp3"
+   },
+   "3": {
+    "content": "Across Mexico, orange marigolds, candles and skeleton face paint signal the arrival of Day of the Dead celebrations. Festivities begin in October and culminate on November 1 and 2. Although Mexico City's parades offer a highly visible spectacle, domestic altars reveal the festival's more intimate relationship with family memory.\n\nFamilies arrange photographs, flowers, candles and offerings to honour deceased relatives. Favourite dishes make the preparations personal: the person being remembered helps determine what is placed on the altar. Marigolds, known in Mexico as cempasuchil, have a particular symbolic role. Their vivid colour is traditionally believed to guide returning souls home. That return belongs to religious and cultural belief; it should not be presented as evidence of physical resurrection.\n\nThe practices bring together Indigenous traditions and Catholic influences, while retaining differences between communities. Mexico's cultural authorities describe the Indigenous festivities as deeply embedded in community life. Their significance therefore extends beyond a colourful display for spectators.\n\nSeen in this context, an altar is more than a collection of decorations. Its food and photographs connect remembrance to the details of an individual life. The public celebration and the private act of remembering coexist, but neither a parade nor a single altar can represent every community's observance.",
+    "vocabulary": [
+     {
+      "word": "culminate",
+      "definition": "To reach the main or final point of a series of events."
+     },
+     {
+      "word": "intimate",
+      "definition": "Closely connected with personal feelings or private life."
+     },
+     {
+      "word": "symbolic",
+      "definition": "Representing a belief or idea beyond its literal meaning."
+     },
+     {
+      "word": "remembrance",
+      "definition": "The act of keeping someone or something in memory."
+     },
+     {
+      "word": "observance",
+      "definition": "The practice of following a custom or marking a special occasion."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What makes the food offerings personal?",
+      "options": [
+       "They reflect the remembered person’s favourite dishes.",
+       "They must all be bought at the same market.",
+       "They are chosen to match the parade decorations."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How should the return of souls be understood in this article?",
+      "options": [
+       "As a scientific explanation of the flowers’ colour.",
+       "As a religious and cultural belief.",
+       "As evidence that people physically return to life."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What does the article suggest about public and private celebrations?",
+      "options": [
+       "Public parades have replaced all domestic altars.",
+       "Every community follows one identical form of observance.",
+       "Both coexist, with differences between communities."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/mexico-remembers-loved-ones-with-flowers-and-altars/level-3/afcf51285c31ce0f667f342a9f87366a1192defb529177c9969d9ccd8ac5e302.mp3"
+   }
+  }
+ },
+ {
+  "slug": "china-plans-three-astronauts-moon-two-will-land",
+  "title": "China Plans to Send Three Astronauts to the Moon — Two Will Land",
+  "summary": "Two launches and lunar docking are central to the planned mission before 2030.",
+  "date": 1793577600000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793542457717-cover.png",
+  "originalUrl": "https://english.cctv.cn/2026/11/01/ARTII1CCjav3DRzNkzJNgMeI261101.shtml",
+  "reads": 1624,
+  "levels": {
+   "1": {
+    "content": "China plans to send three astronauts to the Moon. Only two will land there. The third will stay in a spacecraft above the Moon. China hopes to do this before 2030. The trip has not happened yet.\n\nTwo rockets will carry two different spacecraft. One is a lander. It will take two people down to the Moon. The other will carry all three astronauts from Earth. The spacecraft will meet and join above the Moon.\n\nAfter their work, the two astronauts will leave the Moon in the lander. They will meet the waiting spacecraft again. All three will then return to Earth. More tests are still needed.",
+    "vocabulary": [
+     {
+      "word": "astronauts",
+      "definition": "People trained to travel and work in space."
+     },
+     {
+      "word": "join",
+      "definition": "To come together and connect."
+     },
+     {
+      "word": "return",
+      "definition": "To go back to a place."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How many astronauts will land on the Moon?",
+      "options": [
+       "Two astronauts will land.",
+       "One astronaut will land.",
+       "Three astronauts will land."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/china-plans-three-astronauts-moon-two-will-land/level-1/2440cd75149c1afc18b89fad1d5c056e924c152b433480e28e8b7044aa928345.mp3"
+   },
+   "2": {
+    "content": "China has shared more details of its plan to land astronauts on the Moon before 2030. Three people will travel there, but only two will reach the surface. The third will remain in a spacecraft orbiting the Moon. Officials discussed the plan in Beijing on October 31.\n\nThe mission will use two rocket launches. One will carry the Lanyue lander, while the other will carry the Mengzhou spacecraft and its crew. The vehicles will meet and connect in lunar orbit. This connection is called docking. Two astronauts will then transfer into Lanyue and descend to the surface.\n\nAfter carrying out scientific work, the pair will take off in the lander and meet Mengzhou again. All three astronauts will return to Earth together. The waiting spacecraft is therefore essential to completing the journey safely.\n\nThe landing remains a plan, not a completed mission. Engineers still need to test equipment, including an uncrewed lander flight. The exact landing date and the crew members' names have not been announced.",
+    "vocabulary": [
+     {
+      "word": "orbiting",
+      "definition": "Moving around a planet, moon or other object in space."
+     },
+     {
+      "word": "docking",
+      "definition": "Connecting two vehicles together in space."
+     },
+     {
+      "word": "transfer",
+      "definition": "To move from one place or vehicle to another."
+     },
+     {
+      "word": "uncrewed",
+      "definition": "Having no people on board."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why must the spacecraft dock before the landing?",
+      "options": [
+       "To let two astronauts move into the lander.",
+       "To bring samples back without a crew.",
+       "To leave the crew on Earth."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What is still uncertain about the mission?",
+      "options": [
+       "Whether the plan includes a return to Earth.",
+       "Whether the plan needs two spacecraft.",
+       "The exact landing date and the crew names."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/china-plans-three-astronauts-moon-two-will-land/level-2/25d90a18f0668b189bd8541b4c93b770dbb707c79ded1d67316a34c254a58f71.mp3"
+   },
+   "3": {
+    "content": "China's planned first crewed Moon landing will divide a three-person crew between the lunar surface and orbit. Two astronauts will descend in the Lanyue lander, while a third remains aboard Mengzhou above the Moon. Details outlined in Beijing on October 31 describe a mission architecture intended to achieve a landing before 2030, rather than a confirmed flight date.\n\nTwo separate rocket launches will send the lander and crewed spacecraft toward the Moon. They must rendezvous and dock in lunar orbit before two astronauts can transfer into Lanyue. After scientific work on the surface, the pair will launch from the Moon and reconnect with Mengzhou. All three crew members will then return to Earth together.\n\nSeparating the launches avoids placing both vehicles on a single rocket, but makes successful orbital docking indispensable. Reaching the surface is therefore only one stage of a journey that also depends on ascent, reunion and a safe return. The astronaut remaining in orbit has a distinct role in that sequence, rather than simply missing the landing.\n\nThe arrangement recalls Apollo 11, whose three-person crew included two surface explorers and one astronaut in orbit. Unlike China's proposed two-launch approach, Apollo 11 launched its spacecraft together. China's equipment still requires testing, including an uncrewed lander flight; the landing date and crew identities remain unannounced.",
+    "vocabulary": [
+     {
+      "word": "architecture",
+      "definition": "The overall design and arrangement of parts in a system."
+     },
+     {
+      "word": "rendezvous",
+      "definition": "To meet at a planned place and time, especially in space."
+     },
+     {
+      "word": "indispensable",
+      "definition": "So necessary that something cannot succeed without it."
+     },
+     {
+      "word": "ascent",
+      "definition": "Movement upward, here from the Moon into orbit."
+     },
+     {
+      "word": "unannounced",
+      "definition": "Not yet made known publicly."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What additional requirement does the two-launch design create?",
+      "options": [
+       "The lander must return directly to Earth alone.",
+       "The vehicles must meet and dock in lunar orbit.",
+       "The entire crew must descend to the surface."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Which comparison with Apollo 11 is supported?",
+      "options": [
+       "Both assign two astronauts to the surface and one to orbit.",
+       "Both plans launch their spacecraft together on one rocket.",
+       "Both have already landed their crews on the Moon."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How should the before-2030 goal be interpreted?",
+      "options": [
+       "It confirms a specific landing day.",
+       "It proves the equipment has completed testing.",
+       "It is a target rather than a confirmed flight date."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/china-plans-three-astronauts-moon-two-will-land/level-3/086b948c89af01d2b6e072dee07e3917d7463743ba10e68ef51f2718e238216a.mp3"
+   }
+  }
+ },
+ {
   "slug": "black-clothes-never-seem-to-go-out-of-style",
   "title": "Black Clothes Never Seem to Go Out of Style",
   "summary": "Easy matching and personal confidence help explain a familiar shopping choice.",
