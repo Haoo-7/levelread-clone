@@ -1,5 +1,279 @@
 [
  {
+  "slug": "taiwan-survey-many-want-more-savings-before-having-children",
+  "title": "Taiwan Survey: Many Want More Savings Before Having Children",
+  "summary": "Nearly six in ten respondents wanted at least NT$1 million saved.",
+  "date": 1793779200000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/taiwan-survey-many-want-more-savings-before-having-children/26055b7afa352e7c3f69720247fd4299d993581f99477972efa734b3d636e772-cover-v2.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1219,
+  "levels": {
+   "1": {
+    "content": "Many people in a Taiwan survey want more savings before having children. Savings are money people keep for later. Nearly six in ten wanted at least one million Taiwan dollars. This money was not for buying a home.\n\nAn online survey asked 1,244 adults about having children. Some wanted cheaper childcare. Others wanted work hours they could change more easily. These things could help people care for a baby.\n\nThe survey does not show what everyone in Taiwan thinks. It shows what these people want, not what every family needs. Families can have children with less money. The survey cannot tell people the right time to become parents.",
+    "vocabulary": [
+     {
+      "word": "savings",
+      "definition": "Money you keep to use later."
+     },
+     {
+      "word": "childcare",
+      "definition": "Care for children when parents are away."
+     },
+     {
+      "word": "survey",
+      "definition": "Questions asked to learn what people think or do."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the survey tell us?",
+      "options": [
+       "What all parents already have.",
+       "What every family needs.",
+       "What these people want."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/taiwan-survey-many-want-more-savings-before-having-children/level-1/4479327fe9c4d01c19b1930d06840e49f49753b2c2f10cab91ae7b0909d56a09.mp3"
+   },
+   "2": {
+    "content": "An online survey in Taiwan suggests that money worries can affect plans to have children. Nearly six in ten respondents wanted at least NT$1 million in savings before considering having a child. This meant money available for daily needs and emergencies, separate from savings for a home.\n\nTaipei Fertility Clinic collected answers from 1,244 adults aged 26 to 45. Most either wanted children or were married without children. About 37% wanted at least NT$1.5 million, while another 22% chose between NT$1 million and NT$1.5 million.\n\nMoney was not the only concern. Around 44% wanted childcare that was easier to find and more affordable. Another 36% wanted more flexible working hours. The clinic proposed government-supported savings accounts for future parents and childcare near workplaces. These are suggestions, not existing policies.\n\nThe online sample does not represent every adult in Taiwan. The savings figures describe personal comfort levels, not a minimum amount every family must have. They reveal worries about readiness rather than a universal rule for parenthood.",
+    "vocabulary": [
+     {
+      "word": "emergencies",
+      "definition": "Unexpected problems that need quick action."
+     },
+     {
+      "word": "affordable",
+      "definition": "Not too expensive for people to pay for."
+     },
+     {
+      "word": "flexible",
+      "definition": "Able to change to meet different needs."
+     },
+     {
+      "word": "respondents",
+      "definition": "People who answer questions in a survey."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What kind of savings did respondents mean?",
+      "options": [
+       "Money that employers must pay for childcare.",
+       "Money available for daily needs and emergencies.",
+       "Money already reserved for buying a home."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What is the status of the clinic’s support ideas?",
+      "options": [
+       "They are proposals rather than existing policies.",
+       "They are policies already introduced.",
+       "They are rules for every family."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/taiwan-survey-many-want-more-savings-before-having-children/level-2/cae55f31aa1285753830050e5e3b54a51ebfb516e0d7f608ce758789a9c6acab.mp3"
+   },
+   "3": {
+    "content": "An online survey in Taiwan highlights a gap between wanting children and feeling financially prepared. Nearly six in ten respondents wanted at least NT$1 million in readily available savings, excluding money reserved for a home, before considering parenthood.\n\nTaipei Fertility Clinic surveyed 1,244 adults aged 26 to 45, mostly people who wanted children or were married without them. Three quarters thought a household with two earners should receive at least NT$90,000 monthly after tax before having children. About two thirds reported individual annual incomes below NT$700,000. These figures concern different units and periods; they cannot be directly compared to establish a household income shortfall.\n\nPractical support also mattered. Around 44% sought more accessible, affordable childcare, and 36% wanted flexible working hours. A doctor involved in the survey said some couples feared career consequences. The clinic proposed government-supported savings accounts for prospective parents and workplace-area childcare, but these remain proposals rather than implemented policies.\n\nThe findings capture respondents' preferred financial cushions, not an objective threshold for raising children. Nor does this online sample represent all Taiwanese adults. Families make different choices with different resources. The responses nevertheless illustrate how uncertainty about costs, care and careers can complicate the decision to become parents.",
+    "vocabulary": [
+     {
+      "word": "excluding",
+      "definition": "Leaving something out."
+     },
+     {
+      "word": "shortfall",
+      "definition": "An amount that is less than what is needed or expected."
+     },
+     {
+      "word": "prospective",
+      "definition": "Likely or expected to become something in the future."
+     },
+     {
+      "word": "threshold",
+      "definition": "A level that must be reached before something can happen."
+     },
+     {
+      "word": "uncertainty",
+      "definition": "A lack of certainty about what will happen."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why can the two income figures not establish a household shortfall?",
+      "options": [
+       "Both figures measure the same household’s monthly income.",
+       "They measure different units over different periods.",
+       "Neither figure concerns earnings."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "How should the desired savings amounts be interpreted?",
+      "options": [
+       "As a required minimum for every family.",
+       "As respondents’ preferred financial cushions.",
+       "As proof that all respondents already have enough savings."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What broader tension do the responses illustrate?",
+      "options": [
+       "Childcare availability removes all career concerns.",
+       "Financial uncertainty prevents every family from having children.",
+       "Wanting children can coexist with worries about costs, care and careers."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/taiwan-survey-many-want-more-savings-before-having-children/level-3/668730becd60c16ea6b4e3d8a2eaff15443c4f8e36c76bdf5938028cf92a5470.mp3"
+   }
+  }
+ },
+ {
+  "slug": "people-raise-millions-to-save-a-home-for-rare-animals",
+  "title": "People Raise Millions to Save a Home for Rare Animals",
+  "summary": "An Australian land purchase could connect habitats and support Indigenous care.",
+  "date": 1793750400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793278691727-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1588,
+  "levels": {
+   "1": {
+    "content": "People are giving money to save land in Queensland, Australia. Koalas, large birds called cassowaries and tree-kangaroos live there. The land is called Wooroora. It is now used for cattle farming.\n\nBush Heritage Australia wants to buy it and protect the animals' homes. By late October, people had given over 19 million Australian dollars. The group needs more money. It has not bought the land yet.\n\nThe land is next to another protected area. Joining them could help animals move between forests. Wooroora is also on the traditional lands of the Jirrbal people. Community members hope to help care for it and protect places important to their culture.",
+    "vocabulary": [
+     {
+      "word": "protect",
+      "definition": "To keep someone or something safe."
+     },
+     {
+      "word": "forests",
+      "definition": "Large areas with many trees."
+     },
+     {
+      "word": "culture",
+      "definition": "The ways of life and traditions of a group of people."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Has the group bought the land yet?",
+      "options": [
+       "No, it wants to sell the land.",
+       "Yes, it bought the land already.",
+       "No, it still needs more money."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/people-raise-millions-to-save-a-home-for-rare-animals/level-1/2952e156649d97073d0fb4933d8114eaf193d45f0fa04a9ee91607acc51ebac4.mp3"
+   },
+   "2": {
+    "content": "Supporters are raising millions to protect Wooroora, a cattle station in Queensland, Australia. Its rainforests and woodland provide homes for southern cassowaries, tree-kangaroos and koalas. At least 12 threatened animal species have been recorded there.\n\nBush Heritage Australia wants to buy the property and create a nature reserve. By late October, donations had passed 19 million Australian dollars. The target is A$24.7 million by December 24, covering the purchase and the first five years of care. However, more money is needed and the purchase is not complete.\n\nWooroora is beside Yourka, an existing reserve. Connecting protected areas could give animals more space to find food, find partners and move away from difficult conditions. Such links are called wildlife corridors.\n\nThe property also lies on the traditional lands of the Jirrbal people. Private ownership has made access to some important places difficult. Bush Heritage says it has worked with Jirrbal representatives on the proposed purchase. Community members hope to help care for the land and protect cultural places.",
+    "vocabulary": [
+     {
+      "word": "threatened",
+      "definition": "At risk of disappearing or being lost."
+     },
+     {
+      "word": "donations",
+      "definition": "Money or things given to help a person or cause."
+     },
+     {
+      "word": "reserve",
+      "definition": "An area of land kept to protect nature."
+     },
+     {
+      "word": "access",
+      "definition": "The ability or permission to enter or use a place."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why could linking Wooroora and Yourka help wildlife?",
+      "options": [
+       "It would stop animals moving between forests.",
+       "It could give animals more space to move.",
+       "It would remove every difficult condition."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What would the fundraising target pay for?",
+      "options": [
+       "The land and its first five years of care.",
+       "Only one year of animal food.",
+       "Only a new road to the property."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/people-raise-millions-to-save-a-home-for-rare-animals/level-2/59dd1d0573c15f3c82a978caa7497412ea051d660425f9784bdddbd6670e891d.mp3"
+   },
+   "3": {
+    "content": "A fundraising campaign could turn Wooroora, a Queensland cattle station, into a nature reserve. Its more than 20,000 hectares span rainforest, open woodland and tall eucalyptus forests. Southern cassowaries, tree-kangaroos and koalas occur there, alongside other wildlife; at least 12 threatened animal species have been recorded on the property.\n\nBush Heritage Australia hopes to purchase the land before future development can damage it. By late October, supporters had donated more than A$19 million towards a target of A$24.7 million by December 24. The funding would cover acquisition and the first five years of management. Nevertheless, fundraising remains unfinished and ownership has not transferred to the group.\n\nThe potential benefits extend beyond the property's boundaries. Wooroora adjoins Yourka reserve, so protecting it could strengthen a connected landscape. Wildlife corridors allow animals to move between habitats to feed, reproduce or escape adverse conditions. Such mobility can become especially valuable when changing weather makes existing habitat hotter or drier.\n\nThe proposal also carries cultural significance. Wooroora lies on Jirrbal traditional lands, where private ownership has restricted access to some important places. Elder Kurt Noble said his great-grandmother was born there, yet he could not visit until recently. Bush Heritage says it has consulted Jirrbal representatives; community members hope to participate in caring for the land and safeguarding culturally important places.",
+    "vocabulary": [
+     {
+      "word": "acquisition",
+      "definition": "The act of obtaining something, especially by buying it."
+     },
+     {
+      "word": "adjoins",
+      "definition": "Shares a boundary with or lies directly beside something."
+     },
+     {
+      "word": "adverse",
+      "definition": "Unfavourable or harmful."
+     },
+     {
+      "word": "mobility",
+      "definition": "The ability to move between places."
+     },
+     {
+      "word": "safeguarding",
+      "definition": "Protecting something from harm or loss."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why is the proposed reserve still uncertain?",
+      "options": [
+       "Fundraising and the purchase are not complete.",
+       "The group has decided to abandon the land.",
+       "All threatened species have left the property."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How could wildlife corridors help as weather changes?",
+      "options": [
+       "They guarantee that every habitat stays cool.",
+       "They stop all changes in rainfall.",
+       "They let animals move away from increasingly unsuitable conditions."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why does the proposal matter culturally?",
+      "options": [
+       "It would erase the history of private ownership.",
+       "It would create the Jirrbal community for the first time.",
+       "It could support Jirrbal care for culturally important places."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/people-raise-millions-to-save-a-home-for-rare-animals/level-3/be06ad1f5305cd7b1b8e6ae090c003bd5846652ccbaf962c2b3db8603bab5345.mp3"
+   }
+  }
+ },
+ {
   "slug": "young-chinese-people-discover-the-joy-of-free-hobbies",
   "title": "Young Chinese People Discover the Joy of Free Hobbies",
   "summary": "Online posts share cheap ways to enjoy city life with friends.",
