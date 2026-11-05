@@ -1,5 +1,279 @@
 [
  {
+  "slug": "an-online-temple-where-visitors-cannot-chat",
+  "title": "An Online Temple Where Visitors Cannot Chat",
+  "summary": "A young South Korean uses AI to create a quiet shared space.",
+  "date": 1793865600000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793768203307-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1244,
+  "levels": {
+   "1": {
+    "content": "A young man in South Korea built an online temple. A temple is a place where people pray. His website, Sansa, offers a quiet break. Park Jin-won made it with help from AI while looking for a job.\n\nVisitors move small characters around the temple. They can sit, bow or listen to songs used for prayer. They can see other visitors, but they cannot chat. There is no place to send messages.\n\nPark wanted to rest when looking for work made him tired. Visiting a real temple took time and energy. His website may help people feel calm. But it cannot solve their job problems or replace a real temple.",
+    "vocabulary": [
+     {
+      "word": "temple",
+      "definition": "A place where people pray."
+     },
+     {
+      "word": "quiet",
+      "definition": "Making little or no noise."
+     },
+     {
+      "word": "calm",
+      "definition": "Feeling peaceful and not worried."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What can visitors do on Sansa?",
+      "options": [
+       "Send messages.",
+       "Apply for jobs.",
+       "Sit quietly."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/an-online-temple-where-visitors-cannot-chat/level-1/4deff8c1b182ddb83ca5047425d304e0a10c32b2729493e3d03645fb2a657c98.mp3"
+   },
+   "2": {
+    "content": "A new website in South Korea invites people to slow down. Called Sansa, it is an online Buddhist temple created by Park Jin-won, a 26-year-old looking for a job. He used AI tools to help build it.\n\nVisitors control small characters dressed as young monks. They can walk through the temple, sit on cushions, listen to chants or bow before a Buddha statue. They can also see others nearby. However, there is no chat box, so nobody can send messages or ask visitors to explain themselves.\n\nPark says job applications left him tired and worried. He wanted the rest a real temple could offer, but travelling there required time and energy. An online version offered an easier way to take a break.\n\nThe site's popularity suggests that some people want company without pressure to talk. Still, a virtual visit is different from being in a real temple. A peaceful website cannot solve unemployment or personal stress, even if it offers a few quiet minutes.",
+    "vocabulary": [
+     {
+      "word": "cushions",
+      "definition": "Soft things people sit on."
+     },
+     {
+      "word": "chants",
+      "definition": "Words sung or repeated during religious activities."
+     },
+     {
+      "word": "pressure",
+      "definition": "A feeling that you must do something."
+     },
+     {
+      "word": "unemployment",
+      "definition": "The situation of being without a paid job."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did Park want an online temple?",
+      "options": [
+       "Travelling to a real temple took time and energy.",
+       "He wanted visitors to discuss job applications.",
+       "He wanted to sell cushions online."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How can visitors share the space?",
+      "options": [
+       "They must send a message first.",
+       "They must introduce themselves.",
+       "They can see others without chatting."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/an-online-temple-where-visitors-cannot-chat/level-2/b63b0c93d44672836e9ba952bc0dd046536a4ba752c08a8c58da49c7b194e3d9.mp3"
+   },
+   "3": {
+    "content": "An online Buddhist temple in South Korea has attracted attention by removing a familiar internet feature: chat. Sansa, created by 26-year-old jobseeker Park Jin-won with assistance from AI, allows visitors to share a space without exchanging messages.\n\nUsers guide characters dressed as young monks through a forest temple. They can sit on cushions, listen to chants, handle prayer beads or bow before a Buddha statue. Other visitors remain visible, but there is no expectation to introduce oneself or sustain a conversation. This deliberate absence of communication distinguishes Sansa from platforms built around constant interaction.\n\nPark attributes the project to his own exhaustion while preparing job applications after university. Although he wanted to rest at a Buddhist temple, travelling required resources he did not always have. AI-assisted coding helped him create a more accessible alternative. Its appeal has also inspired online Catholic and Protestant spaces.\n\nReligious studies professor Sung Hae-young suggests that some young people seek peace without pressure to join a religious community. That interpretation does not establish what all visitors want. Nor can a digital sanctuary reproduce a physical temple or resolve unemployment and personal stress. Nevertheless, Sansa suggests that an online space can attract interest by allowing quiet companionship rather than demanding participation.",
+    "vocabulary": [
+     {
+      "word": "sustain",
+      "definition": "To keep something going over time."
+     },
+     {
+      "word": "deliberate",
+      "definition": "Done intentionally rather than by accident."
+     },
+     {
+      "word": "exhaustion",
+      "definition": "Extreme physical or mental tiredness."
+     },
+     {
+      "word": "sanctuary",
+      "definition": "A place that offers peace or safety."
+     },
+     {
+      "word": "companionship",
+      "definition": "The comfort of being with other people."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What distinguishes Sansa from many online platforms?",
+      "options": [
+       "It requires visitors to sustain conversations.",
+       "It prevents visitors from seeing anyone else.",
+       "It allows shared presence without messaging."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What does the professor suggest?",
+      "options": [
+       "Digital temples can resolve unemployment.",
+       "Some young people seek peace without pressure to join.",
+       "All visitors intend to join a religious community."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What limitation does the article acknowledge?",
+      "options": [
+       "A digital sanctuary cannot resolve unemployment and personal stress.",
+       "Visitors cannot take part in any religious activity.",
+       "AI assistance prevented Park from creating the website."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/an-online-temple-where-visitors-cannot-chat/level-3/5e5736c8b8cce45c31ab3f55e510caee2826bb2e13221dd2a01cda4c9c08a797.mp3"
+   }
+  }
+ },
+ {
+  "slug": "hackers-turn-supermarket-freezers-into-heaters-across-europe",
+  "title": "Hackers Turn Supermarket Freezers Into Heaters Across Europe",
+  "summary": "Remote controls were disrupted, forcing stores to discard food or withdraw it as a precaution.",
+  "date": 1793836800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1793768179457-cover.png",
+  "originalUrl": "https://apnews.com/article/a8ea5b30d67da47957769f29101fe686",
+  "reads": 1534,
+  "levels": {
+   "1": {
+    "content": "Some supermarket fridges and freezers in Europe stopped keeping food cold on November 2. Stores reported attacks on their computer controls. Workers had to remove food from sale. Some shops threw food away.\n\nOne Swedish shop said someone set its controls to 50 degrees Celsius. This was a reported setting, not a temperature measured in every freezer. The machines did not become new kinds of heaters. Their cooling was disrupted.\n\nSome stores use the internet to check and control their equipment. Attackers can misuse access to these systems. In Ireland, 13 stores removed food to protect customers. Their problem was fixed that day. Investigators still need to find out who was responsible.",
+    "vocabulary": [
+     {
+      "word": "controls",
+      "definition": "Parts of a system used to make it work or change its settings."
+     },
+     {
+      "word": "remove",
+      "definition": "To take something away from a place."
+     },
+     {
+      "word": "customers",
+      "definition": "People who buy things from a business."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did the Irish stores remove food?",
+      "options": [
+       "To change the food prices.",
+       "To protect customers.",
+       "To make more freezer space."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/hackers-turn-supermarket-freezers-into-heaters-across-europe/level-1/099ae79ff133345398f9b2fc6a0d12bc786b91acdff6aab7c8909f9b4a2a4772.mp3"
+   },
+   "2": {
+    "content": "Supermarkets in several European countries reported refrigeration problems on November 2 after apparent cyberattacks. Some stores discarded food, while others removed products as a precaution. One Swedish store said its controls had been set to 50 degrees Celsius. That was a reported setting, not proof that every freezer reached that temperature.\n\nThe description of freezers becoming heaters refers to disrupted cooling, rather than machines being converted into new appliances. Internet-connected controllers let stores monitor equipment remotely. However, access to those controls can also allow attackers to interfere with settings. Investigators had not established how every affected system was accessed.\n\nCarrefour reported 15 affected stores in Belgium. In Ireland, 13 SuperValu stores removed chilled and frozen products. Their owner, Musgrave, said the incident was resolved later that day and restocking was under way.\n\nSimilar attacks disrupted French stores in October. France's cybersecurity authority warned against leaving refrigeration controls exposed directly to the internet. Who carried out the latest attacks, and whether all the incidents were connected, remained unclear.",
+    "vocabulary": [
+     {
+      "word": "precaution",
+      "definition": "An action taken to prevent a possible problem."
+     },
+     {
+      "word": "remotely",
+      "definition": "From another place, without being physically present."
+     },
+     {
+      "word": "resolved",
+      "definition": "Successfully dealt with or fixed."
+     },
+     {
+      "word": "exposed",
+      "definition": "Left open or available to be reached."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the reported figure of 50 degrees Celsius describe?",
+      "options": [
+       "The measured temperature in every European freezer.",
+       "A control setting reported by one Swedish store.",
+       "The normal temperature for storing frozen food."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What did Musgrave say later that day?",
+      "options": [
+       "The incident was resolved and restocking was under way.",
+       "Every item removed had been confirmed spoiled.",
+       "All its stores would stop selling frozen food permanently."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/hackers-turn-supermarket-freezers-into-heaters-across-europe/level-2/8b9b650a11bed6c76b7d331e003fe289d38777c824e76ac0b92e1f266f2d7c49.mp3"
+   },
+   "3": {
+    "content": "Apparent cyberattacks disrupted supermarket refrigeration across several European countries on November 2, translating interference with digital controls into food losses and withdrawn stock. A Swedish store reported a temperature setting of 50 degrees Celsius. That figure describes a reported control setting; it does not establish the measured temperature of every affected cabinet or its contents.\n\nCalling the freezers heaters captures the reversal of their purpose, but should not imply that attackers converted them into different appliances. Networked controllers support remote supervision and adjustment of refrigeration. Compromising that access can disrupt cooling, although the precise mechanism and entry route were not established for every incident.\n\nCarrefour reported 15 affected Belgian stores, while 13 SuperValu outlets in Ireland withdrew chilled and frozen products as a precaution. Musgrave, SuperValu's owner, subsequently said the incident had been resolved that day and replenishment was progressing. Product withdrawal therefore did not mean every item had been confirmed spoiled.\n\nThe incidents followed attacks on French refrigeration systems in October. France's cybersecurity authority had warned about compromised remote controllers and direct internet exposure. These warnings explain the broader security concern without proving that all November incidents exploited one vulnerability. Responsibility and connections between the attacks remained unclear. The episode illustrates how protecting everyday equipment can be essential to keeping physical goods usable, not merely keeping computer data private.",
+    "vocabulary": [
+     {
+      "word": "interference",
+      "definition": "An action that disrupts how something normally works."
+     },
+     {
+      "word": "supervision",
+      "definition": "The process of watching and checking an activity or system."
+     },
+     {
+      "word": "withdrawal",
+      "definition": "The act of removing something from use or sale."
+     },
+     {
+      "word": "replenishment",
+      "definition": "The process of replacing supplies that have been removed or used."
+     },
+     {
+      "word": "vulnerability",
+      "definition": "A weakness that could allow a system to be harmed or misused."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why is precautionary withdrawal different from confirmed spoilage?",
+      "options": [
+       "Products may be removed without every item being confirmed spoiled.",
+       "Products are removed only after every item is tested and spoiled.",
+       "Withdrawn products are automatically safe because they look normal."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What do the French security warnings establish?",
+      "options": [
+       "Investigators had identified the same attackers in every country.",
+       "Every November incident used one proven vulnerability.",
+       "Exposed refrigeration controls present a broader security concern."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Which interpretation of the 50-degree report is justified?",
+      "options": [
+       "It proves that all affected food reached that temperature.",
+       "It concerns a reported setting, with actual temperatures not established for every cabinet.",
+       "It confirms that attackers installed new heating appliances."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/hackers-turn-supermarket-freezers-into-heaters-across-europe/level-3/9f2c6f9afb4f288e7d194b5c5fc13b7a6fdbc93cc3c6b845bef151cb7e3b01ab.mp3"
+   }
+  }
+ },
+ {
   "slug": "taiwan-survey-many-want-more-savings-before-having-children",
   "title": "Taiwan Survey: Many Want More Savings Before Having Children",
   "summary": "Nearly six in ten respondents wanted at least NT$1 million saved.",
