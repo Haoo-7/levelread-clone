@@ -1,5 +1,279 @@
 [
  {
+  "slug": "which-animals-could-you-beat-in-a-race",
+  "title": "Which Animals Could You Beat in a Race?",
+  "summary": "A giraffe can sprint faster than Usain Bolt, but distance changes the contest.",
+  "date": 1794297600000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1792981294784-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1341,
+  "levels": {
+   "1": {
+    "content": "Could you beat an animal in a race? A giraffe can run at nearly 60 kilometres per hour. Usain Bolt reached about 44 at his fastest. But a short race and a long race are different.\n\nHumans can keep running for a long time. We sweat, and this helps cool our skin as it dries. A cheetah is much faster, but its fastest runs last only a few seconds. Some dogs and horses can still beat people over long distances.\n\nTop speed does not tell the whole story. A brief fastest speed is not an average kept for many minutes. Distance, weather and the runners matter. Different people may get different results.",
+    "vocabulary": [
+     {
+      "word": "sweat",
+      "definition": "Liquid that comes out through your skin when you are hot."
+     },
+     {
+      "word": "brief",
+      "definition": "Lasting for only a short time."
+     },
+     {
+      "word": "average",
+      "definition": "A value found from the whole activity, not just its fastest moment."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What can change who wins a race?",
+      "options": [
+       "How far the race goes.",
+       "Only the runner’s size.",
+       "Only the runner’s top speed."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/which-animals-could-you-beat-in-a-race/level-1/c581c622f29cf10312b4213e6bd2283e508768810fd30f17ad614ea7359a66c1.mp3"
+   },
+   "2": {
+    "content": "Which animals could you outrun? A BBC Future article explores why the answer depends on more than top speed. A giraffe can reach nearly 60 kilometres per hour, compared with Usain Bolt's peak of about 44. Yet sprinting and running a long distance are different challenges.\n\nHumans can release heat as sweat evaporates from the skin. This helps us keep moving. Cheetahs, although much faster, usually maintain their highest speed for only seconds. That does not make humans the best distance runners: some dogs and endurance-trained horses can outperform people.\n\nComparisons also need care. Someone running five kilometres in 30 minutes averages 10 kilometres per hour, close to reported maximum speeds for some rats and hamsters. But a sustained average and a brief maximum cannot predict a real race. Acceleration matters too, especially over short distances.\n\nIn Wales, horses usually beat humans over a difficult course of roughly 35 kilometres, although people have occasionally won. Hills, ground conditions, weather and individual ability all affect results. There is no universal list of animals everyone could beat.",
+    "vocabulary": [
+     {
+      "word": "evaporates",
+      "definition": "Changes from a liquid into a gas."
+     },
+     {
+      "word": "sustained",
+      "definition": "Kept going over a period of time."
+     },
+     {
+      "word": "Acceleration",
+      "definition": "The process of increasing speed."
+     },
+     {
+      "word": "universal",
+      "definition": "True or applicable for everyone in a group."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why is a hamster’s maximum speed not enough to predict a long race against a person?",
+      "options": [
+       "Every hamster can run at its maximum speed for half an hour.",
+       "Maximum and average speeds always describe the same performance.",
+       "A brief maximum does not show how long that speed can be maintained."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What does the Welsh race show?",
+      "options": [
+       "Horses usually win, but conditions and individuals can affect the outcome.",
+       "Horses have never lost to humans.",
+       "Humans always beat horses over long distances."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/which-animals-could-you-beat-in-a-race/level-2/d6d4b945c5f628839a689b3eb708e9bebe804fec5a82e177c4e2828880cf656b.mp3"
+   },
+   "3": {
+    "content": "A giraffe's top speed of nearly 60 kilometres per hour exceeds Usain Bolt's peak of about 44, but comparing those figures cannot settle every race. A BBC Future article examines animal-speed research and explains why distance, acceleration and endurance complicate the question of which animals humans could outrun.\n\nBody size does not guarantee greater speed. A 2017 study proposed that larger animals take longer to accelerate and may exhaust the muscular energy available for reaching top speed before achieving it. Equally misleading is comparing a person's sustained average with an animal's brief maximum: the numbers describe different performances, not a predicted race result.\n\nHumans possess an endurance advantage in evaporative cooling. As sweat dries, it helps remove heat from the skin, allowing runners to remain active for longer. Cheetahs generally sustain their highest speeds for only seconds. Nevertheless, some dogs, including huskies, and horses trained for endurance can outperform people over long distances.\n\nIn Wales, humans and horses compete over a demanding course of roughly 35 kilometres. Horses usually win, though humans have occasionally finished first. Terrain and weather influence the outcome, as do the individuals involved. Animals also cannot simply be instructed to perform their fastest marathon, limiting comparisons. There is therefore no definitive ranking that tells every person which animals they would beat.",
+    "vocabulary": [
+     {
+      "word": "endurance",
+      "definition": "The ability to keep doing a demanding activity for a long time."
+     },
+     {
+      "word": "exhaust",
+      "definition": "Use up a supply completely."
+     },
+     {
+      "word": "sustained",
+      "definition": "Maintained continuously over a period of time."
+     },
+     {
+      "word": "Terrain",
+      "definition": "The physical features and surface of an area of land."
+     },
+     {
+      "word": "definitive",
+      "definition": "Providing a final, conclusive answer."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why might a very large animal fail to reach a higher top speed?",
+      "options": [
+       "Larger animals have unlimited energy for reaching top speed.",
+       "It may use up the available muscular energy before accelerating to that speed.",
+       "Body size always removes the need to accelerate."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What is the limit of the human cooling advantage?",
+      "options": [
+       "It guarantees victory over every animal in a marathon.",
+       "It proves cheetahs maintain top speed for kilometres.",
+       "Some animals can still outperform humans over long distances."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why does the article reject a definitive human-versus-animal ranking?",
+      "options": [
+       "Scientists can make every animal run an identical marathon.",
+       "Different measurements, distances, conditions and individuals prevent a universal prediction.",
+       "Top speed is sufficient to predict every distance and condition."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/which-animals-could-you-beat-in-a-race/level-3/9c3525fcf8a876df0ec0d03a09ea701cfee9e457946ced7c48a9deee133a013c.mp3"
+   }
+  }
+ },
+ {
+  "slug": "an-app-lets-strangers-vote-before-you-buy",
+  "title": "Should You Buy It? An App Lets Strangers Vote",
+  "summary": "A WeChat mini-program invites purchase advice, but users keep the final choice.",
+  "date": 1794268800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/an-app-lets-strangers-vote-before-you-buy/revision-v2-d906240efe3b52af37af4d7b46f1dd550a604856e9b482774b675dc1c01fab75.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1650,
+  "levels": {
+   "1": {
+    "content": "A Chinese app lets people ask strangers before buying something. It runs inside WeChat. Users write what they want, the price and why they want it. Other people vote yes or no and explain their answers.\n\nOne reporter asked about milk tea and a notebook. Both cost 20 yuan. Most voters said no to the drink, but six supported the notebook. Different people have different ideas about what is useful.\n\nThe votes are only advice. Users can still buy what they want. Writing a reason may help them think. But looking at other requests may make them want more things. There is no clear proof yet that the app helps people save money over time.",
+    "vocabulary": [
+     {
+      "word": "strangers",
+      "definition": "People you do not know."
+     },
+     {
+      "word": "vote",
+      "definition": "To show your choice or opinion."
+     },
+     {
+      "word": "advice",
+      "definition": "Ideas that may help someone choose what to do."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Who makes the final choice to buy?",
+      "options": [
+       "The reporter does.",
+       "The voters do.",
+       "The users do."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/an-app-lets-strangers-vote-before-you-buy/level-1/b0a289cd2972b4d970df2c8cc0f579e59a128c3170ad63f0618fae1f6afc4eaa.mp3"
+   },
+   "2": {
+    "content": "Wallet, Please Wait is a Chinese mini-program inside WeChat. Before buying something, users can list its price, explain their reasons and suggest cheaper alternatives. They can ask friends or strangers to approve or reject the purchase. However, the votes are advice, and users keep the final choice.\n\nA reporter tested the service with two items costing 20 yuan each. Five of seven voters rejected milk tea, while six supported a notebook. Some considered the drink too expensive and the notebook more useful. Yet a small pleasure for one person may seem unnecessary to another.\n\nThe service attracted attention before China's Double 11 shopping festival. Chinese media reported that more than 300,000 people had tried it by late October. Writing a reason may encourage reflection, and experienced buyers can offer useful comments.\n\nHowever, strangers do not know everyone's needs or income. Browsing requests might also introduce tempting products. There is no clear evidence yet of long-term savings. The app encourages a pause, but it cannot decide what matters to each person.",
+    "vocabulary": [
+     {
+      "word": "alternatives",
+      "definition": "Other things people could choose instead."
+     },
+     {
+      "word": "reject",
+      "definition": "To say no to an idea or request."
+     },
+     {
+      "word": "reflection",
+      "definition": "Careful thought about something."
+     },
+     {
+      "word": "tempting",
+      "definition": "Making you want to have or do something."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What did the reporter’s two requests show?",
+      "options": [
+       "Voters judged the two equally priced items differently.",
+       "Voters approved both items because their prices matched.",
+       "Voters could prevent the reporter from buying either item."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What is known about saving money with the app?",
+      "options": [
+       "Every user is certain to spend less.",
+       "The number of users proves lasting savings.",
+       "There is no clear evidence of long-term savings yet."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/an-app-lets-strangers-vote-before-you-buy/level-2/7db5849ce47cb41a4d9e45d7817b7428fb0b1a5fd02eceadcef8879ebe79bb8c.mp3"
+   },
+   "3": {
+    "content": "As China's Double 11 shopping festival encourages spending, Wallet, Please Wait invites users to pause. The WeChat mini-program lets people describe a proposed purchase, its price, their reasons and cheaper alternatives, then seek votes from friends or strangers. Approval carries no authority: users remain free to buy regardless of the result.\n\nA reporter's experiment illustrates how subjective these judgments can be. Milk tea and a notebook each cost 20 yuan, yet five of seven voters rejected the drink while six supported the notebook. Some valued the notebook's usefulness more highly, but that comparison cannot establish what either purchase is worth to a particular individual.\n\nChinese media reported more than 300,000 users and around 370,000 requests by late October. Created by a 26-year-old Shanghai product designer who had struggled with impulse shopping, the first version took eight days to build with AI coding tools. Explaining a purchase may encourage reflection, while experienced owners can suggest alternatives.\n\nNevertheless, popularity is not evidence of financial effectiveness. Strangers lack a full picture of someone's income and priorities, and browsing requests may create new desires. No clear evidence yet shows lasting savings. Some users seek reassurance or entertainment rather than restraint. The possible benefit is a moment of deliberation, not a reliable verdict on whether someone should spend.",
+    "vocabulary": [
+     {
+      "word": "subjective",
+      "definition": "Influenced by personal opinions or preferences."
+     },
+     {
+      "word": "impulse",
+      "definition": "A sudden desire to act without much thought."
+     },
+     {
+      "word": "reassurance",
+      "definition": "Something that makes a person feel less worried or doubtful."
+     },
+     {
+      "word": "restraint",
+      "definition": "Control over the desire to do something."
+     },
+     {
+      "word": "deliberation",
+      "definition": "Careful consideration before making a decision."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why can the milk-tea comparison not settle an individual’s decision?",
+      "options": [
+       "Votes automatically determine what users are allowed to buy.",
+       "Equal prices make all products equally useful to everyone.",
+       "Personal priorities can differ from voters’ judgments."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why is popularity insufficient evidence of financial effectiveness?",
+      "options": [
+       "Usage figures alone do not show lasting savings.",
+       "All users join specifically to reduce their spending.",
+       "Every request represents a purchase that was prevented."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How might the app work against its intended restraint?",
+      "options": [
+       "It requires users to accept the majority decision.",
+       "Browsing requests may introduce products users then want.",
+       "It hides every product mentioned in other requests."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/an-app-lets-strangers-vote-before-you-buy/level-3/7e25d5e3a9b797de1724bdd9380b3466e42b3b51f2dc51cab24bf3dd27884e92.mp3"
+   }
+  }
+ },
+ {
   "slug": "editorial-draftjob-6a1ae18ba339aca3ca6b6c8b5eac7f1fce0f4da4ba634b50",
   "title": "Why Are So Many Teenagers Missing Out on Exercise?",
   "summary": "WHO calls for safer places and more opportunities for young people to move.",
