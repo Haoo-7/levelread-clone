@@ -1,5 +1,279 @@
 [
  {
+  "slug": "ai-can-count-elephants-in-hours-not-months",
+  "title": "AI Can Count Elephants in Hours, Not Months",
+  "summary": "A Kenyan photo survey took nine people nine months; similar AI analysis takes hours.",
+  "date": 1794384000000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794231676079-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1073,
+  "levels": {
+   "1": {
+    "content": "In Kenya, people use photos from planes to count elephants. Looking through many photos can take months. AI, a computer tool, can check similar photos in hours. People still need to check its results.\n\nThe group Save the Elephants says people missed about one in three elephants in some surveys. This does not mean one in three elephants across Kenya. Better counts can show where animals need help.\n\nBut AI also uses electricity. Some computer centers use water for cooling. These are costs for nature too. AI can make mistakes when rocks or shadows look like animals. It gives people a faster way to work, but people must decide what the numbers mean.",
+    "vocabulary": [
+     {
+      "word": "count",
+      "definition": "To find how many there are."
+     },
+     {
+      "word": "shadows",
+      "definition": "Dark shapes made when something blocks light."
+     },
+     {
+      "word": "decide",
+      "definition": "To choose after thinking."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What must people still do with AI results?",
+      "options": [
+       "They must stop taking photos.",
+       "They must count every elephant in Kenya.",
+       "They must check the results."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/ai-can-count-elephants-in-hours-not-months/level-1/8c7e0326d48d82ff39f094915031564ea79ef51e5df63da1be568a14ec4dafef.mp3"
+   },
+   "2": {
+    "content": "Counting elephants from aerial photographs used to require months of careful work. Save the Elephants says a 2017 survey in Kenya produced about 200,000 photographs. Nine people spent nine months examining them. AI can now complete a similar analysis in hours, marking possible animals for people to check.\n\nThe group also says comparisons with traditional surveys showed that human observers had missed roughly one in three elephants. That finding concerns particular survey methods, not every elephant in Kenya. AI can also mistake rocks, trees or shadows for animals, so human review remains necessary.\n\nBetter counts help conservation groups understand where animals live and where protection is needed. Stored photographs can be examined again when researchers have new questions.\n\nHowever, AI has environmental costs. Powerful computers use electricity, and some data centers use water for cooling. Groups can limit demanding tasks or reuse results to reduce computing. Faster analysis gives researchers more time to interpret the numbers, but it does not replace human judgment or the work of protecting elephants.",
+    "vocabulary": [
+     {
+      "word": "aerial",
+      "definition": "Taken from or happening in the air."
+     },
+     {
+      "word": "observers",
+      "definition": "People who watch carefully and record what they see."
+     },
+     {
+      "word": "conservation",
+      "definition": "The protection of wildlife and the natural environment."
+     },
+     {
+      "word": "interpret",
+      "definition": "To explain what information means."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the one-in-three finding describe?",
+      "options": [
+       "Elephants that AI counted twice in every survey.",
+       "Elephants missed in particular survey methods.",
+       "One third of all elephants living in Kenya."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Why does faster analysis not remove the need for people?",
+      "options": [
+       "AI makes all conservation decisions by itself.",
+       "People must check possible mistakes and interpret the findings.",
+       "AI never finds animals in photographs."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/ai-can-count-elephants-in-hours-not-months/level-2/9ac4e88f94c28fa6f7fce718c5d2145e4b990802669a4a8093776a682105e037.mp3"
+   },
+   "3": {
+    "content": "Artificial intelligence is accelerating the analysis of aerial wildlife photographs in Kenya. Save the Elephants says a 2017 survey produced approximately 200,000 images, which nine people examined over nine months. AI can complete a similar analysis in hours, flagging possible animals for human review; the comparison does not establish performance on identical tasks.\n\nThe group reports that comparisons with traditional surveys revealed roughly one in three elephants had been missed by human observers. That finding concerns particular survey methods, not a nationwide deficit in official elephant records. Nor is automated detection infallible: rocks, shadows and trees can produce misleading matches. Human assessment remains essential.\n\nMore reliable counts can inform habitat protection and conservation funding, while archived images allow scientists to revisit questions. Yet the environmental trade-off matters. Computing consumes electricity, some data centers require cooling water, and emissions depend partly on the electricity source. The International Energy Agency estimates global data-center electricity use could more than double by 2030. That projection covers many digital services, not just wildlife AI.\n\nConservation groups can limit intensive computing, reuse results or process data near its collection point. The benefit is time redirected from searching photographs to interpreting evidence. AI supports conservation decisions; it neither removes the need to verify results nor replaces protection on the ground.",
+    "vocabulary": [
+     {
+      "word": "flagging",
+      "definition": "Marking something for attention or review."
+     },
+     {
+      "word": "infallible",
+      "definition": "Incapable of making mistakes."
+     },
+     {
+      "word": "archived",
+      "definition": "Stored so that something can be used again later."
+     },
+     {
+      "word": "projection",
+      "definition": "An estimate of a future situation based on available information."
+     },
+     {
+      "word": "intensive",
+      "definition": "Requiring a large amount of work or resources."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the time comparison establish?",
+      "options": [
+       "AI can analyze similar images much faster, without proving identical tasks were compared.",
+       "Every conservation survey can now be completed without human review.",
+       "The same workers repeated the identical task with and without AI under controlled conditions."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How should the electricity projection be understood?",
+      "options": [
+       "It proves every wildlife AI project will double its emissions.",
+       "It covers global data centers serving many digital uses.",
+       "It measures only the electricity used to count Kenyan elephants."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Which approach fits the article’s overall argument?",
+      "options": [
+       "Use AI without checking its outputs or computing costs.",
+       "Reject every automated tool because computing uses resources.",
+       "Use AI selectively while retaining human review and considering environmental costs."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/ai-can-count-elephants-in-hours-not-months/level-3/27aee369a73e87ae862c803f473677d0e40ca0269c9cc504a9e623aeae9c9f4b.mp3"
+   }
+  }
+ },
+ {
+  "slug": "three-women-made-a-sports-bra-from-mens-underwear",
+  "title": "How Did Men's Underwear Become a Sports Bra?",
+  "summary": "The Jogbra began with a runner seeking more comfortable exercise clothing.",
+  "date": 1794355200000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794155060468-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1254,
+  "levels": {
+   "1": {
+    "content": "In 1977, Lisa Lindahl liked running, but her bra hurt. It did not hold her breasts well. She wanted something better. She asked two designers, Polly Smith and Hinda Miller, for help.\n\nOne day, Lindahl's husband put men's sports underwear over his head. It was a joke, but Smith saw an idea. She sewed two pieces together to make a bra. The new bra helped stop too much movement during running. The women called it the Jogbra.\n\nLindahl and Miller started selling it. More women were joining sports, and they needed better clothes. The design helped make running more comfortable. A simple problem had led to a useful new product.",
+    "vocabulary": [
+     {
+      "word": "hurt",
+      "definition": "To cause pain."
+     },
+     {
+      "word": "sewed",
+      "definition": "Joined pieces of cloth with a needle and thread."
+     },
+     {
+      "word": "comfortable",
+      "definition": "Feeling good, without pain or trouble."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did Lindahl want a new bra?",
+      "options": [
+       "Her bra was the wrong color.",
+       "Her bra made running painful.",
+       "Her bra was too expensive."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/three-women-made-a-sports-bra-from-mens-underwear/level-1/f887081e8ab45e83a72fadcf9101f1d76e9e340762567049e77a33345184583b.mp3"
+   },
+   "2": {
+    "content": "In 1977, Lisa Lindahl enjoyed jogging in Vermont, in the United States. However, her ordinary bra made running painful. It offered too little support and rubbed against her skin. She asked her friend Polly Smith, a costume designer, for help. Another designer, Hinda Miller, joined them.\n\nThe women needed a design that reduced movement without making runners too hot. Early ideas were unsuccessful. Then Lindahl's husband jokingly pulled a jockstrap over his head. This is supportive underwear that men wear for sports. Smith saw a possibility: she changed two jockstraps and sewed them together.\n\nThe result became the Jogbra. Lindahl and Miller began selling it through mail orders and shops. The design received a US patent in 1979, giving the invention legal protection.\n\nThe product arrived as running grew more popular and more women entered organized sports. It addressed a practical need: clothing designed for women's bodies could make exercise more comfortable. The business later grew beyond the small group of runners the women had first imagined.",
+    "vocabulary": [
+     {
+      "word": "support",
+      "definition": "Help that holds something firmly in place."
+     },
+     {
+      "word": "jockstrap",
+      "definition": "Supportive underwear that men wear during sports."
+     },
+     {
+      "word": "patent",
+      "definition": "A legal right that protects an invention."
+     },
+     {
+      "word": "practical",
+      "definition": "Useful for a real situation or need."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How did Smith make the early sports bra?",
+      "options": [
+       "She changed two pieces of sports underwear.",
+       "She copied an ordinary bra without changes.",
+       "She added sleeves to a running shirt."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why was the timing helpful for the Jogbra?",
+      "options": [
+       "More women were taking part in sports.",
+       "Fewer women wanted to exercise.",
+       "Sports shops had stopped selling clothes."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/three-women-made-a-sports-bra-from-mens-underwear/level-2/c65cb2f5eced722e7b79a029a663c822929b4faf42354b9f227edc8bde21c171.mp3"
+   },
+   "3": {
+    "content": "In 1977, Vermont runner Lisa Lindahl faced a problem that ordinary bras failed to solve: inadequate support and painful rubbing during exercise. She enlisted costume designer Polly Smith, who brought in Hinda Miller. Their challenge was to reduce movement while keeping the garment comfortable and breathable over a long run.\n\nAn unlikely prototype emerged from a joke. Lindahl's husband pulled a jockstrap, men's supportive athletic underwear, over his head. Recognizing its potential, Smith altered two jockstraps and stitched them together. The resulting Jogbra turned an existing garment into a solution for a different group of athletes. Lindahl and Miller developed the business, and the design received a US patent in 1979.\n\nIts emergence coincided with a wider shift in participation. Running was gaining popularity, while Title IX, a 1972 US law, had helped expand educational sports opportunities for girls and women. The Jogbra addressed the accompanying need for equipment designed around women's bodies rather than expecting them to tolerate unsuitable clothing.\n\nPlaytex bought the company in 1990, and the product later became part of Champion. The three inventors entered the National Inventors Hall of Fame in 2022. Their story illustrates how a familiar discomfort, taken seriously, could inspire an invention with lasting practical significance.",
+    "vocabulary": [
+     {
+      "word": "inadequate",
+      "definition": "Not sufficient for a particular purpose."
+     },
+     {
+      "word": "enlisted",
+      "definition": "Obtained someone’s help or involvement."
+     },
+     {
+      "word": "prototype",
+      "definition": "An early version used to develop an invention."
+     },
+     {
+      "word": "coincided",
+      "definition": "Happened at the same time as something else."
+     },
+     {
+      "word": "tolerate",
+      "definition": "Accept or endure something unpleasant."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the prototype demonstrate?",
+      "options": [
+       "A useful invention required entirely new materials.",
+       "Existing clothing could be adapted for another group.",
+       "An ordinary bra already met runners’ needs."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "How does the article connect Title IX with the Jogbra?",
+      "options": [
+       "The law gave the Jogbra its patent.",
+       "Expanded sports opportunities accompanied demand for suitable clothing.",
+       "The law required schools to buy the Jogbra."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Which interpretation best fits the inventors’ story?",
+      "options": [
+       "A product’s usefulness depends on celebrity celebrations.",
+       "Practical inventions depend on large research laboratories.",
+       "Lasting inventions can grow from attention to everyday problems."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/three-women-made-a-sports-bra-from-mens-underwear/level-3/6d18b96c695794aae8186f23dd12d3df296a03aaa2c3f92d5e8ec3ea96484904.mp3"
+   }
+  }
+ },
+ {
   "slug": "which-animals-could-you-beat-in-a-race",
   "title": "Which Animals Could You Beat in a Race?",
   "summary": "A giraffe can sprint faster than Usain Bolt, but distance changes the contest.",
