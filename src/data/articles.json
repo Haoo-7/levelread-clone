@@ -1,5 +1,279 @@
 [
  {
+  "slug": "fewer-than-half-of-japanese-households-subscribe-to-newspapers",
+  "title": "Fewer Than Half of Japanese Households Subscribe to Newspapers",
+  "summary": "A survey records declining monthly home subscriptions, while newspapers rank second for trust.",
+  "date": 1794556800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794497844143-cover.png",
+  "originalUrl": "https://www.nippon.com/en/articles/-/56671",
+  "reads": 811,
+  "levels": {
+   "1": {
+    "content": "Fewer people in Japan have a newspaper subscription at home. This means paying each month to receive a newspaper. A summer 2026 survey found that 49.8% of people answering had one. In 2008, the figure was 88.6%.\n\nMany people without a subscription said television and the internet gave them enough news. Others mentioned the price or their reading habits. Older people were more likely to have a subscription than younger people.\n\nBut newspapers still received the second-highest trust score in the survey. Only NHK television scored higher. The survey asked people about subscriptions and trust. It did not count every home. Having no subscription does not mean someone never reads newspaper news.",
+    "vocabulary": [
+     {
+      "word": "subscription",
+      "definition": "An arrangement to pay regularly to receive something."
+     },
+     {
+      "word": "habits",
+      "definition": "Things people do regularly."
+     },
+     {
+      "word": "trust",
+      "definition": "Belief that someone or something can be relied on."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Does having no subscription mean never reading newspaper news?",
+      "options": [
+       "Yes, people never read it.",
+       "No, people may still read it.",
+       "Yes, people cannot read it."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/fewer-than-half-of-japanese-households-subscribe-to-newspapers/level-1/ac1704fc0767c6d5251516875b918eb878743b58dfa1d5d5a588431e0359db03.mp3"
+   },
+   "2": {
+    "content": "A Japanese survey found that 49.8% of respondents had a monthly newspaper subscription at home in summer 2026. That was the first result below half since the survey began in 2008, when the figure was 88.6%. The previous year's figure was 50.1%.\n\nThe Japan Press Research Institute received 2,676 responses. Subscription habits differed sharply by age: more than 70% of people aged seventy or older subscribed, compared with about 20% of those in their thirties. Among respondents without subscriptions, 73.7% said television, the internet and other sources provided enough information. Cost and reading habits were other reasons.\n\nHowever, newspapers ranked second for trust among the media assessed. Their average score was 64.6 out of 100, behind NHK television's 66.1. These are ratings, not percentages of people who trust each medium.\n\nThe results distinguish paying for a home subscription from trusting a news source. They describe survey respondents, not a count of every household. A person without a monthly subscription may still read newspaper reporting in other ways.",
+    "vocabulary": [
+     {
+      "word": "respondents",
+      "definition": "People who answer questions in a survey."
+     },
+     {
+      "word": "assessed",
+      "definition": "Examined in order to make a judgment."
+     },
+     {
+      "word": "ratings",
+      "definition": "Scores that show how someone judges something."
+     },
+     {
+      "word": "distinguish",
+      "definition": "To recognize that two things are different."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the newspaper trust score of 64.6 mean?",
+      "options": [
+       "Newspapers had 64.6% of home subscriptions.",
+       "Exactly 64.6% of people trust newspapers.",
+       "The average rating was 64.6 out of 100."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What does the 49.8% figure describe?",
+      "options": [
+       "Respondents reporting a monthly home newspaper subscription.",
+       "Every household counted in a national census.",
+       "Everyone who reads any news in Japan."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/fewer-than-half-of-japanese-households-subscribe-to-newspapers/level-2/51dca257a0d5067c87f1b5b638d37fb1866905b4c1ef47924aaefc65567b1e25.mp3"
+   },
+   "3": {
+    "content": "Monthly home newspaper subscriptions in Japan have crossed a symbolic threshold. The Japan Press Research Institute's 2026 survey found that 49.8% of respondents subscribed, compared with 50.1% a year earlier and 88.6% in 2008, when the series began. The latest annual fall was 0.3 percentage points, not a sudden collapse of similar scale to the long-term decline.\n\nConducted in July and August, the survey obtained 2,676 responses from 5,000 adults selected through the resident register. The age divide was pronounced: 74.3% of respondents aged seventy or older subscribed, compared with roughly one fifth of those in their thirties. Among nonsubscribers, 73.7% considered other sources sufficient; subscription costs and reading habits also featured.\n\nTrust followed a different pattern from paid uptake. Newspapers ranked second among the six media assessed, averaging 64.6 on a 100-point credibility scale, behind NHK television's 66.1. These figures are average ratings, not the proportion expressing trust. Newspapers' score also fell from the previous year, so second place does not establish unchanged confidence.\n\nThe findings therefore separate subscription behaviour, news access and perceived credibility. Respondents' reports about home subscriptions are not a census of all households, and nonpayment does not prove complete avoidance of newspaper journalism. Losing a regular customer is not necessarily the same as losing that person's trust.",
+    "vocabulary": [
+     {
+      "word": "threshold",
+      "definition": "A point at which a situation reaches a new stage."
+     },
+     {
+      "word": "uptake",
+      "definition": "The extent to which people begin or continue using a service."
+     },
+     {
+      "word": "credibility",
+      "definition": "The quality of being believable or worthy of trust."
+     },
+     {
+      "word": "census",
+      "definition": "An official count covering a whole population."
+     },
+     {
+      "word": "avoidance",
+      "definition": "The act of keeping away from something."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How should the latest annual subscription change be described?",
+      "options": [
+       "A fall of 0.3 percentage points within a much longer decline.",
+       "A rise that restored the subscription rate recorded in 2008.",
+       "A fall of 38.8 percentage points within one year."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why does second place not prove unchanged trust in newspapers?",
+      "options": [
+       "Subscription behaviour and trust scores are identical measures.",
+       "The survey excluded other media from its trust comparison.",
+       "The newspaper trust score fell despite its relative ranking."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Which conclusion respects the survey’s scope?",
+      "options": [
+       "Every nonsubscriber has stopped reading and trusting newspaper reporting.",
+       "Home-subscription reports do not directly measure all newspaper use.",
+       "The respondent sample is a census of all Japanese households."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/fewer-than-half-of-japanese-households-subscribe-to-newspapers/level-3/dcb558143e4395fdcfced8d76d05f51713e90b2d7699c2696841df629b2849e8.mp3"
+   }
+  }
+ },
+ {
+  "slug": "jensen-huang-steps-down-as-nvidia-ceo-after-33-years",
+  "title": "Jensen Huang Steps Down as Nvidia CEO After 33 Years",
+  "summary": "Finance chief Colette Kress takes over temporarily as the company searches for a successor.",
+  "date": 1794528000000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794498116584-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1539,
+  "levels": {
+   "1": {
+    "content": "Jensen Huang has left his job as Nvidia's leader. He helped start the company in 1993. Nvidia makes computer chips for games and AI. AI helps computers do tasks such as answering questions. Huang led Nvidia for 33 years.\n\nNvidia announced the change on November 12. Colette Kress will lead the company for now. Nvidia is looking for a new leader.\n\nNews reports raised concerns about Huang's personal relationships and possible spying. China denied the spying claims. Nvidia started an investigation, a check to learn what happened. The company did not say which claim caused him to leave. Nvidia said it had no reason to believe secrets or national security had been harmed. Work would continue.",
+    "vocabulary": [
+     {
+      "word": "leader",
+      "definition": "A person who guides a group or company."
+     },
+     {
+      "word": "chips",
+      "definition": "Small parts inside computers that process information."
+     },
+     {
+      "word": "continue",
+      "definition": "To keep doing something."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Who will lead Nvidia for now?",
+      "options": [
+       "A new permanent leader.",
+       "Jensen Huang.",
+       "Colette Kress."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/jensen-huang-steps-down-as-nvidia-ceo-after-33-years/level-1/1bcc68d8c74ab48d0e24366c1626666487ed6da412f8f031d2b941efe2bbdb3e.mp3"
+   },
+   "2": {
+    "content": "Jensen Huang has stepped down as Nvidia's chief executive after 33 years. The company announced on November 12 that he had also left its board. Finance chief Colette Kress will serve as temporary CEO while Nvidia searches for a permanent replacement.\n\nHuang helped establish Nvidia in 1993. Its chips first became known for video game graphics. Later, they proved useful for artificial intelligence because they could perform many calculations at once. Growing demand for AI helped Nvidia become one of the world's most valuable companies.\n\nHis departure followed reports about personal relationships, including one with a businesswoman suspected by US officials of links to Chinese intelligence. China denied the spying allegations. Nvidia opened an independent investigation and said it had no reason to believe company secrets or national security had been harmed.\n\nThe resignation announcement did not identify a particular allegation as the cause. Nvidia said its operations and product plans would continue. Its next leader must manage this transition during intense competition in AI.",
+    "vocabulary": [
+     {
+      "word": "temporary",
+      "definition": "Lasting for a limited time."
+     },
+     {
+      "word": "replacement",
+      "definition": "Someone who takes another person’s place."
+     },
+     {
+      "word": "allegations",
+      "definition": "Claims that someone did something wrong, which have not been proved."
+     },
+     {
+      "word": "transition",
+      "definition": "A period of change from one situation to another."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why were Nvidia chips useful for AI?",
+      "options": [
+       "They could perform many calculations at once.",
+       "They could replace every computer program.",
+       "They could work without any electricity."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What did Nvidia say about possible harm?",
+      "options": [
+       "It had ended all its product plans.",
+       "It had proved that secrets were stolen.",
+       "It had no reason to believe secrets or national security had been harmed."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/jensen-huang-steps-down-as-nvidia-ceo-after-33-years/level-2/906b8f66c34b2449c437dc53cd9f326068d4a9679e98cc70f4fbd0bfac3d3428.mp3"
+   },
+   "3": {
+    "content": "Jensen Huang's resignation ends 33 years of leadership at Nvidia, the chipmaker he co-founded in 1993. On November 12, the company announced his immediate departure as chief executive and board member. Chief financial officer Colette Kress will serve as interim CEO while the board searches for a permanent successor.\n\nUnder Huang, Nvidia evolved from a supplier of video game graphics chips into a central provider of AI computing technology. Its processors can execute many calculations simultaneously, making them valuable for training and running AI models. That shift helped propel the company's extraordinary growth and made Huang a prominent industry figure.\n\nHis exit followed reports about personal relationships and potential security risks. US officials reportedly suspected a businesswoman linked to Huang of working for Chinese intelligence; China rejected the spying allegations. Nvidia launched an independent investigation on November 8, stating that it had no reason to believe company secrets or national security had been compromised. Further reporting alleged a relationship with a senior employee who reported directly to him.\n\nThese remain distinct issues: allegations prompted scrutiny, but the resignation announcement did not identify a specific allegation as its cause. Nvidia says operations and product commitments will continue. The transition tests whether its institutional strengths can sustain progress without its defining leader.",
+    "vocabulary": [
+     {
+      "word": "interim",
+      "definition": "Serving temporarily until a permanent appointment is made."
+     },
+     {
+      "word": "simultaneously",
+      "definition": "At the same time."
+     },
+     {
+      "word": "compromised",
+      "definition": "Put at risk or made less secure."
+     },
+     {
+      "word": "scrutiny",
+      "definition": "Close and careful examination."
+     },
+     {
+      "word": "institutional",
+      "definition": "Relating to an organisation and its established systems."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did Nvidia processors become valuable for AI?",
+      "options": [
+       "They were designed only for financial records.",
+       "They could execute many calculations simultaneously.",
+       "They eliminated the need to train models."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What distinction does the final paragraph make?",
+      "options": [
+       "The announcement proved every security allegation.",
+       "Scrutiny followed allegations, but the announcement did not identify a specific cause for resignation.",
+       "The investigation had already cleared everyone involved."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What challenge does the leadership transition present?",
+      "options": [
+       "Sustaining progress through the company’s institutional strengths.",
+       "Cancelling existing product commitments before choosing a successor.",
+       "Returning all chip production exclusively to video games."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/jensen-huang-steps-down-as-nvidia-ceo-after-33-years/level-3/1611141a87547b24a1444ce33eb79b4ab92c79724054e9d9f08b1b61414b8493.mp3"
+   }
+  }
+ },
+ {
   "slug": "can-tracking-sharks-make-beaches-safer",
   "title": "Can Tracking Sharks Make Beaches Safer?",
   "summary": "A 2008 Mexican proposal sought answers after fatal attacks; full implementation remains unconfirmed.",
