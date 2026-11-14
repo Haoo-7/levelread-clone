@@ -1,5 +1,142 @@
 [
  {
+  "slug": "seoul-turns-subway-stations-into-farmers-markets",
+  "title": "Seoul Turns Subway Stations Into Farmers' Markets",
+  "summary": "A temporary trial brings regional farm products directly to commuters.",
+  "date": 1794614400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794497889046-cover.png",
+  "originalUrl": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261109/seoul-subway-stations-turn-into-farmers-markets-selling-regional-produce",
+  "reads": 1420,
+  "levels": {
+   "1": {
+    "content": "People in Seoul can now buy farm food inside subway stations. A small market opened at Gwanghwamun Station on November 9. Fourteen farms joined the first market. It ran for two days. Farmers sold food straight to shoppers.\n\nThe city says some prices can be up to 30 percent lower than shop prices. This does not mean every item has that saving. People can buy food on their way home from work.\n\nFrom November 16, markets will open at four more stations. The programme ends on November 28. Different stations have different dates and foods. This is a short test. The city wants to try markets in more places later.",
+    "vocabulary": [
+     {
+      "word": "market",
+      "definition": "A place where people buy and sell things."
+     },
+     {
+      "word": "farmers",
+      "definition": "People who grow food or keep animals for food."
+     },
+     {
+      "word": "prices",
+      "definition": "The amounts of money you pay for things."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Where can people buy farm food in this story?",
+      "options": [
+       "Inside office buildings.",
+       "Inside school rooms.",
+       "Inside subway stations."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/seoul-turns-subway-stations-into-farmers-markets/level-1/7f8e0d44ede71bba9737130a8b5b173303ff4a608a04d760a00b090339372937.mp3"
+   },
+   "2": {
+    "content": "Seoul is bringing farm shopping into its subway stations. A preview market opened at Gwanghwamun Station on November 9 and ran until November 10. Fourteen farms from five regions took part, selling their products directly to shoppers.\n\nThe city says prices can be up to 30 percent below retail prices. Direct sales remove businesses that normally stand between farmers and customers. However, the maximum discount does not mean every product is 30 percent cheaper. The markets offer commuters a chance to buy food during their usual journey home.\n\nFrom November 16, the programme will rotate through four stations near residential areas. Products include rice, chestnuts, corn, garlic and apples. Each station has its own schedule and selection, so shoppers should check before visiting. The programme runs through November 28.\n\nThe markets use unused station space. Seoul plans to explore similar markets in other neighbourhood spaces after this pilot. That is a future plan, rather than a permanent change already made across the subway system.",
+    "vocabulary": [
+     {
+      "word": "preview",
+      "definition": "An early chance to see or try something."
+     },
+     {
+      "word": "retail",
+      "definition": "Connected with selling goods to the people who use them."
+     },
+     {
+      "word": "commuters",
+      "definition": "People who regularly travel between home and work."
+     },
+     {
+      "word": "pilot",
+      "definition": "A small test before a possible larger project."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How can direct sales help lower prices?",
+      "options": [
+       "They require every farmer to sell the same food.",
+       "They make all products free for commuters.",
+       "They remove businesses between farmers and shoppers."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What should shoppers check before visiting?",
+      "options": [
+       "Their station’s dates and available products.",
+       "Whether all foods have exactly the same discount.",
+       "Whether every station has become a permanent market."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/seoul-turns-subway-stations-into-farmers-markets/level-2/5988d02304989f9a8a7593032e4de8863cc39c084dacc7922c715e78b37333bd.mp3"
+   },
+   "3": {
+    "content": "Seoul is testing whether everyday transport spaces can also connect regional farmers with urban shoppers. A preview market at Gwanghwamun Station on November 9 and 10 brought together fourteen farms from five regions. Rather than relying on a separate shopping trip, commuters could buy farm products within the station.\n\nOrganised by Seoul with five local governments, the programme uses vacant or underused station space. Farmers sell directly to customers, reducing the number of intermediaries involved. The city advertises prices up to 30 percent below retail levels. That figure describes a maximum potential saving, rather than a uniform discount on every product or evidence of the average saving achieved.\n\nStarting November 16, regular markets will rotate through four stations near residential areas, with the programme continuing until November 28. Regional specialities include chestnuts, corn, garlic and apples. The selection and operating dates vary by station; the schedule does not imply that every location trades throughout the entire period.\n\nThe pilot combines a convenient sales location for producers with a familiar route for consumers. Seoul intends to explore extending the model to other neighbourhood spaces afterward. However, an intention to expand should be distinguished from a completed rollout: the current initiative remains a temporary trial, rather than a permanent conversion of subway stations into markets.",
+    "vocabulary": [
+     {
+      "word": "intermediaries",
+      "definition": "People or businesses that connect sellers and buyers in a transaction."
+     },
+     {
+      "word": "uniform",
+      "definition": "The same in every case."
+     },
+     {
+      "word": "residential",
+      "definition": "Used mainly as a place where people live."
+     },
+     {
+      "word": "initiative",
+      "definition": "A new action or programme intended to achieve a purpose."
+     },
+     {
+      "word": "rollout",
+      "definition": "The process of introducing a service or programme more widely."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the advertised 30 percent figure describe?",
+      "options": [
+       "The average saving measured across all purchases.",
+       "The maximum potential saving compared with retail prices.",
+       "A guaranteed discount on every product."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "How does the programme use existing urban space?",
+      "options": [
+       "It places direct sales in vacant or underused station areas.",
+       "It replaces all train services with permanent shops.",
+       "It builds new stations exclusively for food shopping."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What is the status of expansion beyond the pilot?",
+      "options": [
+       "It has already been completed throughout the subway system.",
+       "It has been ruled out by the participating governments.",
+       "It is an intention to explore further neighbourhood locations."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/seoul-turns-subway-stations-into-farmers-markets/level-3/8c72ab4c3a8d89829bb6966c757fd905882e2166ce178ff170133243dcbfd8d1.mp3"
+   }
+  }
+ },
+ {
   "slug": "fewer-than-half-of-japanese-households-subscribe-to-newspapers",
   "title": "Fewer Than Half of Japanese Households Subscribe to Newspapers",
   "summary": "A survey records declining monthly home subscriptions, while newspapers rank second for trust.",
