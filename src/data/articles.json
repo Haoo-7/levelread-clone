@@ -1,5 +1,142 @@
 [
  {
+  "slug": "south-koreas-cashless-stores-leave-some-seniors-behind",
+  "title": "South Korea's Cashless Stores Leave Some Seniors Behind",
+  "summary": "Cards and phones replace cash, but older consumers still depend on banknotes and coins.",
+  "date": 1794700800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794498498953-cover.png",
+  "originalUrl": "https://www.koreatimes.co.kr/economy/20261111/koreas-shift-toward-cashless-society-leaves-elderly-behind",
+  "reads": 1521,
+  "levels": {
+   "1": {
+    "content": "A 67-year-old man in South Korea wanted to pay cash for coffee. The shop said he needed a card or phone payment. He later made sure to carry a card.\n\nSome cafes and buses no longer take cash. But this does not mean cash has disappeared everywhere. Older people often use it more than younger people. Paying with a phone may be hard for people who do not know how.\n\nSouth Korea's central bank says people should still have places that accept cash. It also wants help for people learning newer payment methods. Having money is not enough if a shop will not accept the way someone can pay.",
+    "vocabulary": [
+     {
+      "word": "cash",
+      "definition": "Money in the form of banknotes and coins."
+     },
+     {
+      "word": "accept",
+      "definition": "To agree to take something."
+     },
+     {
+      "word": "methods",
+      "definition": "Ways of doing something."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why was paying cash a problem at the cafe?",
+      "options": [
+       "The customer had no money.",
+       "The customer wanted free coffee.",
+       "The shop did not take cash."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-koreas-cashless-stores-leave-some-seniors-behind/level-1/43a068227a41bca7fd20c442f8804de4f7f4c539021eef893a83b01df1abb525.mp3"
+   },
+   "2": {
+    "content": "A 67-year-old customer in South Korea tried to buy coffee with cash, but the cafe accepted only cards and mobile payments. After that experience, he made sure to carry a card, The Korea Times reported.\n\nCashless services extend beyond coffee shops. By April 2026, 180 of Seoul's 394 bus routes did not accept cash. Some bank branches also stopped handling banknotes, coins and checks. These examples do not mean that cash has been banned throughout the country.\n\nOlder consumers still rely more heavily on cash. Data reported by the Bank of Korea showed that people aged seventy and older paid 32.4% of their monthly spending in cash, compared with 14.7% among people in their twenties. These figures describe spending shares, not the percentage of people who use cash.\n\nThe central bank has called for measures supporting cash acceptance and helping people use newer payment methods. The issue is access: a convenient system for card and phone users can create obstacles for people with limited digital skills.",
+    "vocabulary": [
+     {
+      "word": "branches",
+      "definition": "Local offices of a larger business or bank."
+     },
+     {
+      "word": "consumers",
+      "definition": "People who buy goods or services."
+     },
+     {
+      "word": "obstacles",
+      "definition": "Things that make an activity difficult."
+     },
+     {
+      "word": "digital",
+      "definition": "Using electronic devices or computer systems."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the 32.4% figure describe?",
+      "options": [
+       "The share of older people who own no bank card.",
+       "Cash as a share of older people’s monthly spending.",
+       "The share of all Korean stores that reject cash."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What two kinds of support has the central bank called for?",
+      "options": [
+       "Closing every cash-handling branch and removing all cards.",
+       "Requiring every consumer to pay only with a phone.",
+       "Supporting cash acceptance and access to newer payment methods."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-koreas-cashless-stores-leave-some-seniors-behind/level-2/0d7ecae3226892705a765490bc54943b79debc088c5853d09a1bad4f22dc360f.mp3"
+   },
+   "3": {
+    "content": "South Korea's move toward cashless services can make routine purchases harder for consumers who depend on banknotes and coins. The Korea Times described a 67-year-old man who attempted to pay cash for coffee but encountered a store accepting only cards and mobile payments. He subsequently made sure to carry a card.\n\nThe transition reaches transport and banking. As of April 2026, 180 of Seoul's 394 bus routes operated without cash payments, while some bank branches no longer handled cash or checks. These are examples of particular service policies, not evidence that physical currency has disappeared nationwide.\n\nThe distributional consequences matter. Figures attributed to the Bank of Korea show cash accounting for 32.4% of monthly expenditure among people aged seventy and older, compared with 14.7% among those in their twenties. These are proportions of spending, not counts of cash users, and do not imply uniform behaviour within either age group.\n\nThe central bank has advocated both promoting cash acceptance and supporting digitally disadvantaged consumers in using newer payment methods. This combines preserving an existing option with improving access to alternatives. The challenge is therefore broader than encouraging technological adoption: a payment system can be efficient for many users while imposing disproportionate barriers on others. Possessing sufficient money does not ensure a transaction is accessible.",
+    "vocabulary": [
+     {
+      "word": "transition",
+      "definition": "A process of changing from one system or situation to another."
+     },
+     {
+      "word": "distributional",
+      "definition": "Concerning how effects or resources are spread across groups."
+     },
+     {
+      "word": "expenditure",
+      "definition": "Money spent on goods or services."
+     },
+     {
+      "word": "advocated",
+      "definition": "Publicly supported or recommended a course of action."
+     },
+     {
+      "word": "disproportionate",
+      "definition": "Larger or more severe than would be expected in comparison with others."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What limit applies to the reported age-group spending figures?",
+      "options": [
+       "They prove that all older people lack digital payment skills.",
+       "They count how many older people have stopped shopping.",
+       "They do not establish identical payment habits for every person in either group."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "How do the central bank’s proposed responses relate to one another?",
+      "options": [
+       "Both remove the option of using physical currency.",
+       "One preserves cash access while the other improves access to alternatives.",
+       "Both assume everyone already uses mobile payments confidently."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What is the article’s main distinction about payment access?",
+      "options": [
+       "Ability to afford a purchase and ability to complete its payment are different.",
+       "Having enough money guarantees every payment method will be accepted.",
+       "A service that is convenient for most users is automatically accessible to everyone."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-koreas-cashless-stores-leave-some-seniors-behind/level-3/f794f3832ab9273d87715ef9630f7877df27a06eda88a62e260f4e0006c23159.mp3"
+   }
+  }
+ },
+ {
   "slug": "seoul-turns-subway-stations-into-farmers-markets",
   "title": "Seoul Turns Subway Stations Into Farmers' Markets",
   "summary": "A temporary trial brings regional farm products directly to commuters.",
