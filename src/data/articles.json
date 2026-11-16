@@ -1,5 +1,279 @@
 [
  {
+  "slug": "taiwan-turns-oyster-shells-into-self-heating-meal-packs",
+  "title": "Taiwan Turns Oyster Shells Into Self-Heating Meal Packs",
+  "summary": "Processed shells release heat with water to warm prepared food.",
+  "date": 1794816000000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794498280089-cover.png",
+  "originalUrl": "https://focustaiwan.tw/sci-tech/202611100010",
+  "reads": 1101,
+  "levels": {
+   "1": {
+    "content": "Researchers in Taiwan have found a new use for oyster shells. These are the hard covers of oysters, a kind of sea animal. The team makes old shells into material for meal heaters. The shells need special treatment first. Ordinary shells do not heat food when wet.\n\nThe new material gives off heat when water touches it. The team says 150 millilitres of water can help warm a ready meal. This takes about seven to eight minutes. The food reaches about 50 degrees Celsius.\n\nThe heater warms food that is already cooked. It does not cook raw food. A company has permission to use the technology. It could help campers and people after disasters.",
+    "vocabulary": [
+     {
+      "word": "shells",
+      "definition": "The hard outer covers of some sea animals."
+     },
+     {
+      "word": "material",
+      "definition": "Something used to make another thing."
+     },
+     {
+      "word": "raw",
+      "definition": "Not cooked."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does the heater warm?",
+      "options": [
+       "Food that is already cooked.",
+       "Oyster shells for people to eat.",
+       "Raw food that needs cooking."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/taiwan-turns-oyster-shells-into-self-heating-meal-packs/level-1/7582cd099df5a5aba1d6ca1db69c2cec256784935834f8371d1fd6f352ae0f52.mp3"
+   },
+   "2": {
+    "content": "Taiwan's Fisheries Research Institute has developed a meal heater using discarded oyster shells. The technology was presented at a November 9 event, where the institute signed a licensing agreement with a company. The aim is to turn leftover shells into a useful heat source.\n\nOyster shells mainly contain calcium carbonate. Researchers process them at high temperatures to make calcium oxide. When this material meets water, a chemical reaction releases heat. Untreated shells cannot simply be soaked to produce the same result.\n\nAccording to the institute, adding 150 millilitres of water allows the heater to warm a ready meal in about seven to eight minutes. The surrounding water reaches 80 to 95 degrees Celsius, while the food reaches about 50 degrees. These are different temperatures for different parts of the system.\n\nThe pack reheats prepared food rather than cooking raw ingredients. Possible uses include camping, disaster relief and military meals. Licensing allows a company to use the technology; it does not establish that the product is already widely available.",
+    "vocabulary": [
+     {
+      "word": "discarded",
+      "definition": "Thrown away because something is no longer wanted."
+     },
+     {
+      "word": "reaction",
+      "definition": "A process in which substances change when they come together."
+     },
+     {
+      "word": "licensing",
+      "definition": "Giving another person or company permission to use a technology."
+     },
+     {
+      "word": "relief",
+      "definition": "Help given to people after a disaster or other serious trouble."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why are the shells treated at high temperatures?",
+      "options": [
+       "To turn the heater into a ready meal.",
+       "To make material that releases heat with water.",
+       "To keep ordinary shells cold when wet."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Which temperature is reported for the food?",
+      "options": [
+       "About 80 to 95 degrees Celsius.",
+       "Exactly 150 degrees Celsius.",
+       "About 50 degrees Celsius."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/taiwan-turns-oyster-shells-into-self-heating-meal-packs/level-2/a778fb95f1e6f2c497f94c64f0590406afebf61e34bd46c51cffb446bd6d3735.mp3"
+   },
+   "3": {
+    "content": "A meal heater developed by Taiwan's Fisheries Research Institute gives discarded oyster shells a new function beyond disposal. At a November 9 event, the institute licensed its heater technology to a private company. The announcement concerns a route towards commercial production, rather than proof of widespread retail availability.\n\nThe process depends on changing the shells chemically. Their principal component, calcium carbonate, is converted into calcium oxide through high-temperature treatment. Contact with water then triggers a reaction that releases heat. The useful heating effect therefore comes from processed material, not from placing ordinary oyster shells in water.\n\nAccording to the institute, a heater used with 150 millilitres of water can warm a ready meal in approximately seven to eight minutes. The external water reaches 80 to 95 degrees Celsius, whereas the meal reaches about 50 degrees. Confusing these measurements would exaggerate the temperature achieved inside the food. The intended task is reheating prepared meals, not cooking raw ingredients.\n\nPotential applications include outdoor recreation, disaster relief and military food supplies. Recovering value from discarded shells offers a practical example of material reuse. However, the reported heating performance and licensing agreement do not themselves quantify the product's overall environmental footprint. High-temperature processing remains part of the production chain, and a complete environmental comparison would require further evidence.",
+    "vocabulary": [
+     {
+      "word": "disposal",
+      "definition": "The act of getting rid of unwanted material."
+     },
+     {
+      "word": "converted",
+      "definition": "Changed into a different form or substance."
+     },
+     {
+      "word": "triggers",
+      "definition": "Causes a process or event to begin."
+     },
+     {
+      "word": "quantify",
+      "definition": "Express or measure something as an amount."
+     },
+     {
+      "word": "footprint",
+      "definition": "The total effect an activity or product has on the environment."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What produces the useful heating effect?",
+      "options": [
+       "Ordinary shells dissolving in cold water.",
+       "A reaction between water and processed shell material.",
+       "Raw ingredients cooking inside oyster shells."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What does the licensing agreement establish?",
+      "options": [
+       "The heater is already widely available in shops.",
+       "A private company has permission to use the heater technology.",
+       "Every military meal now uses the new heater."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What would a complete environmental comparison require?",
+      "options": [
+       "Only confirmation that a licensing agreement was signed.",
+       "Only the reported temperature reached by the meal.",
+       "Further evidence about the overall production and environmental effects."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/taiwan-turns-oyster-shells-into-self-heating-meal-packs/level-3/f47c8e3f576480a4a2d8a0dba00dd87f611c5a3f471920d5ebff7b9991e3d28f.mp3"
+   }
+  }
+ },
+ {
+  "slug": "spacex-catches-starship-after-22-hours-in-space",
+  "title": "SpaceX Catches Starship Returning from Orbit for the First Time",
+  "summary": "After 14 orbits, the spacecraft returned safely, but its booster was lost.",
+  "date": 1794787200000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794716267180-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1613,
+  "levels": {
+   "1": {
+    "content": "SpaceX caught its returning Starship spacecraft for the first time on November 14. Two giant arms on a tower held it above the ground in Texas. The spacecraft had spent about 22.5 hours in space. It went around Earth 14 times before returning home.\n\nSpaceX wants to use both parts of its rocket again. This could make space travel cheaper. But the lower part, called the booster, did not return safely. A navigation problem stopped its planned return. This system helps the booster find its way.\n\nThe catch was an important step, but more tests are needed. Engineers must show they can check, repair and fly the spacecraft again without too much work.",
+    "vocabulary": [
+     {
+      "word": "spacecraft",
+      "definition": "A vehicle that travels in space."
+     },
+     {
+      "word": "cheaper",
+      "definition": "Costing less money."
+     },
+     {
+      "word": "repair",
+      "definition": "To fix something that is broken or damaged."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What caught the spacecraft?",
+      "options": [
+       "Two large ships.",
+       "Two small planes.",
+       "Two giant arms."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/spacex-catches-starship-after-22-hours-in-space/level-1/e2529e6f34d8f457f78c6161c06f01fcbdd326bf2ed8976a6474afd1f73640b3.mp3"
+   },
+   "2": {
+    "content": "SpaceX caught its returning Starship spacecraft for the first time on November 14, after about 22.5 hours in space. The catch happened at its Texas launch tower. The spacecraft circled Earth 14 times before returning. Two giant mechanical arms held it above the ground, marking a step toward rockets that can be used repeatedly.\n\nThe test flight launched from Starbase on November 13. Its lower section, Super Heavy, pushed the spacecraft toward space before separating. Starship then entered orbit and released 26 Starlink internet satellites. On its return, protective tiles shielded it from extreme heat. Its engines slowed it before the catch.\n\nHowever, Super Heavy did not reach the tower. A navigation problem prevented its recovery, and it was lost over the Gulf of Mexico. SpaceX has caught boosters before, but has not recovered both sections during one mission.\n\nReusing both sections could reduce launch costs. Yet a successful catch does not prove that Starship can fly again with little preparation. Engineers still need to improve its heat shield and demonstrate practical reuse. Regular space travel remains a future goal.",
+    "vocabulary": [
+     {
+      "word": "repeatedly",
+      "definition": "Many times, rather than only once."
+     },
+     {
+      "word": "orbit",
+      "definition": "A path around a planet or another object in space."
+     },
+     {
+      "word": "protective",
+      "definition": "Intended to keep something safe from damage."
+     },
+     {
+      "word": "recovery",
+      "definition": "The process of bringing something back safely."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why does SpaceX want to reuse both sections?",
+      "options": [
+       "To stop carrying satellites.",
+       "To reduce launch costs.",
+       "To avoid returning to Earth."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What prevented the booster’s recovery?",
+      "options": [
+       "A shortage of internet satellites.",
+       "A successful spacecraft catch.",
+       "A navigation problem."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/spacex-catches-starship-after-22-hours-in-space/level-2/9fee50dc1ec70151ef0d6929915611bb47b3b2a2469c66a0fbd76ea628c30dac.mp3"
+   },
+   "3": {
+    "content": "SpaceX first caught its returning Starship upper stage at Starbase, Texas, on November 14 after approximately 22.5 hours in space and 14 orbits of Earth. Returning to its launch site, the spacecraft was secured above the ground by two mechanical tower arms. The achievement advanced the company's ambition for a reusable launch system, without establishing that such a system is operationally ready.\n\nThe fifteenth test flight launched on November 13 and deployed 26 Starlink satellites after reaching orbit. During atmospheric re-entry, heat-resistant tiles protected Starship as it approached at around 27,000 kilometres per hour. The spacecraft subsequently slowed, adjusted its orientation and fired its engines before the catch.\n\nThe outcome was mixed. A navigation problem prevented the Super Heavy booster from returning to the tower, and it was lost over the Gulf of Mexico. Earlier booster catches therefore do not amount to recovering both stages in a single mission; that milestone remains unachieved.\n\nNor does recovery alone demonstrate economical reuse. Engineers must establish that inspection, repairs and preparation for another launch require manageable effort, particularly for the heat shield. NASA plans to use a Starship variant for lunar missions, while SpaceX hopes to reach Mars. Those ambitions also require solving problems such as transferring fuel between spacecraft in orbit. The catch demonstrates return capability, not readiness for routine space travel.",
+    "vocabulary": [
+     {
+      "word": "reusable",
+      "definition": "Designed to be used again rather than discarded after one use."
+     },
+     {
+      "word": "orientation",
+      "definition": "The direction or position in which an object is facing."
+     },
+     {
+      "word": "milestone",
+      "definition": "An important achievement marking progress toward a goal."
+     },
+     {
+      "word": "economical",
+      "definition": "Using money and other resources efficiently."
+     },
+     {
+      "word": "lunar",
+      "definition": "Relating to the Moon."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why does the article describe the outcome as mixed?",
+      "options": [
+       "Both stages were recovered but neither carried satellites.",
+       "The upper stage was caught, but the booster was lost.",
+       "The spacecraft never reached orbit."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What would help demonstrate economical reuse?",
+      "options": [
+       "Avoiding all checks of the heat shield.",
+       "Inspection and preparation that require manageable effort.",
+       "Discarding both stages after every launch."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Which additional capability is needed for the longer-term ambitions discussed?",
+      "options": [
+       "Transferring fuel between spacecraft in orbit.",
+       "Launching without any navigation system.",
+       "Replacing all satellites with mechanical arms."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/spacex-catches-starship-after-22-hours-in-space/level-3/44d7a60b81c95e80b3440b3229eeb3421bd4c9482a8116984873333268101bfb.mp3"
+   }
+  }
+ },
+ {
   "slug": "south-koreas-cashless-stores-leave-some-seniors-behind",
   "title": "South Korea's Cashless Stores Leave Some Seniors Behind",
   "summary": "Cards and phones replace cash, but older consumers still depend on banknotes and coins.",
