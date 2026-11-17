@@ -1,5 +1,279 @@
 [
  {
+  "slug": "indian-library-investigated-over-suspected-ai-written-books",
+  "title": "Indian Library Investigated over Suspected AI-Written Books",
+  "summary": "A novelist flagged false information and doubtful authorship; AI involvement remains unproven.",
+  "date": 1794902400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794843153437-cover.png",
+  "originalUrl": "https://www.bbc.com/news/articles/c54gne3plvrxo",
+  "reads": 1178,
+  "levels": {
+   "1": {
+    "content": "A new public library in India bought books with serious problems. Writer Perumal Murugan found wrong information and questioned who wrote them. One book called a famous collection of poems a person. He also said many books cost too much.\n\nPeople suspect that AI, computer tools that can write text, helped make these books. But this has not been proved. Wrong information alone does not show who or what wrote a book.\n\nA court ordered an investigation into the purchases. This means checking how the library bought the books. The state government also ordered checks of public libraries. The case raises questions about how libraries check books before paying for them.",
+    "vocabulary": [
+     {
+      "word": "suspect",
+      "definition": "To think something may be true without being certain."
+     },
+     {
+      "word": "proved",
+      "definition": "Shown to be true using evidence."
+     },
+     {
+      "word": "purchases",
+      "definition": "Things that have been bought."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Has AI use in these books been proved?",
+      "options": [
+       "Yes, it has been proved.",
+       "No, it has not been proved.",
+       "The reading does not mention AI."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/indian-library-investigated-over-suspected-ai-written-books/level-1/b301777770d11702682c2d47cca334860e45f1b651980a786e8a2936d2f346e3.mp3"
+   },
+   "2": {
+    "content": "A new public library in Coimbatore, India, is under investigation after concerns about books suspected of being written with AI. Novelist Perumal Murugan questioned factual errors, unfamiliar author names and unusually high prices. The controversy centres on the Periyar Arivulagam library in Tamil Nadu.\n\nMurugan said nearly 1,800 books in its Tamil section came from one little-known publisher. One disputed book described Naladiyar as a poet and philosopher. In fact, Naladiyar is a classical collection of verses, not a person. Murugan also questioned the identification numbers printed on many books.\n\nThe Madras High Court ordered the state's anti-corruption agency to investigate the purchases. The government ordered an internal audit, a careful check of public library collections. Writers and researchers also called for purchase records to be made public.\n\nIt remains unclear whether AI produced any disputed books. Errors and doubtful authorship justify checking their quality, but do not establish AI involvement. The case concerns both reliable information for readers and how public money was spent.",
+    "vocabulary": [
+     {
+      "word": "disputed",
+      "definition": "Questioned or not accepted as correct by everyone."
+     },
+     {
+      "word": "verses",
+      "definition": "Lines or groups of lines in poetry."
+     },
+     {
+      "word": "audit",
+      "definition": "An organised examination of records or materials."
+     },
+     {
+      "word": "authorship",
+      "definition": "The identity of the person who wrote something."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What error did the disputed book make about Naladiyar?",
+      "options": [
+       "It described a modern computer as an ancient poem.",
+       "It described a library as a collection of verses.",
+       "It described a collection of verses as a person."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What remains unclear?",
+      "options": [
+       "Whether AI produced any disputed books.",
+       "Whether the library is in India.",
+       "Whether the court ordered an investigation."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/indian-library-investigated-over-suspected-ai-written-books/level-2/3a6da52d4bc5b60af21b62c0eadc84ee46e0c67ea793e4baab119d1b359dbd67.mp3"
+   },
+   "3": {
+    "content": "Suspected AI-written books have triggered scrutiny of purchasing practices at a newly opened public library in Coimbatore, southern India. Novelist Perumal Murugan challenged the accuracy, authorship and pricing of volumes at Periyar Arivulagam, prompting questions about safeguards for publicly funded collections.\n\nMurugan alleged that nearly 1,800 books in the Tamil section came from a little-known publisher. One disputed title presents Naladiyar as a poet and philosopher, although it is a classical Tamil work containing 400 four-line verses. He also questioned author identities and book identification numbers. Separately, economist Jean Drèze told The Hindu that he had not written a book in another public library which named him as its author, according to the BBC.\n\nThe Madras High Court directed the state's anti-corruption agency to investigate purchases and freeze accounts linked to an accused publisher. The Tamil Nadu government ordered an internal audit. More than 160 writers, researchers, artists and publishers sought an independent inquiry and disclosure of procurement records. They questioned how disputed titles passed several layers of review.\n\nThe central qualification remains crucial: AI involvement has not been established. Factual errors and questionable attribution warrant investigation, but are not proof of machine authorship. Whether or not AI was involved, the controversy concerns verification before public spending and the reliability of information made available to readers.",
+    "vocabulary": [
+     {
+      "word": "scrutiny",
+      "definition": "Close and careful examination."
+     },
+     {
+      "word": "safeguards",
+      "definition": "Measures intended to prevent harm or wrongdoing."
+     },
+     {
+      "word": "procurement",
+      "definition": "The process of obtaining goods or services for an organisation."
+     },
+     {
+      "word": "attribution",
+      "definition": "The act of identifying someone as the source or creator of something."
+     },
+     {
+      "word": "verification",
+      "definition": "Checking whether something is true or accurate."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does Jean Drèze’s reported statement call into question?",
+      "options": [
+       "Whether Tamil Nadu has any libraries.",
+       "Whether he actually wrote a book bearing his name.",
+       "Whether all books cost the same amount."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Why did the group seek procurement records?",
+      "options": [
+       "To examine how disputed books passed the purchasing process.",
+       "To prove that every book was written by a machine.",
+       "To replace every library with an online shop."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Which conclusion is supported by the article?",
+      "options": [
+       "AI use has been ruled out by a completed inquiry.",
+       "The books warrant investigation, while AI involvement remains unestablished.",
+       "Factual errors conclusively prove AI authorship."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/indian-library-investigated-over-suspected-ai-written-books/level-3/f4a55e211ead6d49e1ab029c60e61130a5787a1bd5d55826fac1619d5e36d823.mp3"
+   }
+  }
+ },
+ {
+  "slug": "us-flights-grounded-nationwide-after-air-traffic-control-outage",
+  "title": "US Flights Grounded Nationwide After Air Traffic Control Outage",
+  "summary": "A communication failure halted departures for over four hours, with disruption continuing after flights resumed.",
+  "date": 1794873600000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794715814412-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1447,
+  "levels": {
+   "1": {
+    "content": "Most flights across the United States could not take off on November 13. Communication systems failed during work to replace old wires. These systems help people on the ground guide planes safely. Officials stopped departures to keep people safe.\n\nPlanes already in the sky could still land safely. The stop lasted over four hours. Flights could then leave again, but many were late or cancelled. Planes and their crews were in the wrong places.\n\nOfficials were still checking whether broken equipment or a work mistake caused the failure. They found no signs of a computer attack. They said a new AI system was not involved. Safe flying needs reliable information.",
+    "vocabulary": [
+     {
+      "word": "departures",
+      "definition": "Times when planes leave an airport."
+     },
+     {
+      "word": "crews",
+      "definition": "Groups of people who work on planes."
+     },
+     {
+      "word": "reliable",
+      "definition": "Able to be trusted."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did officials stop departures?",
+      "options": [
+       "To close every airport forever.",
+       "To keep people safe.",
+       "To change the weather."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/us-flights-grounded-nationwide-after-air-traffic-control-outage/level-1/6cb467f7a10ed8dcffc3f63f56af3281f32bbb64ed1d8642ce6386496659efe9.mp3"
+   },
+   "2": {
+    "content": "A communication failure stopped most flights from taking off across the United States on November 13. The Federal Aviation Administration ordered the nationwide pause because air traffic controllers needed reliable information to keep planes safely apart. Officials said more than 3,500 aircraft already flying landed safely.\n\nThe problem began during work to replace old copper wires with fibre-optic cables. According to transportation officials, a router, a device that directs information through a network, became overloaded. Communications and radar information at 22 regional control centres were affected. Investigators were still checking whether equipment or a work mistake caused the failure. Officials found no evidence of a cyberattack and said a new AI system was not involved.\n\nDepartures resumed after more than four hours, but disruption continued. Aircraft and crews were in the wrong places. A missing plane could delay its next flight, creating further problems elsewhere.\n\nBy Saturday evening, more than 6,400 flights scheduled that day had been cancelled. The incident showed why upgrading old technology while keeping flights moving is difficult.",
+    "vocabulary": [
+     {
+      "word": "reliable",
+      "definition": "Working well enough to be trusted."
+     },
+     {
+      "word": "overloaded",
+      "definition": "Given more work or information than it can handle."
+     },
+     {
+      "word": "resumed",
+      "definition": "Started again after stopping."
+     },
+     {
+      "word": "disruption",
+      "definition": "An interruption that prevents normal activity."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why did delays continue after departures resumed?",
+      "options": [
+       "Aircraft and crews were in the wrong places.",
+       "All pilots had stopped using radios.",
+       "Every airport had permanently closed."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What remained under investigation?",
+      "options": [
+       "Whether radar could ever track aircraft.",
+       "Whether the country had any control centres.",
+       "Whether equipment or a work mistake caused the failure."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/us-flights-grounded-nationwide-after-air-traffic-control-outage/level-2/6826d0402129b2a33b2dd091494a3ab5c38737f5785cc6a0275a0cff2b1efbf1.mp3"
+   },
+   "3": {
+    "content": "A nationwide ground stop exposed the dependence of US aviation on reliable information networks on November 13. The Federal Aviation Administration halted most departures after communications and radar information at 22 regional air traffic control centres were disrupted. Officials said more than 3,500 aircraft already airborne landed safely; the order did not require an immediate landing.\n\nAccording to transportation officials, the disruption began while a contractor was replacing copper communication wires with fibre-optic cables. A router responsible for directing network information became overloaded. Investigators were still determining whether faulty equipment or an error during the work caused the failure. Officials reported no evidence of a cyberattack and said the incident was unrelated to a new AI system being introduced.\n\nAlthough the stop ended after more than four hours on Friday evening, restoring departures did not restore normal schedules. Displaced aircraft and crews created cascading delays: an aircraft arriving late for one service could be unavailable for its next. By Saturday evening, more than 6,400 flights scheduled that day had been cancelled, with hundreds of Sunday's flights also affected.\n\nThe incident highlighted the challenge of modernising ageing infrastructure without interrupting daily operations. Officials said the control system was operating safely again, but airlines could need several days to recover. Technical recovery and operational recovery were therefore different milestones.",
+    "vocabulary": [
+     {
+      "word": "airborne",
+      "definition": "In flight rather than on the ground."
+     },
+     {
+      "word": "cascading",
+      "definition": "Spreading through a series of connected effects."
+     },
+     {
+      "word": "infrastructure",
+      "definition": "The basic equipment and systems needed for a service to function."
+     },
+     {
+      "word": "operational",
+      "definition": "Relating to the normal running of a service or organisation."
+     },
+     {
+      "word": "milestones",
+      "definition": "Important stages that mark progress."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What did the order mean for aircraft already airborne?",
+      "options": [
+       "They had to remain in the air until every departure resumed.",
+       "They could be guided to safe landings without an immediate landing order.",
+       "They all had to land immediately."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "How does the article explain cascading delays?",
+      "options": [
+       "Only one flight can use an aircraft each year.",
+       "Every delay is caused by bad weather.",
+       "A late aircraft can become unavailable for its next service."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why were technical and operational recovery different milestones?",
+      "options": [
+       "Airlines could recover only by removing radar permanently.",
+       "The control system had to stay offline until all cancellations ended.",
+       "Restoring the system did not immediately put aircraft and crews back on schedule."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/us-flights-grounded-nationwide-after-air-traffic-control-outage/level-3/b54cea75f03b2bb96ecc0c214140c17235124be9d112e3d2af59e764db998258.mp3"
+   }
+  }
+ },
+ {
   "slug": "taiwan-turns-oyster-shells-into-self-heating-meal-packs",
   "title": "Taiwan Turns Oyster Shells Into Self-Heating Meal Packs",
   "summary": "Processed shells release heat with water to warm prepared food.",
