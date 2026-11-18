@@ -1,5 +1,279 @@
 [
  {
+  "slug": "an-artist-uses-living-bacteria-to-create-photographs",
+  "title": "An Artist Uses Living Bacteria to Create Photographs",
+  "summary": "Lara Tabet works with microbes from Marseille’s waters; only some materials may keep changing.",
+  "date": 1794988800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794959446131-cover.png",
+  "originalUrl": "https://www.theguardian.com/artanddesign/2026/nov/16/paris-photo-review-2026",
+  "reads": 1023,
+  "levels": {
+   "1": {
+    "content": "Artist Lara Tabet makes pictures with help from bacteria. These are tiny living things. She collects water around Marseille, a city in France. Bacteria from the water change photographic film, the material used to make photographs. Colours and unusual shapes appear.\n\nTabet also studied medical biology. Her art brings that knowledge into photography. The pictures do not show streets or buildings. Instead, they show marks made by tiny life in the city's water.\n\nSome pictures are copied onto glass after the process stops. Some newer works use a different material and may keep changing. So not every artwork still has active bacteria. The artist chooses the materials, but living things also help shape the result.",
+    "vocabulary": [
+     {
+      "word": "bacteria",
+      "definition": "Very small living things that can be seen with a microscope."
+     },
+     {
+      "word": "film",
+      "definition": "A thin material used to make photographic images."
+     },
+     {
+      "word": "active",
+      "definition": "Still doing something or working."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Do all the artworks keep changing through living bacteria?",
+      "options": [
+       "Yes, all glass pictures do.",
+       "No, only some may change.",
+       "Yes, every artwork does."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/an-artist-uses-living-bacteria-to-create-photographs/level-1/c5c6fca35a88e3ac68bbc44baa9edc9f2719622a8d4cc8087edb5434d9ce3309.mp3"
+   },
+   "2": {
+    "content": "Lara Tabet, an artist trained in medical biology, uses bacteria to help create photographs. Her project, developed with curator Yasmine Chemali, was presented at Paris Photo in 2026. It explores Marseille through organisms collected from the city's water rather than through familiar views of its streets.\n\nThe bacteria interact with photographic film, altering its gelatin layer and producing abstract patterns. The colours come from changes to the photographic material. The images are not ordinary photographs of bacteria taken through a microscope: living organisms help produce the marks themselves.\n\nThe final objects can take different forms. Tabet can stop the biological process, scan the film and print the image onto glass. Some newer works instead use bioplastic materials that may continue to change. A glass print is therefore different from a work whose material remains biologically active.\n\nThis makes time part of the artwork. The artist establishes the conditions, but does not determine every detail. Viewers encounter a collaboration between human choices, photographic materials and microscopic life, rather than a fully controlled picture of a place.",
+    "vocabulary": [
+     {
+      "word": "curator",
+      "definition": "A person who helps choose and organize artworks for an exhibition."
+     },
+     {
+      "word": "abstract",
+      "definition": "Using shapes and colours rather than showing familiar objects directly."
+     },
+     {
+      "word": "scan",
+      "definition": "To make a digital copy of an image or object."
+     },
+     {
+      "word": "collaboration",
+      "definition": "Work created through contributions from more than one participant."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What role do the bacteria play?",
+      "options": [
+       "They help make marks by changing photographic material.",
+       "They only appear as subjects photographed through a microscope.",
+       "They choose the exhibition and write its labels."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "Why can some glass images remain stable while other works change?",
+      "options": [
+       "Every material is kept alive by the same biological process.",
+       "Glass prints cannot preserve images made by bacteria.",
+       "The process can be stopped before printing, while other supports may remain changeable."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/an-artist-uses-living-bacteria-to-create-photographs/level-2/7131d54edf5f283934e72d66c69731730ad792ac506ee6802784f73ef1a5a7fe.mp3"
+   },
+   "3": {
+    "content": "At Paris Photo 2026, Lara Tabet's work connected photographic image-making with biological activity. A medical biologist as well as an artist, Tabet developed the project with curator Yasmine Chemali, using microorganisms from waters around Marseille. The city is represented through material traces of its aquatic communities rather than conventional urban scenes.\n\nBacteria alter photographic film's gelatin layer, generating abstract configurations as they interact with its light-sensitive material. This is not simply microscopy translated into art: the organisms participate in producing the image, rather than merely appearing as its subject. Tabet provides conditions for a process whose details she cannot completely predetermine.\n\nThe distinction between image and exhibited object matters. In one approach, the biological process is halted, the film digitised and the result printed onto glass. New bioplastic supports, incorporating photographic materials, can instead remain susceptible to further change. This does not mean every finished piece contains active organisms or that a glass reproduction will keep evolving biologically.\n\nSuch work challenges the expectation that a photograph preserves a completed moment. For a changing material, duration belongs to the work itself, raising questions about what an owner or institution should preserve. The project places human authorship alongside living processes without erasing the artist's decisions. A preserved record of bacterial activity and an evolving biological artwork are related, but distinct, outcomes.",
+    "vocabulary": [
+     {
+      "word": "aquatic",
+      "definition": "Living in or related to water."
+     },
+     {
+      "word": "configurations",
+      "definition": "Arrangements of shapes or elements."
+     },
+     {
+      "word": "predetermine",
+      "definition": "To decide an outcome completely before it happens."
+     },
+     {
+      "word": "susceptible",
+      "definition": "Able or likely to be affected by something."
+     },
+     {
+      "word": "authorship",
+      "definition": "The role or responsibility of a creator in making a work."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why is this process more than photographing microorganisms?",
+      "options": [
+       "The artist uses only conventional portraits of the organisms.",
+       "The organisms replace every decision made by the artist.",
+       "The organisms affect the material that forms the image."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What does the distinction between a glass print and a changing support prevent?",
+      "options": [
+       "Assuming no finished object can record biological activity.",
+       "Assuming every displayed piece remains biologically active.",
+       "Assuming the project can be shown in an exhibition."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What conservation question follows from evolving materials?",
+      "options": [
+       "Whether all photography must avoid biological processes.",
+       "What should be preserved when continuing change is part of the work.",
+       "Whether microorganisms can be treated as exhibition visitors."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/an-artist-uses-living-bacteria-to-create-photographs/level-3/0540a82687f44f666edeeaa593c48669ead11c84e6c204470a73e566a456cd01.mp3"
+   }
+  }
+ },
+ {
+  "slug": "the-people-who-only-need-four-hours-sleep",
+  "title": "The people who only need four hours' sleep",
+  "summary": "Rare genetic changes may explain natural short sleep; most adults still need longer rest.",
+  "date": 1794960000000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794843472954-cover.png",
+  "originalUrl": "https://www.bbc.com/future/article/20261029-the-people-who-only-need-four-hours-sleep",
+  "reads": 1814,
+  "levels": {
+   "1": {
+    "content": "Aimee Pugh Bernard sometimes sleeps for only five hours. The American professor says she still feels full of energy. Some relatives also need little sleep.\n\nRare changes in genes may help explain this. Genes are instructions inside our bodies. A few people naturally feel rested after about four to six and a half hours. This is not the same as choosing to stay awake.\n\nMost adults need about seven to nine hours of sleep. Too little can hurt attention and memory. People may feel fine but still make more mistakes. Research does not show that we can train ourselves to need only four hours. These unusual sleepers are rare, not a model for everyone.",
+    "vocabulary": [
+     {
+      "word": "relatives",
+      "definition": "People in the same family."
+     },
+     {
+      "word": "genes",
+      "definition": "Instructions inside the body that help it grow and work."
+     },
+     {
+      "word": "attention",
+      "definition": "The act of watching, listening or thinking carefully."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Can everyone learn to need only four hours of sleep?",
+      "options": [
+       "Yes, anyone can learn this.",
+       "Yes, feeling fine proves it.",
+       "Research does not show this."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/the-people-who-only-need-four-hours-sleep/level-1/c304a8611c4fde864534daca9fce4e62db444ec23bdd553739ce0d6484233be8.mp3"
+   },
+   "2": {
+    "content": "American professor Aimee Pugh Bernard sometimes sleeps only five hours and still feels energetic. Her father and brother also need little sleep. She learned in 2019 that she carried a rare genetic change linked to familial natural short sleep.\n\nPeople with this condition may feel rested after roughly four to six and a half hours. They often wake without an alarm, even when they could stay in bed. Researchers at the University of California, San Francisco, study how genetic differences affect sleep. Experiments in mice suggest possible memory benefits, but do not establish protection from disease in humans.\n\nFor most adults, the usual advice remains about seven to nine hours. In a laboratory study, people limited to four or six hours in bed for two weeks performed progressively worse on attention tests. Their own feelings of sleepiness did not fully reflect that decline.\n\nNatural short sleep is therefore different from restricting sleep because of work or stress. Research offers no good reason to think people can train themselves to need only four hours.",
+    "vocabulary": [
+     {
+      "word": "genetic",
+      "definition": "Related to instructions passed on through families in DNA."
+     },
+     {
+      "word": "condition",
+      "definition": "A particular state of the body or health."
+     },
+     {
+      "word": "progressively",
+      "definition": "More and more as time passes."
+     },
+     {
+      "word": "restricting",
+      "definition": "Limiting the amount of something."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why can feeling awake be misleading?",
+      "options": [
+       "Everyone accurately notices every attention problem.",
+       "Attention can worsen more than people notice.",
+       "It proves that the brain never needs rest."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What can the mouse experiments establish about human disease?",
+      "options": [
+       "They do not establish disease protection in humans.",
+       "They show that four hours protects every adult.",
+       "They prove all short sleepers avoid disease."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/the-people-who-only-need-four-hours-sleep/level-2/7dbd073392c8697830b08504de6bb40e4c98d09cf912a8a7a515ec4d855e2365.mp3"
+   },
+   "3": {
+    "content": "Some people naturally function on markedly less sleep than most adults. American immunology professor Aimee Pugh Bernard reports feeling energetic after nights of about five hours; her family includes other short sleepers. In 2019, she learned she carried a rare genetic variant linked to familial natural short sleep, typically associated with roughly four to six and a half hours of rest.\n\nUCSF researchers investigate how such variants influence sleep regulation. Mice carrying a relevant mutation slept less and showed fewer memory problems, but animal findings do not establish protection from human disease. A comparison involving one pair of twins also suggested better attention after prolonged wakefulness in the carrier. That small observation cannot establish outcomes for all natural short sleepers.\n\nThe contrast with ordinary sleep restriction is crucial. Most adults are generally advised to obtain seven to nine hours. In a two-week laboratory study, limiting time in bed to four or six hours produced accumulating attention deficits, while reported sleepiness increased much less. Subjective confidence is therefore an unreliable substitute for measured performance.\n\nCommon sleep-related genetic differences generally have much smaller effects than these rare variants. Research may eventually inform treatments for sleep disorders, but that prospect is not an available solution. Neither familial examples nor experimental clues demonstrate that people can train away their usual sleep requirement.",
+    "vocabulary": [
+     {
+      "word": "variant",
+      "definition": "A form that differs from another version."
+     },
+     {
+      "word": "regulation",
+      "definition": "Control of how a process works."
+     },
+     {
+      "word": "deficits",
+      "definition": "Reductions or shortcomings in a function or ability."
+     },
+     {
+      "word": "Subjective",
+      "definition": "Based on personal experience or perception."
+     },
+     {
+      "word": "prospect",
+      "definition": "A possibility that may happen in the future."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What limits the conclusions from the twin comparison?",
+      "options": [
+       "The comparison included every family with natural short sleep.",
+       "A single pair cannot establish outcomes for all short sleepers.",
+       "The observation proves that every genetic variant is protective."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What does the sleep-restriction study suggest about self-assessment?",
+      "options": [
+       "Reported sleepiness can understate accumulating impairment.",
+       "People’s confidence reliably matches their attention performance.",
+       "Attention remains unchanged whenever participants feel only slightly sleepy."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "How should the possible future treatments be understood?",
+      "options": [
+       "As a treatment already available for every sleep disorder.",
+       "As a research possibility rather than an available solution.",
+       "As a proven way for anyone to train themselves to sleep four hours."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/the-people-who-only-need-four-hours-sleep/level-3/77c0ddb1c5806deba17095e69f85a9b6ce5d6063f07a17c04b47503e689d7b89.mp3"
+   }
+  }
+ },
+ {
   "slug": "indian-library-investigated-over-suspected-ai-written-books",
   "title": "Indian Library Investigated over Suspected AI-Written Books",
   "summary": "A novelist flagged false information and doubtful authorship; AI involvement remains unproven.",
