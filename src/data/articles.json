@@ -1,5 +1,279 @@
 [
  {
+  "slug": "uk-actors-could-control-use-of-ai-doubles",
+  "title": "UK Actors Could Control Use of AI Doubles",
+  "summary": "The three-year agreement still needs approval from union members.",
+  "date": 1795075200000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794963801350-cover.png",
+  "originalUrl": "https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections",
+  "reads": 1183,
+  "levels": {
+   "1": {
+    "content": "An AI double is a computer copy of a real actor. It can look or sound like that actor. In the UK, a group for actors has made a deal with film and TV producers. The group is called Equity.\n\nUnder the deal, producers would have to ask an actor before using their double. They would also have to pay the actor for using it. Permission would be for one film or TV project at a time.\n\nThe deal would last three years. Equity members still need to vote on it. The deal leaves one question open. Can companies use recordings of actors at work to teach AI how to make new scenes?",
+    "vocabulary": [
+     {
+      "word": "double",
+      "definition": "A copy of a person, made by a computer in this story."
+     },
+     {
+      "word": "deal",
+      "definition": "Something that two people or groups agree to do."
+     },
+     {
+      "word": "vote",
+      "definition": "To show your choice when a group makes a decision."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What would producers need before using an AI double?",
+      "options": [
+       "They would need the director's permission.",
+       "They would need the actor's permission.",
+       "They would need Equity's permission."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/uk-actors-could-control-use-of-ai-doubles/level-1/c9bd18257d521b52a733417e39c59291ebacaf2104e3cba8679d4a1b674ccc8d.mp3"
+   },
+   "2": {
+    "content": "Equity, the UK's performers' union, has reached a three-year agreement with Pact, a group representing film and TV producers. Nearly 8,000 eligible Equity members can vote on the deal until November 30. The union is asking them to vote in favour.\n\nThe proposal would give actors more control over digital doubles, computer-made versions of real performers. Producers would need to get permission to use a double and pay the actor when they use it. That permission would apply only to a specific project. A producer who had permission to use a double in one film could not rely on it for a different film.\n\nOne issue remains open, according to Equity. The agreement does not set out clear contract rules for using performances to train AI. Training can involve feeding earlier recordings into an AI system so it can learn from them. The proposed rules would therefore give actors a say in when a particular double appears on screen while leaving questions about how recordings are used to train the technology.",
+    "vocabulary": [
+     {
+      "word": "union",
+      "definition": "An organisation that represents workers and acts on their behalf."
+     },
+     {
+      "word": "eligible",
+      "definition": "Allowed to do something because you meet the requirements."
+     },
+     {
+      "word": "specific",
+      "definition": "Referring to one particular thing or case."
+     },
+     {
+      "word": "performances",
+      "definition": "The things people do when they act, play music or entertain an audience."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "How far would an actor's permission to use a double extend?",
+      "options": [
+       "It would cover a single project.",
+       "It would cover every film by the same producer.",
+       "It would cover any film by any producer."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What issue does Equity say remains open?",
+      "options": [
+       "How performances may be used to train AI.",
+       "Whether producers would pay for using a double.",
+       "Whether Equity members can vote on the deal."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/uk-actors-could-control-use-of-ai-doubles/level-2/ecdfd2a4cb8984b822360b6cf9aa4b2857ea983c3d15d7dbd054060109d5b795.mp3"
+   },
+   "3": {
+    "content": "Equity and the UK producers' association Pact have negotiated a three-year agreement that would give film and television performers more control over the use of their digital replicas. The deal is subject to a ballot of nearly 8,000 Equity members, which closes on November 30. With the union recommending approval, the proposed terms would run from January 2027 through December 2029.\n\nThe agreement would tie consent to a particular production, so a producer could not carry permission from one project into another. Performers would be entitled to payment when their replicas were used. Producers would also have to restrict access to people with a legitimate business need and take reasonable steps to protect replicas against unauthorised use or copying.\n\nEquity says the deal leaves a separate contractual issue unresolved. It establishes no explicit protections for the use of recorded performances as AI training material. The distinction matters because the footage captured for a production can also be used to create a replica without a separate scan. An actor's decision about whether a particular digital double may appear on screen concerns a specific use. The terms on replica use leave open the wider question of how existing performances may be used to develop AI systems.",
+    "vocabulary": [
+     {
+      "word": "replicas",
+      "definition": "Copies that reproduce the appearance or other features of the original."
+     },
+     {
+      "word": "ballot",
+      "definition": "A formal vote used to decide a question or choose a candidate."
+     },
+     {
+      "word": "consent",
+      "definition": "Permission given by someone for an action that affects them."
+     },
+     {
+      "word": "legitimate",
+      "definition": "Justified by a valid reason or permitted under the relevant rules."
+     },
+     {
+      "word": "contractual",
+      "definition": "Relating to the obligations or terms in a contract."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What determines the scope of permission under the proposed terms?",
+      "options": [
+       "The permission follows the producer across projects.",
+       "The permission lasts for the entire three-year agreement.",
+       "The permission applies to the production for which it was given."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "How would producers have to manage access to replicas?",
+      "options": [
+       "They would have to give the whole crew access.",
+       "They would have to limit access to people with a valid business reason.",
+       "They would have to give members of the union access on request."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "Why does the reading mention footage captured for a production?",
+      "options": [
+       "It shows how a replica could be made without a separate scan.",
+       "It shows how producers would calculate payment for replica use.",
+       "It shows why producers would allow everyone on set to access a replica."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/uk-actors-could-control-use-of-ai-doubles/level-3/259c7eef4be6c0b0c6083327b982136d18f077a26bd23d74144cdcaca7f1f895.mp3"
+   }
+  }
+ },
+ {
+  "slug": "women-lead-the-2027-grammy-nominations",
+  "title": "Women Lead the 2027 Grammy Nominations",
+  "summary": "Raye leads with 11, and Beyoncé reaches 100 across her career.",
+  "date": 1795046400000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794964028443-cover.png",
+  "originalUrl": "https://www.theguardian.com/music/2026/nov/16/grammy-nominations-2027-female-artists",
+  "reads": 1403,
+  "levels": {
+   "1": {
+    "content": "The Grammy Awards are prizes for music. The list for the 2027 awards is out. A nomination means someone has a chance to win. Raye, a singer from Britain, has the most nominations this year. She has eleven. Rosalía has nine, and Olivia Rodrigo has seven.\n\nAll three singers have a chance to win Album of the Year. Seven of the eight albums on that list are by women. Beyoncé also reached a big number. She now has 100 Grammy nominations from all her years in music.\n\nThe winners will be chosen later. The awards show is planned for February 7, 2027, in Los Angeles.",
+    "vocabulary": [
+     {
+      "word": "prizes",
+      "definition": "Things given to people who win."
+     },
+     {
+      "word": "nomination",
+      "definition": "A place on the list of people who may win a prize."
+     },
+     {
+      "word": "chosen",
+      "definition": "Picked from a group."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Who has the most nominations this year?",
+      "options": [
+       "Olivia Rodrigo has the most.",
+       "Rosalía has the most.",
+       "Raye has the most."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/women-lead-the-2027-grammy-nominations/level-1/e1d155da85481dea8d6745565a511f313ab9aa10f03aa08e4973efe232b44189.mp3"
+   },
+   "2": {
+    "content": "Raye leads the 2027 Grammy nominations with eleven. The Recording Academy released the list in November 2026. Rosalía received nine nominations, while Olivia Rodrigo received seven. All three appear in Album of the Year, where seven of the eight nominated albums are by women.\n\nThe same song can compete for different awards. For example, Raye's recording of “Where Is My Husband!” is up for Record of the Year, which recognises the recorded performance and its production. The track is also up for Song of the Year, an award for the people who wrote it.\n\nBeyoncé reached a different milestone. Her nomination for Best R&B Solo Performance brought her career total to 100, the highest for any artist. That total covers many years, while Raye's eleven refer to this round alone.\n\nThe list tells listeners who is in the running. The winners will be revealed at the awards on February 7, 2027. The ceremony is scheduled to take place in Los Angeles.",
+    "vocabulary": [
+     {
+      "word": "released",
+      "definition": "Made available for people to see or use."
+     },
+     {
+      "word": "nominated",
+      "definition": "Chosen to be considered for an award."
+     },
+     {
+      "word": "production",
+      "definition": "The work of making a recording."
+     },
+     {
+      "word": "milestone",
+      "definition": "An important point in a long process or career."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What does Song of the Year recognise?",
+      "options": [
+       "It recognises the people who wrote the song.",
+       "It recognises the staff who produced the recording.",
+       "It recognises the people who made the video."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What does Beyoncé’s total of 100 cover?",
+      "options": [
+       "It covers her wins in one year.",
+       "It covers her entries in a single category.",
+       "It covers nominations across her career."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/women-lead-the-2027-grammy-nominations/level-2/1834847de8ddad346654c4c61e10aa9e5d09d94d957057fa7d4d0cfde5d78bf2.mp3"
+   },
+   "3": {
+    "content": "The nominations for the 2027 Grammy Awards put women at the front of several major races. The Recording Academy's November announcement placed British singer-songwriter Raye first overall with eleven nominations, followed by Rosalía with nine. Olivia Rodrigo received seven, a tally shared by several other artists. Women account for seven of the eight entries in Album of the Year.\n\nThe headline numbers reflect the range of work that the Grammys recognise. Raye's “Where Is My Husband!” features in both Record of the Year and Song of the Year. The first honours the finished recording, including contributions from performers and production staff. The second honours the composition and credits its songwriters. One release can therefore compete on the strength of both the writing and the recording.\n\nThe announcement also marked a career milestone for Beyoncé. A nomination for Best R&B Solo Performance took her to 100, the first artist to reach that figure. Her total spans multiple editions of the awards. Raye's lead measures nominations for a single edition.\n\nThe nominations give a picture of where recognition is concentrated at this stage of voting. Each category still has its own contest, and the final awards remain to be decided. The Los Angeles ceremony is scheduled for February 7, 2027.",
+    "vocabulary": [
+     {
+      "word": "tally",
+      "definition": "The total number counted."
+     },
+     {
+      "word": "composition",
+      "definition": "A piece of music as written."
+     },
+     {
+      "word": "spans",
+      "definition": "Covers a length of time or a range."
+     },
+     {
+      "word": "editions",
+      "definition": "Individual occasions in a series of recurring events."
+     },
+     {
+      "word": "concentrated",
+      "definition": "Gathered mainly in particular places or groups."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why can the same release compete for two major Grammy awards?",
+      "options": [
+       "The awards are both limited to the lead singer.",
+       "The awards recognise different aspects of the same release.",
+       "The awards use identical criteria for a release."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What does the Album of the Year list show?",
+      "options": [
+       "Women have seven nominations each in this category.",
+       "Women have already won seven awards for their albums.",
+       "Women are behind seven of the eight nominated albums."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What does the announcement establish about the awards?",
+      "options": [
+       "It establishes who is competing before the final awards are decided.",
+       "It establishes the winners across all categories.",
+       "It establishes that the top nominee will win the most prizes."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/women-lead-the-2027-grammy-nominations/level-3/db7d93d3ada985c89bc19f99d388d7e84440920b856233d109cc416c9ea35099.mp3"
+   }
+  }
+ },
+ {
   "slug": "an-artist-uses-living-bacteria-to-create-photographs",
   "title": "An Artist Uses Living Bacteria to Create Photographs",
   "summary": "Lara Tabet works with microbes from Marseille’s waters; only some materials may keep changing.",
