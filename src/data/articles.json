@@ -1,5 +1,142 @@
 [
  {
+  "slug": "china-tests-a-mining-robot-over-5000-metres-deep",
+  "title": "China Tests a Mining Robot Over 5,000 Metres Deep",
+  "summary": "A Pacific trial collects metal-rich rocks, while environmental questions remain.",
+  "date": 1795305600000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794963502404-cover.png",
+  "originalUrl": "https://www.scmp.com/news/china/science/article/3374701/china-taps-pacific-metals-trove-first-large-scale-seabed-ore-mining-trial",
+  "reads": 1496,
+  "levels": {
+   "1": {
+    "content": "A Chinese mining robot has collected rocks deep in the Pacific Ocean. China Minmetals says the test took place 5,330 metres below the sea's surface. The machine had to work in cold water under great pressure.\n\nThe rocks contain several metals. Some of these metals are used in batteries for electric cars. Companies want to find new places to get them. But these rocks are also part of the ocean floor, where animals live.\n\nMining can damage animals' homes. Machines can also lift mud into the water. Scientists still need to understand the possible harm. This was a collection test. It does not show that a business can mine there safely.",
+    "vocabulary": [
+     {
+      "word": "pressure",
+      "definition": "A strong force pushing on something."
+     },
+     {
+      "word": "contain",
+      "definition": "To have something inside."
+     },
+     {
+      "word": "damage",
+      "definition": "To hurt or break something."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What did the robot collect?",
+      "options": [
+       "It collected sea animals.",
+       "It collected car batteries.",
+       "It collected metal-rich rocks."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/china-tests-a-mining-robot-over-5000-metres-deep/level-1/a5046e18a372d5e7db47ab6aef954e5fc57a4d02e2c90198327226dd47605710.mp3"
+   },
+   "2": {
+    "content": "A mining robot has collected metal-rich rocks from the Pacific Ocean at a depth of 5,330 metres. China Minmetals announced the trial in November 2026. Its machine worked on the soft seabed under high pressure and in cold water.\n\nThe rocks are called polymetallic nodules because they contain several metals, including nickel, cobalt, manganese and copper. Some of these metals are used in electric-car batteries. Recovering nodules could provide another source of materials for industry, but collecting rocks is only one part of producing usable metals.\n\nThere are also environmental concerns. Mining vehicles can disturb the seabed and destroy places where animals live. They can stir up clouds of sediment, the small particles lying on the bottom. These clouds may affect animals beyond the collection area.\n\nThe company says its team worked to reduce disturbance. However, an equipment trial cannot establish that commercial mining would be environmentally safe. Researchers still need to understand the wider effects before anyone can confidently judge the balance between obtaining metals and protecting marine life.",
+    "vocabulary": [
+     {
+      "word": "trial",
+      "definition": "A test to see how something works."
+     },
+     {
+      "word": "nodules",
+      "definition": "Small rounded pieces of material, here rocks containing metals."
+     },
+     {
+      "word": "sediment",
+      "definition": "Small particles that settle on the bottom of water."
+     },
+     {
+      "word": "disturbance",
+      "definition": "A change that interrupts or damages existing conditions."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why are companies interested in the rocks?",
+      "options": [
+       "They can remove all pollution from the ocean.",
+       "They contain metals that industry can use.",
+       "They are finished batteries ready for cars."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What does the equipment trial leave uncertain?",
+      "options": [
+       "Whether commercial mining would be environmentally safe.",
+       "Whether the machine worked underwater.",
+       "Whether the rocks contain more than one metal."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/china-tests-a-mining-robot-over-5000-metres-deep/level-2/369c6d77a63580fa6bb6fd4644e5c7ea3abed08e8b047b7be226cc62c801db32.mp3"
+   },
+   "3": {
+    "content": "China has tested a robotic collector 5,330 metres beneath the eastern Pacific, demonstrating equipment designed to gather metal-bearing rocks from the seabed. China Minmetals announced the trial in November 2026, reporting sustained operation despite cold conditions, high pressure and soft sediment. This was a collection trial, rather than evidence that a commercial mine had begun operating.\n\nThe target deposits are polymetallic nodules, which contain manganese, nickel, cobalt and copper. Their value lies partly in industrial applications, including batteries and electrical equipment. However, a mineral resource is not the same as a commercially recoverable supply: collecting nodules does not itself establish the viability of transporting, processing and selling their metals.\n\nNor is the seabed an empty storehouse. Extraction can remove habitats and organisms, while disturbed sediment can form plumes that affect surrounding communities. Some animals depend on particles suspended in the water for food, so changes to those conditions can matter beyond a machine's immediate path. The extent of such effects remains uncertain.\n\nMinmetals says its engineers sought to minimise seabed disturbance. That ambition should be distinguished from independent evidence of ecological safety. The trial demonstrates progress in operating equipment at extreme depth; it leaves open the harder question of whether obtaining these materials can be reconciled with protecting deep-ocean ecosystems.",
+    "vocabulary": [
+     {
+      "word": "sustained",
+      "definition": "Continuing for a period of time."
+     },
+     {
+      "word": "viability",
+      "definition": "The ability of a plan or business to work successfully."
+     },
+     {
+      "word": "plumes",
+      "definition": "Clouds of material spreading through water or air."
+     },
+     {
+      "word": "suspended",
+      "definition": "Floating within a liquid rather than resting on its bottom."
+     },
+     {
+      "word": "reconciled",
+      "definition": "Made compatible so that different aims can be achieved together."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why does collecting nodules not establish a commercially recoverable supply?",
+      "options": [
+       "The nodules contain no metals with industrial uses.",
+       "A collector automatically proves the metals can be sold profitably.",
+       "Transporting and processing them must also be viable."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "How might disturbance affect animals outside the collection path?",
+      "options": [
+       "All seabed animals move away before mining begins.",
+       "Sediment plumes can alter conditions in surrounding areas.",
+       "Collecting rocks prevents particles from entering the water."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "How should the company’s aim to minimise disturbance be understood?",
+      "options": [
+       "It proves that every deep-sea ecosystem is protected.",
+       "It establishes that commercial mining has already begun.",
+       "It is an engineering aim, not independent proof of ecological safety."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/china-tests-a-mining-robot-over-5000-metres-deep/level-3/4e7ad6780990510fc359beb4b43fd91586dade4f7e1b6805d83089edad0dc395.mp3"
+   }
+  }
+ },
+ {
   "slug": "police-recover-stolen-pokemon-cards-worth-about-15000",
   "title": "Police Recover Stolen Pokémon Cards Worth About $15,000",
   "summary": "Two Japanese tourists were arrested after a box of 240 cards went missing.",
