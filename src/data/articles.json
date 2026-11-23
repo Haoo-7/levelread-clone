@@ -1,5 +1,279 @@
 [
  {
+  "slug": "k-pop-company-plans-a-robot-girl-group",
+  "title": "K-Pop Company Plans a Robot Girl Group",
+  "summary": "Galaxy Corporation hopes to stage a small robot concert in Macau in December 2026.",
+  "date": 1795420800000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1795307044209-cover.png",
+  "originalUrl": "manual-input:user-supplied-copy",
+  "reads": 1266,
+  "levels": {
+   "1": {
+    "content": "A company in South Korea wants to start a K-pop girl group. The dancers would be robots that move like people. The company, Galaxy Corporation, plans to start the group in January 2027. First, it hopes to hold a small concert in Macau in December 2026.\n\nPeople can already see robots dance at a park in Seoul. To dance together, the robots need to move at the same time. They also need to leave space between each other.\n\nGalaxy has yet to show what the new group will look like. It costs a lot to buy and fix robots. Galaxy still has to find out if enough fans will pay to see the group.",
+    "vocabulary": [
+     {
+      "word": "concert",
+      "definition": "A show where people can hear music."
+     },
+     {
+      "word": "space",
+      "definition": "An empty area between people or things."
+     },
+     {
+      "word": "fans",
+      "definition": "People who really like and follow a performer or group."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Who would dance in the new group?",
+      "options": [
+       "Robots would dance in the group.",
+       "Human dancers would dance in the group.",
+       "Cartoon characters would dance in the group."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/k-pop-company-plans-a-robot-girl-group/level-1/89366f83491bc38d827095b875d5aead76eb14456dc5e66eaa770064e37e7c67.mp3"
+   },
+   "2": {
+    "content": "Galaxy Corporation, the South Korean agency behind K-pop star G-Dragon, plans to introduce a girl group made up of humanoid robots in January 2027. These are machines shaped like people. Galaxy hopes to hold a small robot concert in Macau in December 2026, before the planned debut.\n\nThe company is already testing robot performances at Galaxy Robot Park, which opened in Seoul in August 2026. It is working with Chinese partners, including Unitree Robotics, to bring together Chinese hardware and Korean software, music and show design.\n\nEngineers can record human dance moves and turn them into instructions for robots. They must adjust those movements so the machines can keep their balance. In a fast group dance, the robots also have to stay in time and leave enough space to avoid hitting one another.\n\nGalaxy has yet to reveal what the group will look like. Its bigger test may be whether audiences come back. Buying and repairing robots is expensive, and it remains unclear whether enough fans will pay to see them perform.",
+    "vocabulary": [
+     {
+      "word": "debut",
+      "definition": "A performer's first public appearance."
+     },
+     {
+      "word": "hardware",
+      "definition": "The physical parts of a machine or computer system."
+     },
+     {
+      "word": "adjust",
+      "definition": "To change something slightly so it works better."
+     },
+     {
+      "word": "balance",
+      "definition": "The ability to stay steady without falling."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why do engineers adjust the recorded dance moves?",
+      "options": [
+       "They want the robots to choose new music.",
+       "They want the robots to dance without a program.",
+       "They want the robots to keep their balance."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What question about the business remains open?",
+      "options": [
+       "Will Galaxy attract enough paying fans?",
+       "Will Galaxy need to find a Chinese robotics partner?",
+       "Will Galaxy need to find a place to test robot shows?"
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/k-pop-company-plans-a-robot-girl-group/level-2/2f4a2073229acf941f378e935b611432b46e4a0672578013d49b481685e937fe.mp3"
+   },
+   "3": {
+    "content": "Galaxy Corporation, the South Korean agency behind G-Dragon, plans to debut a humanoid robot girl group in January 2027. It hopes to stage a small concert in Macau in December 2026. Working with Chinese partners including Unitree Robotics, Galaxy aims to combine Chinese hardware with Korean software, music and choreography.\n\nThe company opened Galaxy Robot Park in Seoul in August 2026 and says more than 33,000 people have paid to visit since trial operations began. At the park, robots have danced to K-pop and performed taekwondo alongside humans. Recording human movement gives engineers a starting point, but they still have to adapt the steps to each machine's balance and coordinate several robots so they stay in time and maintain safe spacing.\n\nCEO Choi Yong-ho believes fans could follow robot performers much as they follow human or virtual stars. Galaxy also envisages separate virtual AI and human girl groups that could share music and audiences. In K-pop, however, attachment often grows through personalities, interviews and exchanges with fans. Precise choreography alone may give audiences little reason to form that bond.\n\nGalaxy has yet to unveil the group's final appearance or format. The park's visitor count indicates interest in robot entertainment, but whether ticket sales can cover the cost of buying, maintaining and repairing the machines remains an open question.",
+    "vocabulary": [
+     {
+      "word": "choreography",
+      "definition": "The planned movements and patterns of a dance performance."
+     },
+     {
+      "word": "coordinate",
+      "definition": "To organize separate actions so they work together at the right time."
+     },
+     {
+      "word": "envisages",
+      "definition": "Imagines or expects something as a possible future development."
+     },
+     {
+      "word": "attachment",
+      "definition": "A feeling of affection or personal connection to someone or something."
+     },
+     {
+      "word": "unveil",
+      "definition": "To show or announce something publicly for the first time."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What can recordings of human movements give engineers?",
+      "options": [
+       "They give engineers steps that robots can use without adjustments.",
+       "They give engineers a way to dispense with group timing.",
+       "They give engineers steps to adapt to the robots' physical limits."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "Why might precise dancing alone fail to build a following?",
+      "options": [
+       "Fans also connect with performers through personality and interaction.",
+       "Fans mainly follow performers who have mastered taekwondo.",
+       "Fans tend to prefer seeing different choreography at every show."
+      ],
+      "answer": 0
+     },
+     {
+      "question": "What can be concluded from the park's visitor count?",
+      "options": [
+       "The concert plans have already turned a profit.",
+       "People have paid to visit the park, while the concert business remains unproven.",
+       "The robot group already has an established fan base."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/k-pop-company-plans-a-robot-girl-group/level-3/24581d1b1ea7dd65d16f9b789d3315c3227f4d0e426e66102ec8cb998f7fe365.mp3"
+   }
+  }
+ },
+ {
+  "slug": "south-korea-checks-students-glasses-to-stop-ai-cheating",
+  "title": "South Korea Checks Students' Glasses to Stop AI Cheating",
+  "summary": "Staff will cover clothing buttons and bring in about 8,400 extra supervisors.",
+  "date": 1795392000000,
+  "cover": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/covers/1794963865965-cover.png",
+  "originalUrl": "https://apnews.com/article/e25b5612dbf4bd09fdf9197254c4547e",
+  "reads": 1549,
+  "levels": {
+   "1": {
+    "content": "On November 19, students in South Korea will take a big test. The test helps decide who can go to college. People who watch the test will check students' glasses. Students who wear glasses will put them on their desks. Smart glasses are not allowed.\n\nStaff will put stickers over buttons on students' clothes. Small cameras can hide in everyday things. The country plans to send about 8,400 more people to help watch the test.\n\nThe checks come after a man said he cheated on a different test for people who want to work with taxes. He said he used a small camera and AI, a computer tool that can give answers.",
+    "vocabulary": [
+     {
+      "word": "college",
+      "definition": "A school where people can study after high school."
+     },
+     {
+      "word": "stickers",
+      "definition": "Small pieces of paper or plastic that stick to things."
+     },
+     {
+      "word": "cheated",
+      "definition": "Broke the rules to do better or win."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "What will staff check on students' desks?",
+      "options": [
+       "They will check students' shoes.",
+       "They will check students' glasses.",
+       "They will check students' lunch boxes."
+      ],
+      "answer": 1
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-korea-checks-students-glasses-to-stop-ai-cheating/level-1/aa4c1afbae08d7e20a025dbaa5479264fecd3d0cfb6439a54b6d8f25e90af5a0.mp3"
+   },
+   "2": {
+    "content": "South Korea announced new checks for its November 19 college entrance exam after a cheating case in a separate professional test. The person who scored highest on the national tax accountant exam admitted that he had used a hidden camera, a smartphone and generative AI to get answers.\n\nBefore the college exam begins, anyone wearing glasses will place them on the desk for inspection. Staff will look for smart glasses and cover buttons on clothing with stickers to guard against hidden cameras. Smart glasses and phones are banned, so anyone who brings one must hand it in before the exam starts.\n\nThe government plans to add about 8,400 supervisors. Some will specialise in checking smart devices, while others will work in the corridors. The extra staff will help carry out the checks across roughly 1,300 test sites.\n\nMore than 550,000 people are expected to sit the exam. Officials say the checks are meant to protect the fairness of a test that can shape students' university choices.",
+    "vocabulary": [
+     {
+      "word": "admitted",
+      "definition": "Said that something was true, especially something wrong you had done."
+     },
+     {
+      "word": "inspection",
+      "definition": "A close look to make sure something follows the rules."
+     },
+     {
+      "word": "banned",
+      "definition": "Officially not allowed."
+     },
+     {
+      "word": "corridors",
+      "definition": "Passages inside a building that connect rooms."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Which exam did the person say he had cheated on?",
+      "options": [
+       "He admitted cheating on a university language exam.",
+       "He admitted cheating on the national tax accountant exam.",
+       "He admitted cheating on the November 19 college entrance exam."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "What should someone do if they bring a phone to the test site?",
+      "options": [
+       "They should hand it in before the exam starts.",
+       "They should wait until the test ends to hand it in.",
+       "They should keep it on their desk for the whole test."
+      ],
+      "answer": 0
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-korea-checks-students-glasses-to-stop-ai-cheating/level-2/d1912fd743b4353f4eedbaeff3d52e1465d9802070dbc56a4132a9d466a8c899.mp3"
+   },
+   "3": {
+    "content": "South Korea outlined tighter security on November 17 for its annual university entrance examination, scheduled for November 19. The announcement followed an admission from the highest scorer on a separate national tax accountant examination. He said he had obtained answers using a concealed camera, a smartphone and generative AI. The incident heightened concern that exam supervisors might overlook electronic devices disguised as ordinary objects.\n\nFor the entrance test, candidates who wear glasses will place them on their desks for a preliminary inspection. Supervisors will also check for smart glasses during the exam and cover clothing buttons with stickers as a precaution against concealed cameras. Candidates who bring prohibited electronics must surrender them before the first session. Keeping a banned device can count as cheating even if it goes unused.\n\nThe government announced roughly 8,400 additional staff, including specialists in identifying smart devices and supervisors assigned to corridors. More than 550,000 candidates are expected at some 1,300 sites, so the plan requires consistent checks on a national scale.\n\nThe government's stated aim is to preserve confidence that candidates are assessed on their own work. The measures address the risk of unauthorised access to outside help during the exam. How well those checks will work remains to be seen.",
+    "vocabulary": [
+     {
+      "word": "concealed",
+      "definition": "Hidden from view or deliberately kept from being noticed."
+     },
+     {
+      "word": "preliminary",
+      "definition": "Done before the main part of an activity."
+     },
+     {
+      "word": "precaution",
+      "definition": "A step taken in advance to reduce the chance of harm."
+     },
+     {
+      "word": "surrender",
+      "definition": "Hand over something, especially when required to do so."
+     },
+     {
+      "word": "unauthorised",
+      "definition": "Done without official permission."
+     }
+    ],
+    "quiz": [
+     {
+      "question": "Why are clothing buttons included in the inspection plan?",
+      "options": [
+       "Officials want to check that everyone wears the same clothes.",
+       "Officials want to keep people from using cameras hidden in clothing.",
+       "Officials want to use the stickers to identify different test rooms."
+      ],
+      "answer": 1
+     },
+     {
+      "question": "How can keeping a prohibited device be treated under the exam rules?",
+      "options": [
+       "It is allowed if the device is never switched on.",
+       "It counts as cheating only if staff see the candidate using it.",
+       "It can count as cheating even when the device is never used."
+      ],
+      "answer": 2
+     },
+     {
+      "question": "What does the article establish about the new checks?",
+      "options": [
+       "Officials have proved that the checks stop all attempts to cheat.",
+       "Officials have established that using AI improves the fairness of exam results.",
+       "Officials announced them to protect fairness, and their effectiveness is still unknown."
+      ],
+      "answer": 2
+     }
+    ],
+    "audio": "https://news-in-levels-1252061619.cos.ap-guangzhou.myqcloud.com/audios/south-korea-checks-students-glasses-to-stop-ai-cheating/level-3/39c11f9f9bfd7ee68375f470cdffb04161f58623a94bf225b0f86354d5a2dafc.mp3"
+   }
+  }
+ },
+ {
   "slug": "china-tests-a-mining-robot-over-5000-metres-deep",
   "title": "China Tests a Mining Robot Over 5,000 Metres Deep",
   "summary": "A Pacific trial collects metal-rich rocks, while environmental questions remain.",
